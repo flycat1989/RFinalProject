@@ -1,0 +1,178 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Fairfield County, CT (09001)	1979	6,722	802,964	837.1
+Fairfield County, CT (09001)	1980	6,926	807,648	857.6
+Fairfield County, CT (09001)	1981	6,994	813,434	859.8
+Fairfield County, CT (09001)	1982	6,836	818,336	835.4
+Fairfield County, CT (09001)	1983	6,991	822,166	850.3
+Fairfield County, CT (09001)	1984	7,011	825,559	849.2
+Fairfield County, CT (09001)	1985	7,148	831,122	860.0
+Fairfield County, CT (09001)	1986	7,016	832,440	842.8
+Fairfield County, CT (09001)	1987	6,938	829,169	836.7
+Fairfield County, CT (09001)	1988	7,101	827,487	858.1
+Fairfield County, CT (09001)	1989	7,051	829,414	850.1
+Fairfield County, CT (09001)	1990	6,983	827,940	843.4
+Fairfield County, CT (09001)	1991	6,818	833,350	818.1
+Fairfield County, CT (09001)	1992	7,008	834,593	839.7
+Fairfield County, CT (09001)	1993	7,194	839,157	857.3
+Fairfield County, CT (09001)	1994	7,041	842,636	835.6
+Fairfield County, CT (09001)	1995	7,122	848,158	839.7
+Fairfield County, CT (09001)	1996	7,180	854,931	839.8
+Fairfield County, CT (09001)	1997	7,064	861,412	820.0
+Fairfield County, CT (09001)	1998	7,035	869,017	809.5
+Fairfield County, CT (09001)	Total	140,179	16,650,933	841.9
+Hartford County, CT (09003)	1979	6,661	806,063	826.4
+Hartford County, CT (09003)	1980	7,105	808,200	879.1
+Hartford County, CT (09003)	1981	6,823	812,747	839.5
+Hartford County, CT (09003)	1982	6,909	813,015	849.8
+Hartford County, CT (09003)	1983	6,996	819,110	854.1
+Hartford County, CT (09003)	1984	7,244	822,141	881.1
+Hartford County, CT (09003)	1985	7,220	827,229	872.8
+Hartford County, CT (09003)	1986	7,415	835,244	887.8
+Hartford County, CT (09003)	1987	7,421	844,420	878.8
+Hartford County, CT (09003)	1988	7,452	854,031	872.6
+Hartford County, CT (09003)	1989	7,409	853,794	867.8
+Hartford County, CT (09003)	1990	7,257	852,117	851.6
+Hartford County, CT (09003)	1991	7,557	854,542	884.3
+Hartford County, CT (09003)	1992	7,476	851,904	877.6
+Hartford County, CT (09003)	1993	7,841	851,357	921.0
+Hartford County, CT (09003)	1994	8,195	850,551	963.5
+Hartford County, CT (09003)	1995	8,186	847,067	966.4
+Hartford County, CT (09003)	1996	8,142	847,250	961.0
+Hartford County, CT (09003)	1997	8,132	846,933	960.2
+Hartford County, CT (09003)	1998	8,155	850,320	959.1
+Hartford County, CT (09003)	Total	149,596	16,748,035	893.2
+Litchfield County, CT (09005)	1979	1,370	155,570	880.6
+Litchfield County, CT (09005)	1980	1,408	156,778	898.1
+Litchfield County, CT (09005)	1981	1,406	158,842	885.2
+Litchfield County, CT (09005)	1982	1,367	159,407	857.6
+Litchfield County, CT (09005)	1983	1,450	160,677	902.4
+Litchfield County, CT (09005)	1984	1,465	160,941	910.3
+Litchfield County, CT (09005)	1985	1,528	162,397	940.9
+Litchfield County, CT (09005)	1986	1,506	165,089	912.2
+Litchfield County, CT (09005)	1987	1,435	167,526	856.6
+Litchfield County, CT (09005)	1988	1,527	169,833	899.1
+Litchfield County, CT (09005)	1989	1,473	172,695	852.9
+Litchfield County, CT (09005)	1990	1,388	174,035	797.5
+Litchfield County, CT (09005)	1991	1,454	175,419	828.9
+Litchfield County, CT (09005)	1992	1,513	176,143	859.0
+Litchfield County, CT (09005)	1993	1,454	177,094	821.0
+Litchfield County, CT (09005)	1994	1,570	177,515	884.4
+Litchfield County, CT (09005)	1995	1,504	178,067	844.6
+Litchfield County, CT (09005)	1996	1,574	179,133	878.7
+Litchfield County, CT (09005)	1997	1,695	179,625	943.6
+Litchfield County, CT (09005)	1998	1,621	180,430	898.4
+Litchfield County, CT (09005)	Total	29,708	3,387,216	877.1
+Middlesex County, CT (09007)	1979	1,118	128,500	870.0
+Middlesex County, CT (09007)	1980	1,149	129,057	890.3
+Middlesex County, CT (09007)	1981	1,100	130,161	845.1
+Middlesex County, CT (09007)	1982	1,070	130,223	821.7
+Middlesex County, CT (09007)	1983	1,082	131,113	825.2
+Middlesex County, CT (09007)	1984	1,126	133,478	843.6
+Middlesex County, CT (09007)	1985	1,141	134,285	849.7
+Middlesex County, CT (09007)	1986	1,111	135,665	818.9
+Middlesex County, CT (09007)	1987	1,192	138,572	860.2
+Middlesex County, CT (09007)	1988	1,132	140,863	803.6
+Middlesex County, CT (09007)	1989	1,210	142,485	849.2
+Middlesex County, CT (09007)	1990	1,160	143,254	809.8
+Middlesex County, CT (09007)	1991	1,197	144,128	830.5
+Middlesex County, CT (09007)	1992	1,188	144,535	821.9
+Middlesex County, CT (09007)	1993	1,175	145,717	806.4
+Middlesex County, CT (09007)	1994	1,223	146,776	833.2
+Middlesex County, CT (09007)	1995	1,346	148,128	908.7
+Middlesex County, CT (09007)	1996	1,336	149,019	896.5
+Middlesex County, CT (09007)	1997	1,254	150,488	833.3
+Middlesex County, CT (09007)	1998	1,326	151,822	873.4
+Middlesex County, CT (09007)	Total	23,636	2,798,269	844.7
+New Haven County, CT (09009)	1979	6,964	760,884	915.3
+New Haven County, CT (09009)	1980	7,220	761,702	947.9
+New Haven County, CT (09009)	1981	6,969	763,986	912.2
+New Haven County, CT (09009)	1982	7,216	765,553	942.6
+New Haven County, CT (09009)	1983	7,189	771,367	932.0
+New Haven County, CT (09009)	1984	7,470	776,929	961.5
+New Haven County, CT (09009)	1985	7,561	784,038	964.4
+New Haven County, CT (09009)	1986	7,440	790,301	941.4
+New Haven County, CT (09009)	1987	7,663	797,581	960.8
+New Haven County, CT (09009)	1988	7,674	802,410	956.4
+New Haven County, CT (09009)	1989	7,444	805,011	924.7
+New Haven County, CT (09009)	1990	7,323	804,413	910.4
+New Haven County, CT (09009)	1991	7,411	807,977	917.2
+New Haven County, CT (09009)	1992	7,533	808,969	931.2
+New Haven County, CT (09009)	1993	7,665	809,200	947.2
+New Haven County, CT (09009)	1994	7,718	809,556	953.4
+New Haven County, CT (09009)	1995	7,674	809,218	948.3
+New Haven County, CT (09009)	1996	7,684	811,382	947.0
+New Haven County, CT (09009)	1997	7,602	813,670	934.3
+New Haven County, CT (09009)	1998	7,741	817,702	946.7
+New Haven County, CT (09009)	Total	149,161	15,871,849	939.8
+New London County, CT (09011)	1979	1,831	240,944	759.9
+New London County, CT (09011)	1980	1,983	238,717	830.7
+New London County, CT (09011)	1981	1,983	242,203	818.7
+New London County, CT (09011)	1982	1,971	243,348	810.0
+New London County, CT (09011)	1983	2,012	247,181	814.0
+New London County, CT (09011)	1984	1,994	249,302	799.8
+New London County, CT (09011)	1985	1,985	248,580	798.5
+New London County, CT (09011)	1986	2,040	249,077	819.0
+New London County, CT (09011)	1987	1,997	250,915	795.9
+New London County, CT (09011)	1988	2,062	253,355	813.9
+New London County, CT (09011)	1989	2,100	253,996	826.8
+New London County, CT (09011)	1990	1,958	254,949	768.0
+New London County, CT (09011)	1991	1,961	255,799	766.6
+New London County, CT (09011)	1992	1,940	252,246	769.1
+New London County, CT (09011)	1993	2,041	253,887	803.9
+New London County, CT (09011)	1994	1,827	254,918	716.7
+New London County, CT (09011)	1995	1,841	257,088	716.1
+New London County, CT (09011)	1996	1,875	258,136	726.4
+New London County, CT (09011)	1997	1,892	257,868	733.7
+New London County, CT (09011)	1998	1,920	255,922	750.2
+New London County, CT (09011)	Total	39,213	5,018,431	781.4
+Tolland County, CT (09013)	1979	610	114,455	533.0
+Tolland County, CT (09013)	1980	648	114,844	564.2
+Tolland County, CT (09013)	1981	646	116,675	553.7
+Tolland County, CT (09013)	1982	694	117,675	589.8
+Tolland County, CT (09013)	1983	662	118,678	557.8
+Tolland County, CT (09013)	1984	705	119,656	589.2
+Tolland County, CT (09013)	1985	740	121,163	610.7
+Tolland County, CT (09013)	1986	711	122,512	580.4
+Tolland County, CT (09013)	1987	756	124,953	605.0
+Tolland County, CT (09013)	1988	740	127,514	580.3
+Tolland County, CT (09013)	1989	683	127,854	534.2
+Tolland County, CT (09013)	1990	740	128,614	575.4
+Tolland County, CT (09013)	1991	756	128,953	586.3
+Tolland County, CT (09013)	1992	732	129,002	567.4
+Tolland County, CT (09013)	1993	786	128,963	609.5
+Tolland County, CT (09013)	1994	834	129,710	643.0
+Tolland County, CT (09013)	1995	816	130,220	626.6
+Tolland County, CT (09013)	1996	843	131,283	642.1
+Tolland County, CT (09013)	1997	875	132,494	660.4
+Tolland County, CT (09013)	1998	949	133,505	710.8
+Tolland County, CT (09013)	Total	14,926	2,498,723	597.3
+Windham County, CT (09015)	1979	777	92,306	841.8
+Windham County, CT (09015)	1980	836	92,375	905.0
+Windham County, CT (09015)	1981	847	93,001	910.7
+Windham County, CT (09015)	1982	775	93,621	827.8
+Windham County, CT (09015)	1983	864	93,926	919.9
+Windham County, CT (09015)	1984	836	94,413	885.5
+Windham County, CT (09015)	1985	847	95,490	887.0
+Windham County, CT (09015)	1986	857	96,235	890.5
+Windham County, CT (09015)	1987	925	98,006	943.8
+Windham County, CT (09015)	1988	888	100,173	886.5
+Windham County, CT (09015)	1989	873	101,887	856.8
+Windham County, CT (09015)	1990	798	102,503	778.5
+Windham County, CT (09015)	1991	875	103,581	844.7
+Windham County, CT (09015)	1992	864	103,993	830.8
+Windham County, CT (09015)	1993	881	104,570	842.5
+Windham County, CT (09015)	1994	865	105,256	821.8
+Windham County, CT (09015)	1995	968	106,378	910.0
+Windham County, CT (09015)	1996	926	106,813	866.9
+Windham County, CT (09015)	1997	901	107,332	839.5
+Windham County, CT (09015)	1998	963	107,897	892.5
+Windham County, CT (09015)	Total	17,366	1,999,756	868.4
+Total		563,785	64,973,212	867.7

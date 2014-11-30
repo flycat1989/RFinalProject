@@ -1,0 +1,604 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Beaver County, UT (49001)	1979	52	4,270	1,217.8
+Beaver County, UT (49001)	1980	40	4,391	911.0
+Beaver County, UT (49001)	1981	42	4,520	929.2
+Beaver County, UT (49001)	1982	38	4,665	814.6
+Beaver County, UT (49001)	1983	47	4,768	985.7
+Beaver County, UT (49001)	1984	53	4,969	1,066.6
+Beaver County, UT (49001)	1985	45	5,070	887.6
+Beaver County, UT (49001)	1986	44	4,952	888.5
+Beaver County, UT (49001)	1987	46	4,849	948.6
+Beaver County, UT (49001)	1988	40	4,722	847.1
+Beaver County, UT (49001)	1989	52	4,732	1,098.9
+Beaver County, UT (49001)	1990	47	4,759	987.6
+Beaver County, UT (49001)	1991	49	4,800	1,020.8
+Beaver County, UT (49001)	1992	53	4,943	1,072.2
+Beaver County, UT (49001)	1993	60	5,007	1,198.3
+Beaver County, UT (49001)	1994	57	5,165	1,103.6
+Beaver County, UT (49001)	1995	49	5,407	906.2
+Beaver County, UT (49001)	1996	45	5,699	789.6
+Beaver County, UT (49001)	1997	65	5,858	1,109.6
+Beaver County, UT (49001)	1998	51	5,902	864.1
+Beaver County, UT (49001)	Total	975	99,448	980.4
+Box Elder County, UT (49003)	1979	191	32,493	587.8
+Box Elder County, UT (49003)	1980	191	33,249	574.5
+Box Elder County, UT (49003)	1981	230	34,323	670.1
+Box Elder County, UT (49003)	1982	234	34,735	673.7
+Box Elder County, UT (49003)	1983	194	35,162	551.7
+Box Elder County, UT (49003)	1984	230	35,791	642.6
+Box Elder County, UT (49003)	1985	229	35,860	638.6
+Box Elder County, UT (49003)	1986	229	36,198	632.6
+Box Elder County, UT (49003)	1987	226	36,493	619.3
+Box Elder County, UT (49003)	1988	230	36,852	624.1
+Box Elder County, UT (49003)	1989	228	36,469	625.2
+Box Elder County, UT (49003)	1990	209	36,500	572.6
+Box Elder County, UT (49003)	1991	214	36,904	579.9
+Box Elder County, UT (49003)	1992	223	37,290	598.0
+Box Elder County, UT (49003)	1993	253	37,922	667.2
+Box Elder County, UT (49003)	1994	270	38,542	700.5
+Box Elder County, UT (49003)	1995	251	39,033	643.0
+Box Elder County, UT (49003)	1996	237	39,816	595.2
+Box Elder County, UT (49003)	1997	273	40,721	670.4
+Box Elder County, UT (49003)	1998	258	41,616	620.0
+Box Elder County, UT (49003)	Total	4,600	735,969	625.0
+Cache County, UT (49005)	1979	287	55,482	517.3
+Cache County, UT (49005)	1980	294	57,479	511.5
+Cache County, UT (49005)	1981	287	60,271	476.2
+Cache County, UT (49005)	1982	324	62,188	521.0
+Cache County, UT (49005)	1983	310	64,047	484.0
+Cache County, UT (49005)	1984	340	65,058	522.6
+Cache County, UT (49005)	1985	329	65,875	499.4
+Cache County, UT (49005)	1986	304	66,286	458.6
+Cache County, UT (49005)	1987	343	67,229	510.2
+Cache County, UT (49005)	1988	318	68,579	463.7
+Cache County, UT (49005)	1989	318	69,774	455.8
+Cache County, UT (49005)	1990	343	70,208	488.5
+Cache County, UT (49005)	1991	361	72,885	495.3
+Cache County, UT (49005)	1992	347	75,851	457.5
+Cache County, UT (49005)	1993	364	78,421	464.2
+Cache County, UT (49005)	1994	386	81,108	475.9
+Cache County, UT (49005)	1995	373	83,998	444.1
+Cache County, UT (49005)	1996	353	86,386	408.6
+Cache County, UT (49005)	1997	395	88,021	448.8
+Cache County, UT (49005)	1998	384	89,937	427.0
+Cache County, UT (49005)	Total	6,760	1,429,083	473.0
+Carbon County, UT (49007)	1979	154	22,114	696.4
+Carbon County, UT (49007)	1980	193	22,235	868.0
+Carbon County, UT (49007)	1981	164	22,429	731.2
+Carbon County, UT (49007)	1982	187	23,730	788.0
+Carbon County, UT (49007)	1983	162	23,803	680.6
+Carbon County, UT (49007)	1984	180	23,104	779.1
+Carbon County, UT (49007)	1985	160	22,288	717.9
+Carbon County, UT (49007)	1986	167	22,263	750.1
+Carbon County, UT (49007)	1987	137	21,840	627.3
+Carbon County, UT (49007)	1988	158	21,008	752.1
+Carbon County, UT (49007)	1989	179	20,507	872.9
+Carbon County, UT (49007)	1990	158	20,204	782.0
+Carbon County, UT (49007)	1991	152	20,199	752.5
+Carbon County, UT (49007)	1992	191	20,171	946.9
+Carbon County, UT (49007)	1993	175	19,989	875.5
+Carbon County, UT (49007)	1994	159	20,155	788.9
+Carbon County, UT (49007)	1995	205	20,296	1,010.1
+Carbon County, UT (49007)	1996	167	20,492	815.0
+Carbon County, UT (49007)	1997	205	20,660	992.3
+Carbon County, UT (49007)	1998	196	20,754	944.4
+Carbon County, UT (49007)	Total	3,449	428,241	805.4
+Daggett County, UT (49009)	1979	2	762	262.5 (Unreliable)
+Daggett County, UT (49009)	1980	2	775	258.1 (Unreliable)
+Daggett County, UT (49009)	1981	7	816	857.8 (Unreliable)
+Daggett County, UT (49009)	1982	7	854	819.7 (Unreliable)
+Daggett County, UT (49009)	1983	3	795	377.4 (Unreliable)
+Daggett County, UT (49009)	1984	6	764	785.3 (Unreliable)
+Daggett County, UT (49009)	1985	3	738	406.5 (Unreliable)
+Daggett County, UT (49009)	1986	3	690	434.8 (Unreliable)
+Daggett County, UT (49009)	1987	1	708	141.2 (Unreliable)
+Daggett County, UT (49009)	1988	6	684	877.2 (Unreliable)
+Daggett County, UT (49009)	Total	84	15,378	546.2
+Davis County, UT (49011)	1979	506	140,516	360.1
+Davis County, UT (49011)	1980	532	146,580	362.9
+Davis County, UT (49011)	1981	543	152,595	355.8
+Davis County, UT (49011)	1982	590	157,676	374.2
+Davis County, UT (49011)	1983	608	161,760	375.9
+Davis County, UT (49011)	1984	621	165,139	376.0
+Davis County, UT (49011)	1985	611	169,368	360.8
+Davis County, UT (49011)	1986	664	173,803	382.0
+Davis County, UT (49011)	1987	674	179,396	375.7
+Davis County, UT (49011)	1988	661	181,622	363.9
+Davis County, UT (49011)	1989	696	185,119	376.0
+Davis County, UT (49011)	1990	671	187,804	357.3
+Davis County, UT (49011)	1991	733	193,584	378.6
+Davis County, UT (49011)	1992	762	199,224	382.5
+Davis County, UT (49011)	1993	783	204,649	382.6
+Davis County, UT (49011)	1994	821	210,059	390.8
+Davis County, UT (49011)	1995	830	214,557	386.8
+Davis County, UT (49011)	1996	872	219,676	396.9
+Davis County, UT (49011)	1997	917	224,900	407.7
+Davis County, UT (49011)	1998	1,046	231,027	452.8
+Davis County, UT (49011)	Total	14,141	3,699,054	382.3
+Duchesne County, UT (49013)	1979	74	12,803	578.0
+Duchesne County, UT (49013)	1980	86	12,610	682.0
+Duchesne County, UT (49013)	1981	81	13,037	621.3
+Duchesne County, UT (49013)	1982	81	13,866	584.2
+Duchesne County, UT (49013)	1983	85	14,736	576.8
+Duchesne County, UT (49013)	1984	84	15,188	553.1
+Duchesne County, UT (49013)	1985	86	15,307	561.8
+Duchesne County, UT (49013)	1986	73	15,069	484.4
+Duchesne County, UT (49013)	1987	87	14,152	614.8
+Duchesne County, UT (49013)	1988	89	13,410	663.7
+Duchesne County, UT (49013)	1989	64	12,846	498.2
+Duchesne County, UT (49013)	1990	65	12,666	513.2
+Duchesne County, UT (49013)	1991	80	12,719	629.0
+Duchesne County, UT (49013)	1992	90	13,000	692.3
+Duchesne County, UT (49013)	1993	77	13,176	584.4
+Duchesne County, UT (49013)	1994	80	13,484	593.3
+Duchesne County, UT (49013)	1995	95	13,660	695.5
+Duchesne County, UT (49013)	1996	102	13,805	738.9
+Duchesne County, UT (49013)	1997	100	14,012	713.7
+Duchesne County, UT (49013)	1998	90	14,203	633.7
+Duchesne County, UT (49013)	Total	1,669	273,749	609.7
+Emery County, UT (49015)	1979	60	10,474	572.8
+Emery County, UT (49015)	1980	68	11,494	591.6
+Emery County, UT (49015)	1981	73	12,095	603.6
+Emery County, UT (49015)	1982	67	13,063	512.9
+Emery County, UT (49015)	1983	69	13,123	525.8
+Emery County, UT (49015)	1984	78	12,410	628.5
+Emery County, UT (49015)	1985	50	11,530	433.7
+Emery County, UT (49015)	1986	66	11,383	579.8
+Emery County, UT (49015)	1987	68	10,986	619.0
+Emery County, UT (49015)	1988	59	10,569	558.2
+Emery County, UT (49015)	1989	70	10,492	667.2
+Emery County, UT (49015)	1990	65	10,306	630.7
+Emery County, UT (49015)	1991	60	10,342	580.2
+Emery County, UT (49015)	1992	62	10,198	608.0
+Emery County, UT (49015)	1993	39	10,330	377.5
+Emery County, UT (49015)	1994	68	10,450	650.7
+Emery County, UT (49015)	1995	72	10,483	686.8
+Emery County, UT (49015)	1996	55	10,614	518.2
+Emery County, UT (49015)	1997	81	10,855	746.2
+Emery County, UT (49015)	1998	56	10,930	512.4
+Emery County, UT (49015)	Total	1,286	222,127	578.9
+Garfield County, UT (49017)	1979	28	3,556	787.4
+Garfield County, UT (49017)	1980	38	3,691	1,029.5
+Garfield County, UT (49017)	1981	37	3,799	973.9
+Garfield County, UT (49017)	1982	30	3,916	766.1
+Garfield County, UT (49017)	1983	24	4,060	591.1
+Garfield County, UT (49017)	1984	29	4,040	717.8
+Garfield County, UT (49017)	1985	35	3,988	877.6
+Garfield County, UT (49017)	1986	27	4,044	667.7
+Garfield County, UT (49017)	1987	40	4,048	988.1
+Garfield County, UT (49017)	1988	37	3,966	932.9
+Garfield County, UT (49017)	1989	28	4,042	692.7
+Garfield County, UT (49017)	1990	33	3,950	835.4
+Garfield County, UT (49017)	1991	53	4,039	1,312.2
+Garfield County, UT (49017)	1992	36	4,134	870.8
+Garfield County, UT (49017)	1993	32	4,118	777.1
+Garfield County, UT (49017)	1994	23	4,202	547.4
+Garfield County, UT (49017)	1995	31	4,296	721.6
+Garfield County, UT (49017)	1996	33	4,400	750.0
+Garfield County, UT (49017)	1997	32	4,508	709.8
+Garfield County, UT (49017)	1998	52	4,649	1,118.5
+Garfield County, UT (49017)	Total	678	81,446	832.5
+Grand County, UT (49019)	1979	48	8,097	592.8
+Grand County, UT (49019)	1980	57	8,242	691.6
+Grand County, UT (49019)	1981	52	8,331	624.2
+Grand County, UT (49019)	1982	52	8,244	630.8
+Grand County, UT (49019)	1983	46	8,126	566.1
+Grand County, UT (49019)	1984	55	7,858	699.9
+Grand County, UT (49019)	1985	65	7,354	883.9
+Grand County, UT (49019)	1986	49	7,073	692.8
+Grand County, UT (49019)	1987	56	6,841	818.6
+Grand County, UT (49019)	1988	47	6,730	698.4
+Grand County, UT (49019)	1989	36	6,562	548.6
+Grand County, UT (49019)	1990	54	6,620	815.7
+Grand County, UT (49019)	1991	61	6,702	910.2
+Grand County, UT (49019)	1992	79	7,092	1,113.9
+Grand County, UT (49019)	1993	57	7,421	768.1
+Grand County, UT (49019)	1994	59	7,733	763.0
+Grand County, UT (49019)	1995	53	7,866	673.8
+Grand County, UT (49019)	1996	59	8,140	724.8
+Grand County, UT (49019)	1997	62	8,229	753.4
+Grand County, UT (49019)	1998	65	8,195	793.2
+Grand County, UT (49019)	Total	1,112	151,456	734.2
+Iron County, UT (49021)	1979	105	16,896	621.4
+Iron County, UT (49021)	1980	103	17,396	592.1
+Iron County, UT (49021)	1981	106	17,754	597.0
+Iron County, UT (49021)	1982	95	18,281	519.7
+Iron County, UT (49021)	1983	92	18,677	492.6
+Iron County, UT (49021)	1984	97	19,268	503.4
+Iron County, UT (49021)	1985	108	19,995	540.1
+Iron County, UT (49021)	1986	112	20,048	558.7
+Iron County, UT (49021)	1987	94	20,018	469.6
+Iron County, UT (49021)	1988	131	20,146	650.3
+Iron County, UT (49021)	1989	99	20,530	482.2
+Iron County, UT (49021)	1990	108	20,794	519.4
+Iron County, UT (49021)	1991	121	21,703	557.5
+Iron County, UT (49021)	1992	117	22,621	517.2
+Iron County, UT (49021)	1993	144	24,246	593.9
+Iron County, UT (49021)	1994	136	25,841	526.3
+Iron County, UT (49021)	1995	154	27,724	555.5
+Iron County, UT (49021)	1996	148	29,002	510.3
+Iron County, UT (49021)	1997	168	30,211	556.1
+Iron County, UT (49021)	1998	185	31,722	583.2
+Iron County, UT (49021)	Total	2,423	442,873	547.1
+Juab County, UT (49023)	1979	43	5,471	786.0
+Juab County, UT (49023)	1980	49	5,535	885.3
+Juab County, UT (49023)	1981	40	5,605	713.6
+Juab County, UT (49023)	1982	45	5,708	788.4
+Juab County, UT (49023)	1983	41	5,848	701.1
+Juab County, UT (49023)	1984	49	6,036	811.8
+Juab County, UT (49023)	1985	47	6,242	753.0
+Juab County, UT (49023)	1986	36	6,186	582.0
+Juab County, UT (49023)	1987	62	5,951	1,041.8
+Juab County, UT (49023)	1988	40	5,717	699.7
+Juab County, UT (49023)	1989	59	5,790	1,019.0
+Juab County, UT (49023)	1990	43	5,828	737.8
+Juab County, UT (49023)	1991	58	5,906	982.1
+Juab County, UT (49023)	1992	56	5,979	936.6
+Juab County, UT (49023)	1993	56	6,166	908.2
+Juab County, UT (49023)	1994	77	6,494	1,185.7
+Juab County, UT (49023)	1995	51	6,830	746.7
+Juab County, UT (49023)	1996	51	7,235	704.9
+Juab County, UT (49023)	1997	60	7,483	801.8
+Juab County, UT (49023)	1998	68	7,867	864.4
+Juab County, UT (49023)	Total	1,031	123,877	832.3
+Kane County, UT (49025)	1979	24	4,189	572.9
+Kane County, UT (49025)	1980	31	4,023	770.6
+Kane County, UT (49025)	1981	27	4,075	662.6
+Kane County, UT (49025)	1982	40	4,250	941.2
+Kane County, UT (49025)	1983	28	4,420	633.5
+Kane County, UT (49025)	1984	24	4,509	532.3
+Kane County, UT (49025)	1985	35	4,687	746.7
+Kane County, UT (49025)	1986	32	4,911	651.6
+Kane County, UT (49025)	1987	41	5,101	803.8
+Kane County, UT (49025)	1988	33	5,181	636.9
+Kane County, UT (49025)	1989	26	5,147	505.1
+Kane County, UT (49025)	1990	43	5,171	831.6
+Kane County, UT (49025)	1991	42	5,096	824.2
+Kane County, UT (49025)	1992	50	5,155	969.9
+Kane County, UT (49025)	1993	30	5,582	537.4
+Kane County, UT (49025)	1994	44	5,702	771.7
+Kane County, UT (49025)	1995	44	5,854	751.6
+Kane County, UT (49025)	1996	60	5,891	1,018.5
+Kane County, UT (49025)	1997	42	5,951	705.8
+Kane County, UT (49025)	1998	62	6,067	1,021.9
+Kane County, UT (49025)	Total	758	100,962	750.8
+Millard County, UT (49027)	1979	71	8,880	799.5
+Millard County, UT (49027)	1980	75	8,991	834.2
+Millard County, UT (49027)	1981	78	9,532	818.3
+Millard County, UT (49027)	1982	82	10,177	805.7
+Millard County, UT (49027)	1983	91	11,047	823.8
+Millard County, UT (49027)	1984	73	12,576	580.5
+Millard County, UT (49027)	1985	85	13,617	624.2
+Millard County, UT (49027)	1986	92	13,503	681.3
+Millard County, UT (49027)	1987	82	12,363	663.3
+Millard County, UT (49027)	1988	77	11,739	655.9
+Millard County, UT (49027)	1989	70	11,482	609.6
+Millard County, UT (49027)	1990	90	11,345	793.3
+Millard County, UT (49027)	1991	80	11,478	697.0
+Millard County, UT (49027)	1992	60	11,569	518.6
+Millard County, UT (49027)	1993	100	11,811	846.7
+Millard County, UT (49027)	1994	90	11,933	754.2
+Millard County, UT (49027)	1995	92	12,170	756.0
+Millard County, UT (49027)	1996	103	12,172	846.2
+Millard County, UT (49027)	1997	99	12,299	804.9
+Millard County, UT (49027)	1998	100	12,301	812.9
+Millard County, UT (49027)	Total	1,690	230,985	731.6
+Morgan County, UT (49029)	1979	33	4,762	693.0
+Morgan County, UT (49029)	1980	27	4,917	549.1
+Morgan County, UT (49029)	1981	29	4,919	589.6
+Morgan County, UT (49029)	1982	31	5,076	610.7
+Morgan County, UT (49029)	1983	24	5,059	474.4
+Morgan County, UT (49029)	1984	26	5,133	506.5
+Morgan County, UT (49029)	1985	34	5,171	657.5
+Morgan County, UT (49029)	1986	17	5,194	327.3 (Unreliable)
+Morgan County, UT (49029)	1987	30	5,343	561.5
+Morgan County, UT (49029)	1988	34	5,365	633.7
+Morgan County, UT (49029)	1989	34	5,494	618.9
+Morgan County, UT (49029)	1990	35	5,517	634.4
+Morgan County, UT (49029)	1991	36	5,600	642.9
+Morgan County, UT (49029)	1992	25	5,758	434.2
+Morgan County, UT (49029)	1993	40	6,017	664.8
+Morgan County, UT (49029)	1994	26	6,249	416.1
+Morgan County, UT (49029)	1995	32	6,485	493.4
+Morgan County, UT (49029)	1996	31	6,678	464.2
+Morgan County, UT (49029)	1997	34	6,747	503.9
+Morgan County, UT (49029)	1998	24	6,873	349.2
+Morgan County, UT (49029)	Total	602	112,357	535.8
+Piute County, UT (49031)	1979	12	1,275	941.2 (Unreliable)
+Piute County, UT (49031)	1980	19	1,334	1,424.3 (Unreliable)
+Piute County, UT (49031)	1981	11	1,320	833.3 (Unreliable)
+Piute County, UT (49031)	1982	16	1,341	1,193.1 (Unreliable)
+Piute County, UT (49031)	1983	19	1,368	1,388.9 (Unreliable)
+Piute County, UT (49031)	1984	12	1,404	854.7 (Unreliable)
+Piute County, UT (49031)	1985	17	1,388	1,224.8 (Unreliable)
+Piute County, UT (49031)	1986	19	1,390	1,366.9 (Unreliable)
+Piute County, UT (49031)	1987	15	1,336	1,122.8 (Unreliable)
+Piute County, UT (49031)	1988	14	1,291	1,084.4 (Unreliable)
+Piute County, UT (49031)	1989	18	1,295	1,390.0 (Unreliable)
+Piute County, UT (49031)	1990	12	1,274	941.9 (Unreliable)
+Piute County, UT (49031)	1991	17	1,271	1,337.5 (Unreliable)
+Piute County, UT (49031)	1992	11	1,264	870.3 (Unreliable)
+Piute County, UT (49031)	1993	12	1,380	869.6 (Unreliable)
+Piute County, UT (49031)	1994	22	1,372	1,603.5
+Piute County, UT (49031)	1995	12	1,402	855.9 (Unreliable)
+Piute County, UT (49031)	1996	15	1,398	1,073.0 (Unreliable)
+Piute County, UT (49031)	1997	17	1,367	1,243.6 (Unreliable)
+Piute County, UT (49031)	1998	24	1,355	1,771.2
+Piute County, UT (49031)	Total	314	26,825	1,170.5
+Rich County, UT (49033)	1979	16	1,972	811.4 (Unreliable)
+Rich County, UT (49033)	1980	14	2,102	666.0 (Unreliable)
+Rich County, UT (49033)	1981	9	2,236	402.5 (Unreliable)
+Rich County, UT (49033)	1982	14	2,397	584.1 (Unreliable)
+Rich County, UT (49033)	1983	9	2,395	375.8 (Unreliable)
+Rich County, UT (49033)	1984	17	2,269	749.2 (Unreliable)
+Rich County, UT (49033)	1985	12	2,120	566.0 (Unreliable)
+Rich County, UT (49033)	1986	15	2,024	741.1 (Unreliable)
+Rich County, UT (49033)	1987	8	1,926	415.4 (Unreliable)
+Rich County, UT (49033)	1988	12	1,787	671.5 (Unreliable)
+Rich County, UT (49033)	1990	13	1,705	762.5 (Unreliable)
+Rich County, UT (49033)	1992	12	1,664	721.2 (Unreliable)
+Rich County, UT (49033)	1993	14	1,729	809.7 (Unreliable)
+Rich County, UT (49033)	1994	12	1,797	667.8 (Unreliable)
+Rich County, UT (49033)	1997	17	1,832	927.9 (Unreliable)
+Rich County, UT (49033)	Total	230	38,898	591.3
+Salt Lake County, UT (49035)	1979	3,471	602,182	576.4
+Salt Lake County, UT (49035)	1980	3,603	620,330	580.8
+Salt Lake County, UT (49035)	1981	3,665	642,496	570.4
+Salt Lake County, UT (49035)	1982	3,660	657,607	556.6
+Salt Lake County, UT (49035)	1983	3,649	672,184	542.9
+Salt Lake County, UT (49035)	1984	3,797	685,068	554.3
+Salt Lake County, UT (49035)	1985	3,843	693,028	554.5
+Salt Lake County, UT (49035)	1986	3,811	702,302	542.6
+Salt Lake County, UT (49035)	1987	3,944	708,601	556.6
+Salt Lake County, UT (49035)	1988	3,999	714,729	559.5
+Salt Lake County, UT (49035)	1989	3,986	719,345	554.1
+Salt Lake County, UT (49035)	1990	3,872	726,254	533.1
+Salt Lake County, UT (49035)	1991	4,116	751,251	547.9
+Salt Lake County, UT (49035)	1992	4,097	774,887	528.7
+Salt Lake County, UT (49035)	1993	4,418	798,443	553.3
+Salt Lake County, UT (49035)	1994	4,430	819,273	540.7
+Salt Lake County, UT (49035)	1995	4,613	836,165	551.7
+Salt Lake County, UT (49035)	1996	4,780	853,717	559.9
+Salt Lake County, UT (49035)	1997	4,814	871,627	552.3
+Salt Lake County, UT (49035)	1998	4,833	882,427	547.7
+Salt Lake County, UT (49035)	Total	81,401	14,731,916	552.5
+San Juan County, UT (49037)	1979	48	11,796	406.9
+San Juan County, UT (49037)	1980	57	12,235	465.9
+San Juan County, UT (49037)	1981	57	12,340	461.9
+San Juan County, UT (49037)	1982	59	12,276	480.6
+San Juan County, UT (49037)	1983	67	12,390	540.8
+San Juan County, UT (49037)	1984	50	12,226	409.0
+San Juan County, UT (49037)	1985	72	12,076	596.2
+San Juan County, UT (49037)	1986	63	11,926	528.3
+San Juan County, UT (49037)	1987	71	11,893	597.0
+San Juan County, UT (49037)	1988	60	12,203	491.7
+San Juan County, UT (49037)	1989	61	12,236	498.5
+San Juan County, UT (49037)	1990	71	12,613	562.9
+San Juan County, UT (49037)	1991	70	12,208	573.4
+San Juan County, UT (49037)	1992	58	12,905	449.4
+San Juan County, UT (49037)	1993	82	13,323	615.5
+San Juan County, UT (49037)	1994	72	13,874	519.0
+San Juan County, UT (49037)	1995	68	14,247	477.3
+San Juan County, UT (49037)	1996	60	14,033	427.6
+San Juan County, UT (49037)	1997	56	14,123	396.5
+San Juan County, UT (49037)	1998	67	14,354	466.8
+San Juan County, UT (49037)	Total	1,269	255,277	497.1
+Sanpete County, UT (49039)	1979	124	13,908	891.6
+Sanpete County, UT (49039)	1980	123	14,619	841.4
+Sanpete County, UT (49039)	1981	128	14,931	857.3
+Sanpete County, UT (49039)	1982	133	15,553	855.1
+Sanpete County, UT (49039)	1983	131	16,067	815.3
+Sanpete County, UT (49039)	1984	138	16,485	837.1
+Sanpete County, UT (49039)	1985	138	16,464	838.2
+Sanpete County, UT (49039)	1986	142	16,311	870.6
+Sanpete County, UT (49039)	1987	136	16,170	841.1
+Sanpete County, UT (49039)	1988	132	16,174	816.1
+Sanpete County, UT (49039)	1989	127	16,134	787.2
+Sanpete County, UT (49039)	1990	125	16,320	765.9
+Sanpete County, UT (49039)	1991	148	17,247	858.1
+Sanpete County, UT (49039)	1992	137	17,792	770.0
+Sanpete County, UT (49039)	1993	151	18,340	823.3
+Sanpete County, UT (49039)	1994	130	18,953	685.9
+Sanpete County, UT (49039)	1995	143	19,575	730.5
+Sanpete County, UT (49039)	1996	154	20,360	756.4
+Sanpete County, UT (49039)	1997	158	21,139	747.4
+Sanpete County, UT (49039)	1998	131	21,854	599.4
+Sanpete County, UT (49039)	Total	2,729	344,396	792.4
+Sevier County, UT (49041)	1979	115	14,408	798.2
+Sevier County, UT (49041)	1980	114	14,746	773.1
+Sevier County, UT (49041)	1981	126	14,996	840.2
+Sevier County, UT (49041)	1982	133	15,451	860.8
+Sevier County, UT (49041)	1983	120	15,730	762.9
+Sevier County, UT (49041)	1984	130	15,883	818.5
+Sevier County, UT (49041)	1985	141	15,847	889.8
+Sevier County, UT (49041)	1986	115	15,687	733.1
+Sevier County, UT (49041)	1987	120	15,447	776.8
+Sevier County, UT (49041)	1988	122	15,366	794.0
+Sevier County, UT (49041)	1989	129	15,399	837.7
+Sevier County, UT (49041)	1990	138	15,408	895.6
+Sevier County, UT (49041)	1991	115	15,626	736.0
+Sevier County, UT (49041)	1992	126	15,951	789.9
+Sevier County, UT (49041)	1993	140	16,253	861.4
+Sevier County, UT (49041)	1994	134	16,734	800.8
+Sevier County, UT (49041)	1995	146	17,196	849.0
+Sevier County, UT (49041)	1996	151	17,622	856.9
+Sevier County, UT (49041)	1997	141	18,089	779.5
+Sevier County, UT (49041)	1998	169	18,495	913.8
+Sevier County, UT (49041)	Total	2,625	320,334	819.5
+Summit County, UT (49043)	1979	53	9,437	561.6
+Summit County, UT (49043)	1980	48	10,226	469.4
+Summit County, UT (49043)	1981	68	10,666	637.5
+Summit County, UT (49043)	1982	56	11,334	494.1
+Summit County, UT (49043)	1983	46	11,776	390.6
+Summit County, UT (49043)	1984	61	12,298	496.0
+Summit County, UT (49043)	1985	51	12,774	399.2
+Summit County, UT (49043)	1986	54	13,198	409.2
+Summit County, UT (49043)	1987	64	13,459	475.5
+Summit County, UT (49043)	1988	51	14,017	363.8
+Summit County, UT (49043)	1989	44	14,613	301.1
+Summit County, UT (49043)	1990	59	15,507	380.5
+Summit County, UT (49043)	1991	61	17,118	356.4
+Summit County, UT (49043)	1992	79	18,388	429.6
+Summit County, UT (49043)	1993	80	20,253	395.0
+Summit County, UT (49043)	1994	58	22,069	262.8
+Summit County, UT (49043)	1995	70	23,876	293.2
+Summit County, UT (49043)	1996	82	25,298	324.1
+Summit County, UT (49043)	1997	59	26,636	221.5
+Summit County, UT (49043)	1998	92	27,968	328.9
+Summit County, UT (49043)	Total	1,236	330,911	373.5
+Tooele County, UT (49045)	1979	154	25,771	597.6
+Tooele County, UT (49045)	1980	147	26,022	564.9
+Tooele County, UT (49045)	1981	142	26,938	527.1
+Tooele County, UT (49045)	1982	126	27,353	460.6
+Tooele County, UT (49045)	1983	155	27,371	566.3
+Tooele County, UT (49045)	1984	153	27,266	561.1
+Tooele County, UT (49045)	1985	180	27,337	658.4
+Tooele County, UT (49045)	1986	147	27,331	537.9
+Tooele County, UT (49045)	1987	153	27,082	565.0
+Tooele County, UT (49045)	1988	152	26,977	563.4
+Tooele County, UT (49045)	1989	183	26,579	688.5
+Tooele County, UT (49045)	1990	148	26,635	555.7
+Tooele County, UT (49045)	1991	140	27,286	513.1
+Tooele County, UT (49045)	1992	167	27,838	599.9
+Tooele County, UT (49045)	1993	168	28,557	588.3
+Tooele County, UT (49045)	1994	177	29,559	598.8
+Tooele County, UT (49045)	1995	190	30,294	627.2
+Tooele County, UT (49045)	1996	167	31,360	532.5
+Tooele County, UT (49045)	1997	199	33,042	602.3
+Tooele County, UT (49045)	1998	199	35,335	563.2
+Tooele County, UT (49045)	Total	3,247	565,933	573.7
+Uintah County, UT (49047)	1979	105	19,836	529.3
+Uintah County, UT (49047)	1980	116	20,564	564.1
+Uintah County, UT (49047)	1981	131	22,088	593.1
+Uintah County, UT (49047)	1982	152	24,401	622.9
+Uintah County, UT (49047)	1983	116	25,713	451.1
+Uintah County, UT (49047)	1984	137	25,980	527.3
+Uintah County, UT (49047)	1985	143	25,583	559.0
+Uintah County, UT (49047)	1986	139	24,741	561.8
+Uintah County, UT (49047)	1987	127	23,331	544.3
+Uintah County, UT (49047)	1988	129	22,362	576.9
+Uintah County, UT (49047)	1989	112	21,849	512.6
+Uintah County, UT (49047)	1990	125	22,210	562.8
+Uintah County, UT (49047)	1991	121	22,897	528.5
+Uintah County, UT (49047)	1992	128	23,258	550.3
+Uintah County, UT (49047)	1993	128	23,763	538.7
+Uintah County, UT (49047)	1994	141	24,110	584.8
+Uintah County, UT (49047)	1995	149	24,421	610.1
+Uintah County, UT (49047)	1996	148	24,400	606.6
+Uintah County, UT (49047)	1997	164	24,816	660.9
+Uintah County, UT (49047)	1998	136	24,996	544.1
+Uintah County, UT (49047)	Total	2,647	471,319	561.6
+Utah County, UT (49049)	1979	895	212,064	422.0
+Utah County, UT (49049)	1980	960	219,471	437.4
+Utah County, UT (49049)	1981	911	227,275	400.8
+Utah County, UT (49049)	1982	1,035	233,535	443.2
+Utah County, UT (49049)	1983	1,069	237,874	449.4
+Utah County, UT (49049)	1984	1,098	241,079	455.5
+Utah County, UT (49049)	1985	1,111	244,700	454.0
+Utah County, UT (49049)	1986	1,089	247,328	440.3
+Utah County, UT (49049)	1987	1,077	250,317	430.3
+Utah County, UT (49049)	1988	1,077	255,056	422.3
+Utah County, UT (49049)	1989	1,089	261,165	417.0
+Utah County, UT (49049)	1990	1,114	263,880	422.2
+Utah County, UT (49049)	1991	1,174	273,291	429.6
+Utah County, UT (49049)	1992	1,164	284,271	409.5
+Utah County, UT (49049)	1993	1,251	295,999	422.6
+Utah County, UT (49049)	1994	1,286	308,764	416.5
+Utah County, UT (49049)	1995	1,377	318,697	432.1
+Utah County, UT (49049)	1996	1,381	330,778	417.5
+Utah County, UT (49049)	1997	1,435	340,627	421.3
+Utah County, UT (49049)	1998	1,521	353,727	430.0
+Utah County, UT (49049)	Total	23,114	5,399,898	428.0
+Wasatch County, UT (49051)	1979	61	8,381	727.8
+Wasatch County, UT (49051)	1980	65	8,556	759.7
+Wasatch County, UT (49051)	1981	61	8,869	687.8
+Wasatch County, UT (49051)	1982	73	9,110	801.3
+Wasatch County, UT (49051)	1983	57	9,080	627.8
+Wasatch County, UT (49051)	1984	58	9,366	619.3
+Wasatch County, UT (49051)	1985	64	9,355	684.1
+Wasatch County, UT (49051)	1986	75	9,487	790.6
+Wasatch County, UT (49051)	1987	66	9,658	683.4
+Wasatch County, UT (49051)	1988	70	9,837	711.6
+Wasatch County, UT (49051)	1989	69	9,922	695.4
+Wasatch County, UT (49051)	1990	64	10,064	635.9
+Wasatch County, UT (49051)	1991	59	10,469	563.6
+Wasatch County, UT (49051)	1992	75	10,758	697.2
+Wasatch County, UT (49051)	1993	64	11,169	573.0
+Wasatch County, UT (49051)	1994	63	11,726	537.3
+Wasatch County, UT (49051)	1995	88	12,132	725.4
+Wasatch County, UT (49051)	1996	79	12,732	620.5
+Wasatch County, UT (49051)	1997	80	13,300	601.5
+Wasatch County, UT (49051)	1998	76	13,949	544.8
+Wasatch County, UT (49051)	Total	1,367	207,920	657.5
+Washington County, UT (49053)	1979	189	24,133	783.2
+Washington County, UT (49053)	1980	174	26,122	666.1
+Washington County, UT (49053)	1981	206	28,143	732.0
+Washington County, UT (49053)	1982	176	29,488	596.9
+Washington County, UT (49053)	1983	236	30,943	762.7
+Washington County, UT (49053)	1984	229	32,806	698.0
+Washington County, UT (49053)	1985	251	35,820	700.7
+Washington County, UT (49053)	1986	306	39,530	774.1
+Washington County, UT (49053)	1987	285	42,760	666.5
+Washington County, UT (49053)	1988	332	44,677	743.1
+Washington County, UT (49053)	1989	354	46,735	757.5
+Washington County, UT (49053)	1990	384	48,549	791.0
+Washington County, UT (49053)	1991	418	52,765	792.2
+Washington County, UT (49053)	1992	408	56,329	724.3
+Washington County, UT (49053)	1993	497	60,664	819.3
+Washington County, UT (49053)	1994	507	66,525	762.1
+Washington County, UT (49053)	1995	517	72,286	715.2
+Washington County, UT (49053)	1996	560	77,696	720.8
+Washington County, UT (49053)	1997	567	81,609	694.8
+Washington County, UT (49053)	1998	641	84,935	754.7
+Washington County, UT (49053)	Total	7,237	982,515	736.6
+Wayne County, UT (49055)	1979	13	1,851	702.3 (Unreliable)
+Wayne County, UT (49055)	1980	20	1,919	1,042.2
+Wayne County, UT (49055)	1981	15	1,972	760.6 (Unreliable)
+Wayne County, UT (49055)	1982	10	2,032	492.1 (Unreliable)
+Wayne County, UT (49055)	1983	12	2,134	562.3 (Unreliable)
+Wayne County, UT (49055)	1984	15	2,146	699.0 (Unreliable)
+Wayne County, UT (49055)	1985	15	2,161	694.1 (Unreliable)
+Wayne County, UT (49055)	1986	16	2,108	759.0 (Unreliable)
+Wayne County, UT (49055)	1987	17	2,186	777.7 (Unreliable)
+Wayne County, UT (49055)	1988	18	2,114	851.5 (Unreliable)
+Wayne County, UT (49055)	1989	22	2,128	1,033.8
+Wayne County, UT (49055)	1990	18	2,167	830.6 (Unreliable)
+Wayne County, UT (49055)	1991	22	2,197	1,001.4
+Wayne County, UT (49055)	1992	17	2,134	796.6 (Unreliable)
+Wayne County, UT (49055)	1993	14	2,234	626.7 (Unreliable)
+Wayne County, UT (49055)	1994	17	2,283	744.6 (Unreliable)
+Wayne County, UT (49055)	1995	31	2,365	1,310.8
+Wayne County, UT (49055)	1996	20	2,426	824.4
+Wayne County, UT (49055)	1997	21	2,441	860.3
+Wayne County, UT (49055)	1998	24	2,409	996.3
+Wayne County, UT (49055)	Total	357	43,407	822.4
+Weber County, UT (49057)	1979	956	143,667	665.4
+Weber County, UT (49057)	1980	874	144,992	602.8
+Weber County, UT (49057)	1981	1,017	148,403	685.3
+Weber County, UT (49057)	1982	969	150,981	641.8
+Weber County, UT (49057)	1983	1,002	153,187	654.1
+Weber County, UT (49057)	1984	1,157	154,742	747.7
+Weber County, UT (49057)	1985	1,089	156,076	697.7
+Weber County, UT (49057)	1986	1,033	156,914	658.3
+Weber County, UT (49057)	1987	1,050	157,554	666.4
+Weber County, UT (49057)	1988	1,096	157,321	696.7
+Weber County, UT (49057)	1989	1,076	158,008	681.0
+Weber County, UT (49057)	1990	1,081	158,416	682.4
+Weber County, UT (49057)	1991	1,076	162,294	663.0
+Weber County, UT (49057)	1992	1,139	166,672	683.4
+Weber County, UT (49057)	1993	1,234	171,193	720.8
+Weber County, UT (49057)	1994	1,121	176,122	636.5
+Weber County, UT (49057)	1995	1,195	180,764	661.1
+Weber County, UT (49057)	1996	1,186	184,934	641.3
+Weber County, UT (49057)	1997	1,311	188,405	695.8
+Weber County, UT (49057)	1998	1,262	191,159	660.2
+Weber County, UT (49057)	Total	21,924	3,261,804	672.1
+Total		190,955	35,128,358	543.6

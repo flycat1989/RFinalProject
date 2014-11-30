@@ -1,0 +1,95 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Hawaii County, HI (15001)	1979	549	89,252	615.1
+Hawaii County, HI (15001)	1980	584	92,329	632.5
+Hawaii County, HI (15001)	1981	619	96,332	642.6
+Hawaii County, HI (15001)	1982	601	98,938	607.5
+Hawaii County, HI (15001)	1983	594	100,815	589.2
+Hawaii County, HI (15001)	1984	717	103,502	692.7
+Hawaii County, HI (15001)	1985	722	105,837	682.2
+Hawaii County, HI (15001)	1986	732	108,244	676.2
+Hawaii County, HI (15001)	1987	795	111,733	711.5
+Hawaii County, HI (15001)	1988	802	113,525	706.5
+Hawaii County, HI (15001)	1989	859	116,693	736.1
+Hawaii County, HI (15001)	1990	903	120,475	749.5
+Hawaii County, HI (15001)	1991	898	127,363	705.1
+Hawaii County, HI (15001)	1992	930	131,718	706.1
+Hawaii County, HI (15001)	1993	983	135,083	727.7
+Hawaii County, HI (15001)	1994	1,029	137,737	747.1
+Hawaii County, HI (15001)	1995	986	140,555	701.5
+Hawaii County, HI (15001)	1996	1,088	142,064	765.9
+Hawaii County, HI (15001)	1997	1,198	144,908	826.7
+Hawaii County, HI (15001)	1998	1,273	146,426	869.4
+Hawaii County, HI (15001)	Total	16,862	2,363,529	713.4
+Honolulu County, HI (15003)	1979	3,635	755,371	481.2
+Honolulu County, HI (15003)	1980	3,742	764,638	489.4
+Honolulu County, HI (15003)	1981	3,701	769,157	481.2
+Honolulu County, HI (15003)	1982	3,817	777,817	490.7
+Honolulu County, HI (15003)	1983	4,127	790,734	521.9
+Honolulu County, HI (15003)	1984	4,168	798,864	521.7
+Honolulu County, HI (15003)	1985	4,352	804,916	540.7
+Honolulu County, HI (15003)	1986	4,304	811,353	530.5
+Honolulu County, HI (15003)	1987	4,591	819,682	560.1
+Honolulu County, HI (15003)	1988	4,380	825,815	530.4
+Honolulu County, HI (15003)	1989	4,721	833,373	566.5
+Honolulu County, HI (15003)	1990	4,863	837,495	580.7
+Honolulu County, HI (15003)	1991	4,874	850,994	572.7
+Honolulu County, HI (15003)	1992	5,003	864,649	578.6
+Honolulu County, HI (15003)	1993	5,276	871,101	605.7
+Honolulu County, HI (15003)	1994	5,257	879,869	597.5
+Honolulu County, HI (15003)	1995	5,546	882,325	628.6
+Honolulu County, HI (15003)	1996	5,651	884,950	638.6
+Honolulu County, HI (15003)	1997	5,594	887,571	630.3
+Honolulu County, HI (15003)	1998	5,652	888,198	636.3
+Honolulu County, HI (15003)	Total	93,254	16,598,872	561.8
+Kalawao County, HI (15005) *	Total	14	1,512	925.9 (Unreliable)
+Kauai County, HI (15007)	1979	239	38,120	627.0
+Kauai County, HI (15007)	1980	245	39,171	625.5
+Kauai County, HI (15007)	1981	237	40,496	585.2
+Kauai County, HI (15007)	1982	282	41,884	673.3
+Kauai County, HI (15007)	1983	287	42,852	669.7
+Kauai County, HI (15007)	1984	278	43,613	637.4
+Kauai County, HI (15007)	1985	258	44,325	582.1
+Kauai County, HI (15007)	1986	318	45,588	697.6
+Kauai County, HI (15007)	1987	308	47,261	651.7
+Kauai County, HI (15007)	1988	345	48,615	709.7
+Kauai County, HI (15007)	1989	331	49,900	663.3
+Kauai County, HI (15007)	1990	348	51,312	678.2
+Kauai County, HI (15007)	1991	365	53,503	682.2
+Kauai County, HI (15007)	1992	374	54,491	686.4
+Kauai County, HI (15007)	1993	406	55,584	730.4
+Kauai County, HI (15007)	1994	408	56,575	721.2
+Kauai County, HI (15007)	1995	380	57,131	665.1
+Kauai County, HI (15007)	1996	409	57,758	708.1
+Kauai County, HI (15007)	1997	419	57,744	725.6
+Kauai County, HI (15007)	1998	418	57,919	721.7
+Kauai County, HI (15007)	Total	6,655	983,842	676.4
+Maui County, HI (15009)	1979	447	69,695	641.4
+Maui County, HI (15009)	1980	410	71,144	576.3
+Maui County, HI (15009)	1981	434	74,286	584.2
+Maui County, HI (15009)	1982	488	77,259	631.6
+Maui County, HI (15009)	1983	474	80,288	590.4
+Maui County, HI (15009)	1984	477	83,134	573.8
+Maui County, HI (15009)	1985	493	85,243	578.3
+Maui County, HI (15009)	1986	520	87,444	594.7
+Maui County, HI (15009)	1987	530	90,633	584.8
+Maui County, HI (15009)	1988	548	93,874	583.8
+Maui County, HI (15009)	1989	590	96,851	609.2
+Maui County, HI (15009)	1990	668	100,534	664.5
+Maui County, HI (15009)	1991	670	105,470	635.3
+Maui County, HI (15009)	1992	659	108,487	607.4
+Maui County, HI (15009)	1993	664	111,850	593.7
+Maui County, HI (15009)	1994	642	114,535	560.5
+Maui County, HI (15009)	1995	716	117,852	607.5
+Maui County, HI (15009)	1996	797	120,664	660.5
+Maui County, HI (15009)	1997	681	122,709	555.0
+Maui County, HI (15009)	1998	748	124,501	600.8
+Maui County, HI (15009)	Total	11,656	1,936,453	601.9
+Total		128,441	21,884,208	586.9

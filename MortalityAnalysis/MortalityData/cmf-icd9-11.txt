@@ -1,0 +1,31 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+District of Columbia, DC (11001)	1979	6,864	658,050	1,043.1
+District of Columbia, DC (11001)	1980	7,108	640,822	1,109.2
+District of Columbia, DC (11001)	1981	6,954	638,849	1,088.5
+District of Columbia, DC (11001)	1982	6,713	636,100	1,055.3
+District of Columbia, DC (11001)	1983	6,764	634,216	1,066.5
+District of Columbia, DC (11001)	1984	6,762	635,296	1,064.4
+District of Columbia, DC (11001)	1985	6,981	636,437	1,096.9
+District of Columbia, DC (11001)	1986	7,284	640,289	1,137.6
+District of Columbia, DC (11001)	1987	7,430	639,137	1,162.5
+District of Columbia, DC (11001)	1988	7,664	633,079	1,210.6
+District of Columbia, DC (11001)	1989	7,649	628,077	1,217.8
+District of Columbia, DC (11001)	1990	7,313	609,615	1,199.6
+District of Columbia, DC (11001)	1991	7,075	603,671	1,172.0
+District of Columbia, DC (11001)	1992	7,110	600,028	1,184.9
+District of Columbia, DC (11001)	1993	7,191	597,713	1,203.1
+District of Columbia, DC (11001)	1994	7,208	591,238	1,219.1
+District of Columbia, DC (11001)	1995	6,896	582,247	1,184.4
+District of Columbia, DC (11001)	1996	6,624	573,994	1,154.0
+District of Columbia, DC (11001)	1997	6,129	569,116	1,076.9
+District of Columbia, DC (11001)	1998	6,054	566,630	1,068.4
+District of Columbia, DC (11001)	Total	139,773	12,314,604	1,135.0
+Total		139,773	12,314,604	1,135.0

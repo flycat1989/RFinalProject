@@ -1,0 +1,310 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Apache County, AZ (04001)	1979	329	52,441	627.4
+Apache County, AZ (04001)	1980	318	52,398	606.9
+Apache County, AZ (04001)	1981	310	51,509	601.8
+Apache County, AZ (04001)	1982	330	52,624	627.1
+Apache County, AZ (04001)	1983	307	53,481	574.0
+Apache County, AZ (04001)	1984	319	53,390	597.5
+Apache County, AZ (04001)	1985	333	53,868	618.2
+Apache County, AZ (04001)	1986	335	56,035	597.8
+Apache County, AZ (04001)	1987	344	58,535	587.7
+Apache County, AZ (04001)	1988	340	59,903	567.6
+Apache County, AZ (04001)	1989	346	61,041	566.8
+Apache County, AZ (04001)	1990	394	61,575	639.9
+Apache County, AZ (04001)	1991	392	62,648	625.7
+Apache County, AZ (04001)	1992	407	63,052	645.5
+Apache County, AZ (04001)	1993	394	64,525	610.6
+Apache County, AZ (04001)	1994	368	66,066	557.0
+Apache County, AZ (04001)	1995	379	68,212	555.6
+Apache County, AZ (04001)	1996	449	69,478	646.2
+Apache County, AZ (04001)	1997	406	70,586	575.2
+Apache County, AZ (04001)	1998	415	69,938	593.4
+Apache County, AZ (04001)	Total	7,215	1,201,305	600.6
+Cochise County, AZ (04003)	1979	596	86,333	690.4
+Cochise County, AZ (04003)	1980	634	85,759	739.3
+Cochise County, AZ (04003)	1981	631	88,204	715.4
+Cochise County, AZ (04003)	1982	654	88,462	739.3
+Cochise County, AZ (04003)	1983	714	88,969	802.5
+Cochise County, AZ (04003)	1984	669	91,040	734.8
+Cochise County, AZ (04003)	1985	690	91,247	756.2
+Cochise County, AZ (04003)	1986	663	94,100	704.6
+Cochise County, AZ (04003)	1987	765	96,745	790.7
+Cochise County, AZ (04003)	1988	751	96,436	778.8
+Cochise County, AZ (04003)	1989	756	97,740	773.5
+Cochise County, AZ (04003)	1990	802	97,796	820.1
+Cochise County, AZ (04003)	1991	804	99,050	811.7
+Cochise County, AZ (04003)	1992	814	101,550	801.6
+Cochise County, AZ (04003)	1993	890	104,424	852.3
+Cochise County, AZ (04003)	1994	840	109,352	768.2
+Cochise County, AZ (04003)	1995	925	112,512	822.1
+Cochise County, AZ (04003)	1996	937	112,903	829.9
+Cochise County, AZ (04003)	1997	985	114,867	857.5
+Cochise County, AZ (04003)	1998	1,029	116,020	886.9
+Cochise County, AZ (04003)	Total	15,549	1,973,509	787.9
+Coconino County, AZ (04005)	1979	327	73,610	444.2
+Coconino County, AZ (04005)	1980	315	75,396	417.8
+Coconino County, AZ (04005)	1981	316	78,079	404.7
+Coconino County, AZ (04005)	1982	342	79,442	430.5
+Coconino County, AZ (04005)	1983	329	81,451	403.9
+Coconino County, AZ (04005)	1984	343	83,844	409.1
+Coconino County, AZ (04005)	1985	377	84,760	444.8
+Coconino County, AZ (04005)	1986	383	87,753	436.5
+Coconino County, AZ (04005)	1987	397	90,708	437.7
+Coconino County, AZ (04005)	1988	404	93,608	431.6
+Coconino County, AZ (04005)	1989	394	95,483	412.6
+Coconino County, AZ (04005)	1990	406	96,638	420.1
+Coconino County, AZ (04005)	1991	419	99,664	420.4
+Coconino County, AZ (04005)	1992	443	102,506	432.2
+Coconino County, AZ (04005)	1993	467	105,545	442.5
+Coconino County, AZ (04005)	1994	456	108,607	419.9
+Coconino County, AZ (04005)	1995	528	110,959	475.9
+Coconino County, AZ (04005)	1996	474	112,838	420.1
+Coconino County, AZ (04005)	1997	472	114,619	411.8
+Coconino County, AZ (04005)	1998	539	114,974	468.8
+Coconino County, AZ (04005)	Total	8,131	1,890,484	430.1
+Gila County, AZ (04007)	1979	382	36,588	1,044.1
+Gila County, AZ (04007)	1980	330	37,168	887.9
+Gila County, AZ (04007)	1981	342	38,118	897.2
+Gila County, AZ (04007)	1982	417	39,105	1,066.4
+Gila County, AZ (04007)	1983	383	38,746	988.5
+Gila County, AZ (04007)	1984	395	37,647	1,049.2
+Gila County, AZ (04007)	1985	382	37,361	1,022.5
+Gila County, AZ (04007)	1986	401	38,203	1,049.7
+Gila County, AZ (04007)	1987	411	38,605	1,064.6
+Gila County, AZ (04007)	1988	415	39,176	1,059.3
+Gila County, AZ (04007)	1989	428	39,651	1,079.4
+Gila County, AZ (04007)	1990	463	40,355	1,147.3
+Gila County, AZ (04007)	1991	497	41,342	1,202.2
+Gila County, AZ (04007)	1992	494	42,692	1,157.1
+Gila County, AZ (04007)	1993	536	44,062	1,216.5
+Gila County, AZ (04007)	1994	502	45,480	1,103.8
+Gila County, AZ (04007)	1995	584	47,147	1,238.7
+Gila County, AZ (04007)	1996	541	48,499	1,115.5
+Gila County, AZ (04007)	1997	583	49,715	1,172.7
+Gila County, AZ (04007)	1998	626	50,605	1,237.0
+Gila County, AZ (04007)	Total	9,112	830,265	1,097.5
+Graham County, AZ (04009)	1979	172	21,260	809.0
+Graham County, AZ (04009)	1980	175	22,874	765.1
+Graham County, AZ (04009)	1981	184	23,173	794.0
+Graham County, AZ (04009)	1982	166	23,799	697.5
+Graham County, AZ (04009)	1983	188	23,926	785.8
+Graham County, AZ (04009)	1984	178	24,478	727.2
+Graham County, AZ (04009)	1985	171	24,505	697.8
+Graham County, AZ (04009)	1986	192	24,344	788.7
+Graham County, AZ (04009)	1987	193	25,176	766.6
+Graham County, AZ (04009)	1988	197	25,561	770.7
+Graham County, AZ (04009)	1989	220	26,178	840.4
+Graham County, AZ (04009)	1990	221	26,483	834.5
+Graham County, AZ (04009)	1991	233	27,270	854.4
+Graham County, AZ (04009)	1992	237	27,905	849.3
+Graham County, AZ (04009)	1993	221	28,903	764.6
+Graham County, AZ (04009)	1994	232	29,571	784.6
+Graham County, AZ (04009)	1995	260	30,473	853.2
+Graham County, AZ (04009)	1996	274	31,460	870.9
+Graham County, AZ (04009)	1997	234	32,188	727.0
+Graham County, AZ (04009)	1998	270	32,761	824.2
+Graham County, AZ (04009)	Total	4,218	532,288	792.4
+Greenlee County, AZ (04011)	1979	61	12,208	499.7
+Greenlee County, AZ (04011)	1980	85	11,430	743.7
+Greenlee County, AZ (04011)	1981	52	11,531	451.0
+Greenlee County, AZ (04011)	1982	74	11,740	630.3
+Greenlee County, AZ (04011)	1983	61	10,661	572.2
+Greenlee County, AZ (04011)	1984	66	10,187	647.9
+Greenlee County, AZ (04011)	1985	48	9,029	531.6
+Greenlee County, AZ (04011)	1986	50	8,355	598.4
+Greenlee County, AZ (04011)	1987	67	8,245	812.6
+Greenlee County, AZ (04011)	1988	64	8,077	792.4
+Greenlee County, AZ (04011)	1989	49	7,816	626.9
+Greenlee County, AZ (04011)	1990	58	7,997	725.3
+Greenlee County, AZ (04011)	1991	64	8,301	771.0
+Greenlee County, AZ (04011)	1992	48	8,585	559.1
+Greenlee County, AZ (04011)	1993	78	8,784	888.0
+Greenlee County, AZ (04011)	1994	50	8,831	566.2
+Greenlee County, AZ (04011)	1995	64	8,952	714.9
+Greenlee County, AZ (04011)	1996	59	9,070	650.5
+Greenlee County, AZ (04011)	1997	60	9,120	657.9
+Greenlee County, AZ (04011)	1998	66	8,936	738.6
+Greenlee County, AZ (04011)	Total	1,224	187,855	651.6
+La Paz County, AZ (04012)�*	1994	168	15,900	1,056.6
+La Paz County, AZ (04012)�*	1995	191	16,539	1,154.8
+La Paz County, AZ (04012)�*	1996	199	17,553	1,133.7
+La Paz County, AZ (04012)�*	1997	185	18,302	1,010.8
+La Paz County, AZ (04012)�*	1998	217	18,858	1,150.7
+La Paz County, AZ (04012)�*	Total	960	87,152	1,101.5
+Maricopa County, AZ (04013)	1979	10,966	1,460,000	751.1
+Maricopa County, AZ (04013)	1980	11,823	1,513,157	781.3
+Maricopa County, AZ (04013)	1981	11,930	1,569,751	760.0
+Maricopa County, AZ (04013)	1982	12,203	1,615,437	755.4
+Maricopa County, AZ (04013)	1983	12,455	1,666,894	747.2
+Maricopa County, AZ (04013)	1984	13,462	1,739,868	773.7
+Maricopa County, AZ (04013)	1985	13,687	1,833,052	746.7
+Maricopa County, AZ (04013)	1986	14,158	1,910,244	741.2
+Maricopa County, AZ (04013)	1987	14,889	1,995,957	746.0
+Maricopa County, AZ (04013)	1988	15,296	2,053,514	744.9
+Maricopa County, AZ (04013)	1989	15,635	2,106,536	742.2
+Maricopa County, AZ (04013)	1990	15,932	2,125,066	749.7
+Maricopa County, AZ (04013)	1991	16,182	2,198,342	736.1
+Maricopa County, AZ (04013)	1992	17,194	2,272,820	756.5
+Maricopa County, AZ (04013)	1993	18,417	2,360,032	780.4
+Maricopa County, AZ (04013)	1994	19,124	2,476,451	772.2
+Maricopa County, AZ (04013)	1995	19,422	2,598,869	747.3
+Maricopa County, AZ (04013)	1996	20,469	2,704,956	756.7
+Maricopa County, AZ (04013)	1997	20,466	2,806,869	729.1
+Maricopa County, AZ (04013)	1998	21,155	2,911,052	726.7
+Maricopa County, AZ (04013)	Total	314,865	41,918,867	751.1
+Mohave County, AZ (04015)	1979	461	51,826	889.5
+Mohave County, AZ (04015)	1980	574	56,020	1,024.6
+Mohave County, AZ (04015)	1981	553	58,710	941.9
+Mohave County, AZ (04015)	1982	626	62,592	1,000.1
+Mohave County, AZ (04015)	1983	652	64,067	1,017.7
+Mohave County, AZ (04015)	1984	674	67,424	999.6
+Mohave County, AZ (04015)	1985	753	70,762	1,064.1
+Mohave County, AZ (04015)	1986	889	75,431	1,178.6
+Mohave County, AZ (04015)	1987	984	77,464	1,270.3
+Mohave County, AZ (04015)	1988	1,006	82,547	1,218.7
+Mohave County, AZ (04015)	1989	1,107	87,230	1,269.1
+Mohave County, AZ (04015)	1990	1,161	93,692	1,239.2
+Mohave County, AZ (04015)	1991	1,252	102,326	1,223.5
+Mohave County, AZ (04015)	1992	1,298	108,677	1,194.4
+Mohave County, AZ (04015)	1993	1,454	115,845	1,255.1
+Mohave County, AZ (04015)	1994	1,512	123,093	1,228.3
+Mohave County, AZ (04015)	1995	1,591	130,386	1,220.2
+Mohave County, AZ (04015)	1996	1,597	136,533	1,169.7
+Mohave County, AZ (04015)	1997	1,668	140,973	1,183.2
+Mohave County, AZ (04015)	1998	1,849	145,155	1,273.8
+Mohave County, AZ (04015)	Total	21,661	1,850,753	1,170.4
+Navajo County, AZ (04017)	1979	444	66,631	666.4
+Navajo County, AZ (04017)	1980	411	67,889	605.4
+Navajo County, AZ (04017)	1981	421	67,022	628.2
+Navajo County, AZ (04017)	1982	394	67,158	586.7
+Navajo County, AZ (04017)	1983	397	69,210	573.6
+Navajo County, AZ (04017)	1984	433	68,891	628.5
+Navajo County, AZ (04017)	1985	459	70,928	647.1
+Navajo County, AZ (04017)	1986	486	72,760	667.9
+Navajo County, AZ (04017)	1987	464	74,035	626.7
+Navajo County, AZ (04017)	1988	470	74,832	628.1
+Navajo County, AZ (04017)	1989	511	76,798	665.4
+Navajo County, AZ (04017)	1990	519	77,654	668.3
+Navajo County, AZ (04017)	1991	468	78,674	594.9
+Navajo County, AZ (04017)	1992	559	80,387	695.4
+Navajo County, AZ (04017)	1993	630	83,681	752.9
+Navajo County, AZ (04017)	1994	598	85,483	699.6
+Navajo County, AZ (04017)	1995	583	88,414	659.4
+Navajo County, AZ (04017)	1996	660	90,732	727.4
+Navajo County, AZ (04017)	1997	662	93,011	711.7
+Navajo County, AZ (04017)	1998	614	94,973	646.5
+Navajo County, AZ (04017)	Total	10,183	1,549,163	657.3
+Pima County, AZ (04019)	1979	3,841	523,958	733.1
+Pima County, AZ (04019)	1980	4,335	532,808	813.6
+Pima County, AZ (04019)	1981	4,256	553,684	768.7
+Pima County, AZ (04019)	1982	4,271	568,805	750.9
+Pima County, AZ (04019)	1983	4,527	583,142	776.3
+Pima County, AZ (04019)	1984	4,758	592,842	802.6
+Pima County, AZ (04019)	1985	4,870	603,831	806.5
+Pima County, AZ (04019)	1986	5,081	622,653	816.0
+Pima County, AZ (04019)	1987	5,313	641,706	827.9
+Pima County, AZ (04019)	1988	5,389	658,054	818.9
+Pima County, AZ (04019)	1989	5,359	665,287	805.5
+Pima County, AZ (04019)	1990	5,608	667,531	840.1
+Pima County, AZ (04019)	1991	5,768	680,035	848.2
+Pima County, AZ (04019)	1992	5,983	698,525	856.5
+Pima County, AZ (04019)	1993	6,427	719,860	892.8
+Pima County, AZ (04019)	1994	6,681	745,434	896.3
+Pima County, AZ (04019)	1995	6,700	768,058	872.3
+Pima County, AZ (04019)	1996	6,910	783,618	881.8
+Pima County, AZ (04019)	1997	7,021	798,648	879.1
+Pima County, AZ (04019)	1998	7,007	813,433	861.4
+Pima County, AZ (04019)	Total	110,105	13,221,912	832.7
+Pinal County, AZ (04021)	1979	710	89,565	792.7
+Pinal County, AZ (04021)	1980	732	91,100	803.5
+Pinal County, AZ (04021)	1981	740	93,183	794.1
+Pinal County, AZ (04021)	1982	735	96,975	757.9
+Pinal County, AZ (04021)	1983	775	98,059	790.3
+Pinal County, AZ (04021)	1984	804	100,559	799.5
+Pinal County, AZ (04021)	1985	787	103,419	761.0
+Pinal County, AZ (04021)	1986	942	107,990	872.3
+Pinal County, AZ (04021)	1987	923	111,366	828.8
+Pinal County, AZ (04021)	1988	1,019	114,339	891.2
+Pinal County, AZ (04021)	1989	1,072	115,869	925.2
+Pinal County, AZ (04021)	1990	1,009	116,488	866.2
+Pinal County, AZ (04021)	1991	1,055	121,017	871.8
+Pinal County, AZ (04021)	1992	1,068	126,126	846.8
+Pinal County, AZ (04021)	1993	1,093	131,897	828.7
+Pinal County, AZ (04021)	1994	1,221	138,270	883.1
+Pinal County, AZ (04021)	1995	1,327	145,705	910.7
+Pinal County, AZ (04021)	1996	1,280	152,518	839.2
+Pinal County, AZ (04021)	1997	1,349	158,617	850.5
+Pinal County, AZ (04021)	1998	1,455	165,419	879.6
+Pinal County, AZ (04021)	Total	20,096	2,378,481	844.9
+Santa Cruz County, AZ (04023)	1979	139	19,718	704.9
+Santa Cruz County, AZ (04023)	1980	122	20,528	594.3
+Santa Cruz County, AZ (04023)	1981	128	20,759	616.6
+Santa Cruz County, AZ (04023)	1982	136	21,729	625.9
+Santa Cruz County, AZ (04023)	1983	138	21,839	631.9
+Santa Cruz County, AZ (04023)	1984	150	22,842	656.7
+Santa Cruz County, AZ (04023)	1985	149	23,572	632.1
+Santa Cruz County, AZ (04023)	1986	147	24,067	610.8
+Santa Cruz County, AZ (04023)	1987	161	25,671	627.2
+Santa Cruz County, AZ (04023)	1988	194	27,010	718.3
+Santa Cruz County, AZ (04023)	1989	174	28,915	601.8
+Santa Cruz County, AZ (04023)	1990	139	29,881	465.2
+Santa Cruz County, AZ (04023)	1991	181	31,096	582.1
+Santa Cruz County, AZ (04023)	1992	169	32,273	523.7
+Santa Cruz County, AZ (04023)	1993	199	33,412	595.6
+Santa Cruz County, AZ (04023)	1994	190	34,456	551.4
+Santa Cruz County, AZ (04023)	1995	187	35,126	532.4
+Santa Cruz County, AZ (04023)	1996	182	35,335	515.1
+Santa Cruz County, AZ (04023)	1997	216	36,164	597.3
+Santa Cruz County, AZ (04023)	1998	217	36,886	588.3
+Santa Cruz County, AZ (04023)	Total	3,318	561,279	591.1
+Yavapai County, AZ (04025)	1979	723	65,910	1,097.0
+Yavapai County, AZ (04025)	1980	805	68,209	1,180.2
+Yavapai County, AZ (04025)	1981	813	71,003	1,145.0
+Yavapai County, AZ (04025)	1982	888	74,140	1,197.7
+Yavapai County, AZ (04025)	1983	957	76,858	1,245.2
+Yavapai County, AZ (04025)	1984	971	79,671	1,218.8
+Yavapai County, AZ (04025)	1985	1,059	82,700	1,280.5
+Yavapai County, AZ (04025)	1986	1,041	89,102	1,168.3
+Yavapai County, AZ (04025)	1987	1,220	93,883	1,299.5
+Yavapai County, AZ (04025)	1988	1,220	99,621	1,224.6
+Yavapai County, AZ (04025)	1989	1,272	103,689	1,226.7
+Yavapai County, AZ (04025)	1990	1,224	107,707	1,136.4
+Yavapai County, AZ (04025)	1991	1,299	113,013	1,149.4
+Yavapai County, AZ (04025)	1992	1,420	118,394	1,199.4
+Yavapai County, AZ (04025)	1993	1,499	125,127	1,198.0
+Yavapai County, AZ (04025)	1994	1,526	131,975	1,156.3
+Yavapai County, AZ (04025)	1995	1,699	139,950	1,214.0
+Yavapai County, AZ (04025)	1996	1,676	146,467	1,144.3
+Yavapai County, AZ (04025)	1997	1,817	151,957	1,195.7
+Yavapai County, AZ (04025)	1998	1,887	157,812	1,195.7
+Yavapai County, AZ (04025)	Total	25,016	2,097,188	1,192.8
+Yuma County, AZ (04027) †	1979	631	83,831	752.7
+Yuma County, AZ (04027) †	1980	708	90,749	780.2
+Yuma County, AZ (04027) †	1981	682	92,110	740.4
+Yuma County, AZ (04027) †	1982	733	94,082	779.1
+Yuma County, AZ (04027) †	1983	710	97,150	730.8
+Yuma County, AZ (04027) †	1984	750	99,313	755.2
+Yuma County, AZ (04027) †	1985	854	101,589	840.6
+Yuma County, AZ (04027) †	1986	801	104,276	768.2
+Yuma County, AZ (04027) †	1987	838	106,518	786.7
+Yuma County, AZ (04027) †	1988	919	110,846	829.1
+Yuma County, AZ (04027) †	1989	889	117,726	755.1
+Yuma County, AZ (04027) †	1990	853	121,146	704.1
+Yuma County, AZ (04027) †	1991	934	126,640	737.5
+Yuma County, AZ (04027) †	1992	921	133,881	687.9
+Yuma County, AZ (04027) †	1993	1,016	140,755	721.8
+Yuma County, AZ (04027) †	1994	830	128,759	644.6
+Yuma County, AZ (04027) †	1995	902	132,539	680.6
+Yuma County, AZ (04027) †	1996	885	137,881	641.9
+Yuma County, AZ (04027) †	1997	942	144,358	652.5
+Yuma County, AZ (04027) †	1998	954	149,428	638.4
+Yuma County, AZ (04027) †	Total	16,752	2,313,577	724.1
+Total		568,405	72,594,078	783.0

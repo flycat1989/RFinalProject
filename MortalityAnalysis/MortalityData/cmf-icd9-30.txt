@@ -1,0 +1,1104 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Beaverhead County, MT (30001)	1979	65	7,932	819.5
+Beaverhead County, MT (30001)	1980	90	8,192	1,098.6
+Beaverhead County, MT (30001)	1981	86	8,433	1,019.8
+Beaverhead County, MT (30001)	1982	75	8,708	861.3
+Beaverhead County, MT (30001)	1983	77	8,699	885.2
+Beaverhead County, MT (30001)	1984	78	8,485	919.3
+Beaverhead County, MT (30001)	1985	70	8,492	824.3
+Beaverhead County, MT (30001)	1986	60	8,459	709.3
+Beaverhead County, MT (30001)	1987	66	8,443	781.7
+Beaverhead County, MT (30001)	1988	87	8,514	1,021.8
+Beaverhead County, MT (30001)	1989	81	8,513	951.5
+Beaverhead County, MT (30001)	1990	77	8,431	913.3
+Beaverhead County, MT (30001)	1991	70	8,494	824.1
+Beaverhead County, MT (30001)	1992	72	8,698	827.8
+Beaverhead County, MT (30001)	1993	82	8,807	931.1
+Beaverhead County, MT (30001)	1994	79	8,948	882.9
+Beaverhead County, MT (30001)	1995	68	9,212	738.2
+Beaverhead County, MT (30001)	1996	92	9,375	981.3
+Beaverhead County, MT (30001)	1997	94	9,245	1,016.8
+Beaverhead County, MT (30001)	1998	84	9,142	918.8
+Big Horn County, MT (30003)	1979	86	10,950	785.4
+Big Horn County, MT (30003)	1980	101	11,143	906.4
+Big Horn County, MT (30003)	1981	119	10,893	1,092.4
+Big Horn County, MT (30003)	1982	96	10,979	874.4
+Big Horn County, MT (30003)	1983	84	11,097	757.0
+Big Horn County, MT (30003)	1984	87	11,293	770.4
+Big Horn County, MT (30003)	1985	99	11,409	867.7
+Big Horn County, MT (30003)	1986	81	11,460	706.8
+Big Horn County, MT (30003)	1987	88	11,308	778.2
+Big Horn County, MT (30003)	1988	94	11,243	836.1
+Big Horn County, MT (30003)	1989	92	11,477	801.6
+Big Horn County, MT (30003)	1990	85	11,342	749.4
+Big Horn County, MT (30003)	1991	98	11,398	859.8
+Big Horn County, MT (30003)	1992	89	11,599	767.3
+Big Horn County, MT (30003)	1993	102	11,774	866.3
+Big Horn County, MT (30003)	1994	106	12,098	876.2
+Big Horn County, MT (30003)	1995	109	12,229	891.3
+Big Horn County, MT (30003)	1996	89	12,464	714.1
+Big Horn County, MT (30003)	1997	106	12,698	834.8
+Big Horn County, MT (30003)	1998	110	12,691	866.8
+Blaine County, MT (30005)	1979	66	7,252	910.1
+Blaine County, MT (30005)	1980	67	7,021	954.3
+Blaine County, MT (30005)	1981	72	7,016	1,026.2
+Blaine County, MT (30005)	1982	59	6,985	844.7
+Blaine County, MT (30005)	1983	63	6,985	901.9
+Blaine County, MT (30005)	1984	67	7,152	936.8
+Blaine County, MT (30005)	1985	59	7,184	821.3
+Blaine County, MT (30005)	1986	71	7,042	1,008.2
+Blaine County, MT (30005)	1987	60	6,978	859.8
+Blaine County, MT (30005)	1988	77	6,941	1,109.4
+Blaine County, MT (30005)	1989	78	6,925	1,126.4
+Blaine County, MT (30005)	1990	66	6,725	981.4
+Blaine County, MT (30005)	1991	70	6,762	1,035.2
+Blaine County, MT (30005)	1992	67	6,830	981.0
+Blaine County, MT (30005)	1993	73	6,950	1,050.4
+Blaine County, MT (30005)	1994	51	7,054	723.0
+Blaine County, MT (30005)	1995	77	7,029	1,095.5
+Blaine County, MT (30005)	1996	60	7,116	843.2
+Blaine County, MT (30005)	1997	54	7,150	755.2
+Blaine County, MT (30005)	1998	78	7,089	1,100.3
+Broadwater County, MT (30007)	1979	24	3,274	733.0
+Broadwater County, MT (30007)	1980	29	3,246	893.4
+Broadwater County, MT (30007)	1981	25	3,180	786.2
+Broadwater County, MT (30007)	1982	33	3,307	997.9
+Broadwater County, MT (30007)	1983	37	3,394	1,090.2
+Broadwater County, MT (30007)	1984	27	3,425	788.3
+Broadwater County, MT (30007)	1985	38	3,497	1,086.6
+Broadwater County, MT (30007)	1986	33	3,460	953.8
+Broadwater County, MT (30007)	1987	21	3,462	606.6
+Broadwater County, MT (30007)	1988	40	3,430	1,166.2
+Broadwater County, MT (30007)	1989	38	3,321	1,144.2
+Broadwater County, MT (30007)	1990	25	3,335	749.6
+Broadwater County, MT (30007)	1991	28	3,397	824.3
+Broadwater County, MT (30007)	1992	34	3,595	945.8
+Broadwater County, MT (30007)	1993	41	3,646	1,124.5
+Broadwater County, MT (30007)	1994	38	3,760	1,010.6
+Broadwater County, MT (30007)	1995	46	3,993	1,152.0
+Broadwater County, MT (30007)	1996	41	4,135	991.5
+Broadwater County, MT (30007)	1997	40	4,253	940.5
+Broadwater County, MT (30007)	1998	39	4,298	907.4
+Carbon County, MT (30009)	1979	98	8,421	1,163.8
+Carbon County, MT (30009)	1980	109	8,113	1,343.5
+Carbon County, MT (30009)	1981	102	8,174	1,247.9
+Carbon County, MT (30009)	1982	92	8,362	1,100.2
+Carbon County, MT (30009)	1983	90	8,591	1,047.6
+Carbon County, MT (30009)	1984	109	8,755	1,245.0
+Carbon County, MT (30009)	1985	101	8,599	1,174.6
+Carbon County, MT (30009)	1986	108	8,419	1,282.8
+Carbon County, MT (30009)	1987	102	8,209	1,242.5
+Carbon County, MT (30009)	1988	102	8,168	1,248.8
+Carbon County, MT (30009)	1989	85	8,127	1,045.9
+Carbon County, MT (30009)	1990	102	8,067	1,264.4
+Carbon County, MT (30009)	1991	110	8,014	1,372.6
+Carbon County, MT (30009)	1992	86	8,301	1,036.0
+Carbon County, MT (30009)	1993	94	8,577	1,096.0
+Carbon County, MT (30009)	1994	99	8,904	1,111.9
+Carbon County, MT (30009)	1995	87	8,955	971.5
+Carbon County, MT (30009)	1996	67	9,168	730.8
+Carbon County, MT (30009)	1997	100	9,381	1,066.0
+Carbon County, MT (30009)	1998	96	9,354	1,026.3
+Carter County, MT (30011)	1979	20	1,821	1,098.3
+Carter County, MT (30011)	1980	16	1,801	888.4 (Unreliable)
+Carter County, MT (30011)	1981	17	1,784	952.9 (Unreliable)
+Carter County, MT (30011)	1982	21	1,741	1,206.2
+Carter County, MT (30011)	1983	14	1,773	789.6 (Unreliable)
+Carter County, MT (30011)	1984	17	1,728	983.8 (Unreliable)
+Carter County, MT (30011)	1985	17	1,738	978.1 (Unreliable)
+Carter County, MT (30011)	1986	14	1,679	833.8 (Unreliable)
+Carter County, MT (30011)	1987	22	1,654	1,330.1
+Carter County, MT (30011)	1988	13	1,605	810.0 (Unreliable)
+Carter County, MT (30011)	1989	22	1,531	1,437.0
+Carter County, MT (30011)	1990	16	1,496	1,069.5 (Unreliable)
+Carter County, MT (30011)	1991	14	1,441	971.5 (Unreliable)
+Carter County, MT (30011)	1992	21	1,479	1,419.9
+Carter County, MT (30011)	1993	20	1,483	1,348.6
+Carter County, MT (30011)	1994	20	1,513	1,321.9
+Carter County, MT (30011)	1995	14	1,443	970.2 (Unreliable)
+Carter County, MT (30011)	1996	17	1,453	1,170.0 (Unreliable)
+Carter County, MT (30011)	1997	17	1,458	1,166.0 (Unreliable)
+Carter County, MT (30011)	1998	12	1,450	827.6 (Unreliable)
+Cascade County, MT (30013)	1979	658	84,645	777.4
+Cascade County, MT (30013)	1980	596	80,906	736.7
+Cascade County, MT (30013)	1981	629	80,342	782.9
+Cascade County, MT (30013)	1982	629	79,864	787.6
+Cascade County, MT (30013)	1983	673	80,692	834.0
+Cascade County, MT (30013)	1984	619	80,369	770.2
+Cascade County, MT (30013)	1985	618	79,576	776.6
+Cascade County, MT (30013)	1986	645	78,159	825.2
+Cascade County, MT (30013)	1987	616	77,713	792.7
+Cascade County, MT (30013)	1988	636	77,690	818.6
+Cascade County, MT (30013)	1989	645	78,147	825.4
+Cascade County, MT (30013)	1990	613	77,679	789.1
+Cascade County, MT (30013)	1991	692	78,716	879.1
+Cascade County, MT (30013)	1992	627	79,768	786.0
+Cascade County, MT (30013)	1993	716	81,073	883.2
+Cascade County, MT (30013)	1994	705	82,146	858.2
+Cascade County, MT (30013)	1995	711	82,320	863.7
+Cascade County, MT (30013)	1996	745	82,443	903.7
+Cascade County, MT (30013)	1997	747	80,855	923.9
+Cascade County, MT (30013)	1998	726	80,735	899.2
+Chouteau County, MT (30015)	1979	47	6,134	766.2
+Chouteau County, MT (30015)	1980	58	6,086	953.0
+Chouteau County, MT (30015)	1981	66	6,090	1,083.7
+Chouteau County, MT (30015)	1982	74	6,127	1,207.8
+Chouteau County, MT (30015)	1983	55	6,151	894.2
+Chouteau County, MT (30015)	1984	56	6,034	928.1
+Chouteau County, MT (30015)	1985	49	5,914	828.5
+Chouteau County, MT (30015)	1986	61	5,736	1,063.5
+Chouteau County, MT (30015)	1987	61	5,693	1,071.5
+Chouteau County, MT (30015)	1988	47	5,654	831.3
+Chouteau County, MT (30015)	1989	52	5,469	950.8
+Chouteau County, MT (30015)	1990	52	5,441	955.7
+Chouteau County, MT (30015)	1991	63	5,514	1,142.5
+Chouteau County, MT (30015)	1992	49	5,658	866.0
+Chouteau County, MT (30015)	1993	77	5,607	1,373.3
+Chouteau County, MT (30015)	1994	66	5,735	1,150.8
+Chouteau County, MT (30015)	1995	53	5,838	907.8
+Chouteau County, MT (30015)	1996	63	5,904	1,067.1
+Chouteau County, MT (30015)	1997	56	5,839	959.1
+Chouteau County, MT (30015)	1998	46	5,875	783.0
+Custer County, MT (30017)	1979	141	13,173	1,070.4
+Custer County, MT (30017)	1980	135	13,122	1,028.8
+Custer County, MT (30017)	1981	147	13,061	1,125.5
+Custer County, MT (30017)	1982	123	13,090	939.6
+Custer County, MT (30017)	1983	155	13,193	1,174.9
+Custer County, MT (30017)	1984	136	13,217	1,029.0
+Custer County, MT (30017)	1985	130	13,050	996.2
+Custer County, MT (30017)	1986	138	12,772	1,080.5
+Custer County, MT (30017)	1987	130	12,654	1,027.3
+Custer County, MT (30017)	1988	129	12,304	1,048.4
+Custer County, MT (30017)	1989	126	11,849	1,063.4
+Custer County, MT (30017)	1990	132	11,710	1,127.2
+Custer County, MT (30017)	1991	142	11,627	1,221.3
+Custer County, MT (30017)	1992	132	11,810	1,117.7
+Custer County, MT (30017)	1993	148	12,012	1,232.1
+Custer County, MT (30017)	1994	142	12,075	1,176.0
+Custer County, MT (30017)	1995	140	12,079	1,159.0
+Custer County, MT (30017)	1996	168	12,110	1,387.3
+Custer County, MT (30017)	1997	153	12,037	1,271.1
+Custer County, MT (30017)	1998	134	11,966	1,119.8
+Daniels County, MT (30019)	1979	32	2,864	1,117.3
+Daniels County, MT (30019)	1980	42	2,828	1,485.1
+Daniels County, MT (30019)	1981	33	2,801	1,178.2
+Daniels County, MT (30019)	1982	44	2,763	1,592.5
+Daniels County, MT (30019)	1983	33	2,751	1,199.6
+Daniels County, MT (30019)	1984	30	2,678	1,120.2
+Daniels County, MT (30019)	1985	36	2,608	1,380.4
+Daniels County, MT (30019)	1986	26	2,473	1,051.4
+Daniels County, MT (30019)	1987	31	2,466	1,257.1
+Daniels County, MT (30019)	1988	24	2,390	1,004.2
+Daniels County, MT (30019)	1989	27	2,342	1,152.9
+Daniels County, MT (30019)	1990	31	2,255	1,374.7
+Daniels County, MT (30019)	1991	28	2,149	1,302.9
+Daniels County, MT (30019)	1992	31	2,150	1,441.9
+Daniels County, MT (30019)	1993	38	2,153	1,765.0
+Daniels County, MT (30019)	1994	37	2,159	1,713.8
+Daniels County, MT (30019)	1995	30	2,169	1,383.1
+Daniels County, MT (30019)	1996	31	2,141	1,447.9
+Daniels County, MT (30019)	1997	30	2,092	1,434.0
+Daniels County, MT (30019)	1998	25	2,055	1,216.5
+Dawson County, MT (30021)	1979	88	11,898	739.6
+Dawson County, MT (30021)	1980	114	11,818	964.6
+Dawson County, MT (30021)	1981	79	11,911	663.3
+Dawson County, MT (30021)	1982	85	12,448	682.8
+Dawson County, MT (30021)	1983	87	12,273	708.9
+Dawson County, MT (30021)	1984	64	11,847	540.2
+Dawson County, MT (30021)	1985	85	11,428	743.8
+Dawson County, MT (30021)	1986	76	10,904	697.0
+Dawson County, MT (30021)	1987	70	10,427	671.3
+Dawson County, MT (30021)	1988	86	10,230	840.7
+Dawson County, MT (30021)	1989	57	9,923	574.4
+Dawson County, MT (30021)	1990	90	9,499	947.5
+Dawson County, MT (30021)	1991	97	9,316	1,041.2
+Dawson County, MT (30021)	1992	85	9,127	931.3
+Dawson County, MT (30021)	1993	94	9,121	1,030.6
+Dawson County, MT (30021)	1994	89	9,126	975.2
+Dawson County, MT (30021)	1995	61	9,235	660.5
+Dawson County, MT (30021)	1996	84	9,303	902.9
+Dawson County, MT (30021)	1997	99	9,261	1,069.0
+Dawson County, MT (30021)	1998	96	9,144	1,049.9
+Deer Lodge County, MT (30023)	1979	160	12,913	1,239.1
+Deer Lodge County, MT (30023)	1980	158	12,515	1,262.5
+Deer Lodge County, MT (30023)	1981	159	11,628	1,367.4
+Deer Lodge County, MT (30023)	1982	137	11,383	1,203.5
+Deer Lodge County, MT (30023)	1983	140	11,189	1,251.2
+Deer Lodge County, MT (30023)	1984	151	10,991	1,373.9
+Deer Lodge County, MT (30023)	1985	137	10,932	1,253.2
+Deer Lodge County, MT (30023)	1986	142	10,664	1,331.6
+Deer Lodge County, MT (30023)	1987	149	10,524	1,415.8
+Deer Lodge County, MT (30023)	1988	145	10,440	1,388.9
+Deer Lodge County, MT (30023)	1989	139	10,354	1,342.5
+Deer Lodge County, MT (30023)	1990	141	10,293	1,369.9
+Deer Lodge County, MT (30023)	1991	124	10,194	1,216.4
+Deer Lodge County, MT (30023)	1992	139	10,067	1,380.7
+Deer Lodge County, MT (30023)	1993	139	10,095	1,376.9
+Deer Lodge County, MT (30023)	1994	118	10,110	1,167.2
+Deer Lodge County, MT (30023)	1995	143	10,104	1,415.3
+Deer Lodge County, MT (30023)	1996	137	9,915	1,381.7
+Deer Lodge County, MT (30023)	1997	125	9,870	1,266.5
+Deer Lodge County, MT (30023)	1998	126	9,814	1,283.9
+Fallon County, MT (30025)	1979	28	3,865	724.5
+Fallon County, MT (30025)	1980	26	3,771	689.5
+Fallon County, MT (30025)	1981	41	3,757	1,091.3
+Fallon County, MT (30025)	1982	25	3,790	659.6
+Fallon County, MT (30025)	1983	25	3,790	659.6
+Fallon County, MT (30025)	1984	20	3,716	538.2
+Fallon County, MT (30025)	1985	36	3,710	970.4
+Fallon County, MT (30025)	1986	27	3,557	759.1
+Fallon County, MT (30025)	1987	28	3,417	819.4
+Fallon County, MT (30025)	1988	35	3,293	1,062.9
+Fallon County, MT (30025)	1989	31	3,228	960.3
+Fallon County, MT (30025)	1990	27	3,100	871.0
+Fallon County, MT (30025)	1991	25	3,090	809.1
+Fallon County, MT (30025)	1992	32	2,992	1,069.5
+Fallon County, MT (30025)	1993	37	2,966	1,247.5
+Fallon County, MT (30025)	1994	30	3,033	989.1
+Fallon County, MT (30025)	1995	29	2,981	972.8
+Fallon County, MT (30025)	1996	33	2,979	1,107.8
+Fallon County, MT (30025)	1997	33	3,018	1,093.4
+Fallon County, MT (30025)	1998	35	2,993	1,169.4
+Fergus County, MT (30027)	1979	156	13,060	1,194.5
+Fergus County, MT (30027)	1980	150	13,086	1,146.3
+Fergus County, MT (30027)	1981	152	13,083	1,161.8
+Fergus County, MT (30027)	1982	178	13,018	1,367.3
+Fergus County, MT (30027)	1983	157	12,929	1,214.3
+Fergus County, MT (30027)	1984	154	12,872	1,196.4
+Fergus County, MT (30027)	1985	146	12,884	1,133.2
+Fergus County, MT (30027)	1986	136	12,599	1,079.5
+Fergus County, MT (30027)	1987	131	12,395	1,056.9
+Fergus County, MT (30027)	1988	181	12,165	1,487.9
+Fergus County, MT (30027)	1989	157	12,146	1,292.6
+Fergus County, MT (30027)	1990	161	12,090	1,331.7
+Fergus County, MT (30027)	1991	168	12,303	1,365.5
+Fergus County, MT (30027)	1992	172	12,401	1,387.0
+Fergus County, MT (30027)	1993	195	12,383	1,574.7
+Fergus County, MT (30027)	1994	159	12,528	1,269.2
+Fergus County, MT (30027)	1995	161	12,569	1,280.9
+Fergus County, MT (30027)	1996	181	12,519	1,445.8
+Fergus County, MT (30027)	1997	172	12,328	1,395.2
+Fergus County, MT (30027)	1998	139	12,118	1,147.1
+Flathead County, MT (30029)	1979	421	51,557	816.6
+Flathead County, MT (30029)	1980	409	52,038	786.0
+Flathead County, MT (30029)	1981	398	52,435	759.0
+Flathead County, MT (30029)	1982	397	52,684	753.5
+Flathead County, MT (30029)	1983	429	53,856	796.6
+Flathead County, MT (30029)	1984	481	56,096	857.5
+Flathead County, MT (30029)	1985	460	57,588	798.8
+Flathead County, MT (30029)	1986	500	57,678	866.9
+Flathead County, MT (30029)	1987	443	57,324	772.8
+Flathead County, MT (30029)	1988	452	57,506	786.0
+Flathead County, MT (30029)	1989	468	58,391	801.5
+Flathead County, MT (30029)	1990	497	59,211	839.4
+Flathead County, MT (30029)	1991	520	60,913	853.7
+Flathead County, MT (30029)	1992	550	62,937	873.9
+Flathead County, MT (30029)	1993	582	65,452	889.2
+Flathead County, MT (30029)	1994	511	67,658	755.3
+Flathead County, MT (30029)	1995	557	69,883	797.0
+Flathead County, MT (30029)	1996	549	71,491	767.9
+Flathead County, MT (30029)	1997	594	72,359	820.9
+Flathead County, MT (30029)	1998	603	72,613	830.4
+Gallatin County, MT (30031) †	1979	228	42,149	540.9
+Gallatin County, MT (30031) †	1980	257	42,952	598.3
+Gallatin County, MT (30031) †	1981	245	44,093	555.6
+Gallatin County, MT (30031) †	1982	258	45,400	568.3
+Gallatin County, MT (30031) †	1983	228	46,453	490.8
+Gallatin County, MT (30031) †	1984	243	47,700	509.4
+Gallatin County, MT (30031) †	1985	256	48,989	522.6
+Gallatin County, MT (30031) †	1986	224	49,098	456.2
+Gallatin County, MT (30031) †	1987	261	48,842	534.4
+Gallatin County, MT (30031) †	1988	246	48,781	504.3
+Gallatin County, MT (30031) †	1989	259	49,584	522.3
+Gallatin County, MT (30031) †	1990	252	50,449	499.5
+Gallatin County, MT (30031) †	1991	289	52,580	549.6
+Gallatin County, MT (30031) †	1992	268	54,602	490.8
+Gallatin County, MT (30031) †	1993	296	56,690	522.1
+Gallatin County, MT (30031) †	1994	290	58,878	492.5
+Gallatin County, MT (30031) †	1995	271	60,597	447.2
+Gallatin County, MT (30031) †	1996	287	61,816	464.3
+Gallatin County, MT (30031) †	1997	295	63,157	467.1
+Gallatin County, MT (30031) †	1998	336	64,822	518.3
+Garfield County, MT (30033)	1979	11	1,742	631.5 (Unreliable)
+Garfield County, MT (30033)	1980	18	1,653	1,088.9 (Unreliable)
+Garfield County, MT (30033)	1981	10	1,663	601.3 (Unreliable)
+Garfield County, MT (30033)	1982	11	1,648	667.5 (Unreliable)
+Garfield County, MT (30033)	1983	14	1,656	845.4 (Unreliable)
+Garfield County, MT (30033)	1984	8	1,678	476.8 (Unreliable)
+Garfield County, MT (30033)	1985	12	1,643	730.4 (Unreliable)
+Garfield County, MT (30033)	1986	16	1,587	1,008.2 (Unreliable)
+Garfield County, MT (30033)	1987	16	1,581	1,012.0 (Unreliable)
+Garfield County, MT (30033)	1988	13	1,617	804.0 (Unreliable)
+Garfield County, MT (30033)	1989	10	1,593	627.7 (Unreliable)
+Garfield County, MT (30033)	1991	10	1,484	673.9 (Unreliable)
+Garfield County, MT (30033)	1992	12	1,411	850.5 (Unreliable)
+Garfield County, MT (30033)	1993	10	1,405	711.7 (Unreliable)
+Garfield County, MT (30033)	1994	22	1,389	1,583.9
+Garfield County, MT (30033)	1995	12	1,354	886.3 (Unreliable)
+Garfield County, MT (30033)	1996	20	1,364	1,466.3
+Garfield County, MT (30033)	1997	12	1,373	874.0 (Unreliable)
+Garfield County, MT (30033)	1998	20	1,329	1,504.9
+Glacier County, MT (30035)	1979	108	10,438	1,034.7
+Glacier County, MT (30035)	1980	110	10,700	1,028.0
+Glacier County, MT (30035)	1981	99	10,497	943.1
+Glacier County, MT (30035)	1982	116	10,927	1,061.6
+Glacier County, MT (30035)	1983	123	11,285	1,089.9
+Glacier County, MT (30035)	1984	100	11,690	855.4
+Glacier County, MT (30035)	1985	109	11,684	932.9
+Glacier County, MT (30035)	1986	106	11,648	910.0
+Glacier County, MT (30035)	1987	111	11,803	940.4
+Glacier County, MT (30035)	1988	101	11,865	851.2
+Glacier County, MT (30035)	1989	93	12,074	770.3
+Glacier County, MT (30035)	1990	98	12,090	810.6
+Glacier County, MT (30035)	1991	86	12,078	712.0
+Glacier County, MT (30035)	1992	103	12,313	836.5
+Glacier County, MT (30035)	1993	83	12,475	665.3
+Glacier County, MT (30035)	1994	102	12,710	802.5
+Glacier County, MT (30035)	1995	128	12,899	992.3
+Glacier County, MT (30035)	1996	116	13,121	884.1
+Glacier County, MT (30035)	1997	123	13,185	932.9
+Glacier County, MT (30035)	1998	115	13,146	874.8
+Golden Valley County, MT (30037)	1979	13	1,006	1,292.2 (Unreliable)
+Golden Valley County, MT (30037)	1980	9	1,029	874.6 (Unreliable)
+Golden Valley County, MT (30037)	1981	7	1,090	642.2 (Unreliable)
+Golden Valley County, MT (30037)	1982	7	1,059	661.0 (Unreliable)
+Golden Valley County, MT (30037)	1983	8	1,042	767.8 (Unreliable)
+Golden Valley County, MT (30037)	1984	11	1,049	1,048.6 (Unreliable)
+Golden Valley County, MT (30037)	1985	12	1,062	1,129.9 (Unreliable)
+Golden Valley County, MT (30037)	1986	11	1,021	1,077.4 (Unreliable)
+Golden Valley County, MT (30037)	1987	10	1,014	986.2 (Unreliable)
+Golden Valley County, MT (30037)	1988	8	974	821.4 (Unreliable)
+Golden Valley County, MT (30037)	1990	10	910	1,098.9 (Unreliable)
+Golden Valley County, MT (30037)	1991	14	907	1,543.6 (Unreliable)
+Golden Valley County, MT (30037)	1994	11	969	1,135.2 (Unreliable)
+Granite County, MT (30039)	1979	30	2,723	1,101.7
+Granite County, MT (30039)	1980	30	2,687	1,116.5
+Granite County, MT (30039)	1981	41	2,697	1,520.2
+Granite County, MT (30039)	1982	24	2,642	908.4
+Granite County, MT (30039)	1983	27	2,694	1,002.2
+Granite County, MT (30039)	1984	33	2,686	1,228.6
+Granite County, MT (30039)	1985	24	2,695	890.5
+Granite County, MT (30039)	1986	31	2,618	1,184.1
+Granite County, MT (30039)	1987	23	2,586	889.4
+Granite County, MT (30039)	1988	30	2,644	1,134.6
+Granite County, MT (30039)	1989	32	2,635	1,214.4
+Granite County, MT (30039)	1990	24	2,541	944.5
+Granite County, MT (30039)	1991	28	2,518	1,112.0
+Granite County, MT (30039)	1992	32	2,563	1,248.5
+Granite County, MT (30039)	1993	21	2,634	797.3
+Granite County, MT (30039)	1994	28	2,707	1,034.4
+Granite County, MT (30039)	1995	33	2,691	1,226.3
+Granite County, MT (30039)	1996	39	2,734	1,426.5
+Granite County, MT (30039)	1997	35	2,789	1,254.9
+Granite County, MT (30039)	1998	33	2,801	1,178.2
+Hill County, MT (30041)	1979	139	18,083	768.7
+Hill County, MT (30041)	1980	140	18,053	775.5
+Hill County, MT (30041)	1981	144	18,305	786.7
+Hill County, MT (30041)	1982	143	18,517	772.3
+Hill County, MT (30041)	1983	138	18,368	751.3
+Hill County, MT (30041)	1984	131	18,181	720.5
+Hill County, MT (30041)	1985	130	17,820	729.5
+Hill County, MT (30041)	1986	153	17,660	866.4
+Hill County, MT (30041)	1987	148	17,608	840.5
+Hill County, MT (30041)	1988	141	17,513	805.1
+Hill County, MT (30041)	1989	129	17,596	733.1
+Hill County, MT (30041)	1990	156	17,631	884.8
+Hill County, MT (30041)	1991	136	17,650	770.5
+Hill County, MT (30041)	1992	151	17,685	853.8
+Hill County, MT (30041)	1993	131	17,435	751.4
+Hill County, MT (30041)	1994	149	17,302	861.2
+Hill County, MT (30041)	1995	153	17,430	877.8
+Hill County, MT (30041)	1996	138	17,389	793.6
+Hill County, MT (30041)	1997	156	17,229	905.5
+Hill County, MT (30041)	1998	156	17,096	912.5
+Jefferson County, MT (30043)	1979	52	7,235	718.7
+Jefferson County, MT (30043)	1980	50	7,049	709.3
+Jefferson County, MT (30043)	1981	59	7,256	813.1
+Jefferson County, MT (30043)	1982	43	7,325	587.0
+Jefferson County, MT (30043)	1983	57	7,590	751.0
+Jefferson County, MT (30043)	1984	64	7,713	829.8
+Jefferson County, MT (30043)	1985	64	7,697	831.5
+Jefferson County, MT (30043)	1986	66	7,648	863.0
+Jefferson County, MT (30043)	1987	56	7,761	721.6
+Jefferson County, MT (30043)	1988	67	7,789	860.2
+Jefferson County, MT (30043)	1989	72	7,830	919.5
+Jefferson County, MT (30043)	1990	64	7,932	806.9
+Jefferson County, MT (30043)	1991	68	8,076	842.0
+Jefferson County, MT (30043)	1992	65	8,202	792.5
+Jefferson County, MT (30043)	1993	59	8,476	696.1
+Jefferson County, MT (30043)	1994	66	8,865	744.5
+Jefferson County, MT (30043)	1995	63	9,093	692.8
+Jefferson County, MT (30043)	1996	87	9,398	925.7
+Jefferson County, MT (30043)	1997	58	9,555	607.0
+Jefferson County, MT (30043)	1998	77	9,782	787.2
+Judith Basin County, MT (30045)	1979	26	2,681	969.8
+Judith Basin County, MT (30045)	1980	24	2,640	909.1
+Judith Basin County, MT (30045)	1981	24	2,704	887.6
+Judith Basin County, MT (30045)	1982	19	2,638	720.2 (Unreliable)
+Judith Basin County, MT (30045)	1983	17	2,671	636.5 (Unreliable)
+Judith Basin County, MT (30045)	1984	18	2,629	684.7 (Unreliable)
+Judith Basin County, MT (30045)	1985	14	2,575	543.7 (Unreliable)
+Judith Basin County, MT (30045)	1986	17	2,498	680.5 (Unreliable)
+Judith Basin County, MT (30045)	1987	20	2,429	823.4
+Judith Basin County, MT (30045)	1988	20	2,376	841.8
+Judith Basin County, MT (30045)	1989	14	2,319	603.7 (Unreliable)
+Judith Basin County, MT (30045)	1990	14	2,298	609.2 (Unreliable)
+Judith Basin County, MT (30045)	1991	25	2,287	1,093.1
+Judith Basin County, MT (30045)	1992	16	2,282	701.1 (Unreliable)
+Judith Basin County, MT (30045)	1993	17	2,274	747.6 (Unreliable)
+Judith Basin County, MT (30045)	1994	20	2,249	889.3
+Judith Basin County, MT (30045)	1995	19	2,285	831.5 (Unreliable)
+Judith Basin County, MT (30045)	1996	17	2,324	731.5 (Unreliable)
+Judith Basin County, MT (30045)	1997	23	2,340	982.9
+Judith Basin County, MT (30045)	1998	20	2,317	863.2
+Lake County, MT (30047)	1979	190	18,601	1,021.5
+Lake County, MT (30047)	1980	200	19,071	1,048.7
+Lake County, MT (30047)	1981	179	19,243	930.2
+Lake County, MT (30047)	1982	196	19,514	1,004.4
+Lake County, MT (30047)	1983	195	19,836	983.1
+Lake County, MT (30047)	1984	204	20,372	1,001.4
+Lake County, MT (30047)	1985	183	20,807	879.5
+Lake County, MT (30047)	1986	188	20,595	912.8
+Lake County, MT (30047)	1987	197	20,579	957.3
+Lake County, MT (30047)	1988	194	20,740	935.4
+Lake County, MT (30047)	1989	207	21,093	981.4
+Lake County, MT (30047)	1990	201	21,014	956.5
+Lake County, MT (30047)	1991	208	21,582	963.8
+Lake County, MT (30047)	1992	197	21,996	895.6
+Lake County, MT (30047)	1993	203	22,963	884.0
+Lake County, MT (30047)	1994	228	23,626	965.0
+Lake County, MT (30047)	1995	243	24,424	994.9
+Lake County, MT (30047)	1996	234	25,038	934.6
+Lake County, MT (30047)	1997	226	25,463	887.6
+Lake County, MT (30047)	1998	243	25,657	947.1
+Lewis and Clark County, MT (30049)	1979	334	42,645	783.2
+Lewis and Clark County, MT (30049)	1980	314	43,091	728.7
+Lewis and Clark County, MT (30049)	1981	336	44,234	759.6
+Lewis and Clark County, MT (30049)	1982	357	44,859	795.8
+Lewis and Clark County, MT (30049)	1983	364	45,601	798.2
+Lewis and Clark County, MT (30049)	1984	329	46,200	712.1
+Lewis and Clark County, MT (30049)	1985	365	46,931	777.7
+Lewis and Clark County, MT (30049)	1986	318	47,066	675.6
+Lewis and Clark County, MT (30049)	1987	372	47,474	783.6
+Lewis and Clark County, MT (30049)	1988	350	47,290	740.1
+Lewis and Clark County, MT (30049)	1989	351	47,291	742.2
+Lewis and Clark County, MT (30049)	1990	396	47,476	834.1
+Lewis and Clark County, MT (30049)	1991	368	48,423	760.0
+Lewis and Clark County, MT (30049)	1992	375	49,787	753.2
+Lewis and Clark County, MT (30049)	1993	395	51,152	772.2
+Lewis and Clark County, MT (30049)	1994	388	52,042	745.6
+Lewis and Clark County, MT (30049)	1995	409	53,336	766.8
+Lewis and Clark County, MT (30049)	1996	448	54,068	828.6
+Lewis and Clark County, MT (30049)	1997	377	54,204	695.5
+Lewis and Clark County, MT (30049)	1998	426	54,643	779.6
+Liberty County, MT (30051)	1979	14	2,365	592.0 (Unreliable)
+Liberty County, MT (30051)	1980	15	2,344	639.9 (Unreliable)
+Liberty County, MT (30051)	1981	20	2,383	839.3
+Liberty County, MT (30051)	1982	24	2,428	988.5
+Liberty County, MT (30051)	1983	30	2,423	1,238.1
+Liberty County, MT (30051)	1984	28	2,450	1,142.9
+Liberty County, MT (30051)	1985	19	2,384	797.0 (Unreliable)
+Liberty County, MT (30051)	1986	25	2,340	1,068.4
+Liberty County, MT (30051)	1987	31	2,359	1,314.1
+Liberty County, MT (30051)	1988	20	2,411	829.5
+Liberty County, MT (30051)	1989	18	2,301	782.3 (Unreliable)
+Liberty County, MT (30051)	1990	20	2,313	864.7
+Liberty County, MT (30051)	1991	18	2,257	797.5 (Unreliable)
+Liberty County, MT (30051)	1992	15	2,254	665.5 (Unreliable)
+Liberty County, MT (30051)	1993	23	2,226	1,033.2
+Liberty County, MT (30051)	1994	12	2,238	536.2 (Unreliable)
+Liberty County, MT (30051)	1995	22	2,250	977.8
+Liberty County, MT (30051)	1996	23	2,304	998.3
+Liberty County, MT (30051)	1997	26	2,313	1,124.1
+Liberty County, MT (30051)	1998	27	2,267	1,191.0
+Lincoln County, MT (30053)	1979	103	17,934	574.3
+Lincoln County, MT (30053)	1980	123	17,770	692.2
+Lincoln County, MT (30053)	1981	113	17,839	633.4
+Lincoln County, MT (30053)	1982	124	17,963	690.3
+Lincoln County, MT (30053)	1983	134	18,312	731.8
+Lincoln County, MT (30053)	1984	127	18,666	680.4
+Lincoln County, MT (30053)	1985	146	18,589	785.4
+Lincoln County, MT (30053)	1986	135	18,217	741.1
+Lincoln County, MT (30053)	1987	135	17,981	750.8
+Lincoln County, MT (30053)	1988	122	17,797	685.5
+Lincoln County, MT (30053)	1989	157	17,522	896.0
+Lincoln County, MT (30053)	1990	148	17,468	847.3
+Lincoln County, MT (30053)	1991	134	17,622	760.4
+Lincoln County, MT (30053)	1992	165	17,631	935.9
+Lincoln County, MT (30053)	1993	152	18,285	831.3
+Lincoln County, MT (30053)	1994	173	18,419	939.2
+Lincoln County, MT (30053)	1995	158	18,731	843.5
+Lincoln County, MT (30053)	1996	206	18,808	1,095.3
+Lincoln County, MT (30053)	1997	165	18,784	878.4
+Lincoln County, MT (30053)	1998	191	18,767	1,017.7
+McCone County, MT (30055)	1979	25	2,722	918.4
+McCone County, MT (30055)	1980	20	2,685	744.9
+McCone County, MT (30055)	1981	22	2,775	792.8
+McCone County, MT (30055)	1982	20	2,810	711.7
+McCone County, MT (30055)	1983	19	2,763	687.7 (Unreliable)
+McCone County, MT (30055)	1984	19	2,635	721.1 (Unreliable)
+McCone County, MT (30055)	1985	23	2,547	903.0
+McCone County, MT (30055)	1986	28	2,524	1,109.4
+McCone County, MT (30055)	1987	22	2,437	902.7
+McCone County, MT (30055)	1988	25	2,411	1,036.9
+McCone County, MT (30055)	1989	20	2,362	846.7
+McCone County, MT (30055)	1990	18	2,275	791.2 (Unreliable)
+McCone County, MT (30055)	1991	26	2,187	1,188.8
+McCone County, MT (30055)	1992	24	2,131	1,126.2
+McCone County, MT (30055)	1993	20	2,171	921.2
+McCone County, MT (30055)	1994	25	2,180	1,146.8
+McCone County, MT (30055)	1995	21	2,167	969.1
+McCone County, MT (30055)	1996	16	2,126	752.6 (Unreliable)
+McCone County, MT (30055)	1997	21	2,099	1,000.5
+McCone County, MT (30055)	1998	16	2,041	783.9 (Unreliable)
+Madison County, MT (30057)	1979	83	5,555	1,494.1
+Madison County, MT (30057)	1980	64	5,448	1,174.7
+Madison County, MT (30057)	1981	76	5,722	1,328.2
+Madison County, MT (30057)	1982	53	5,841	907.4
+Madison County, MT (30057)	1983	59	5,891	1,001.5
+Madison County, MT (30057)	1984	71	5,913	1,200.7
+Madison County, MT (30057)	1985	61	5,866	1,039.9
+Madison County, MT (30057)	1986	69	5,853	1,178.9
+Madison County, MT (30057)	1987	53	5,906	897.4
+Madison County, MT (30057)	1988	56	5,859	955.8
+Madison County, MT (30057)	1989	68	5,930	1,146.7
+Madison County, MT (30057)	1990	74	6,005	1,232.3
+Madison County, MT (30057)	1991	67	6,100	1,098.4
+Madison County, MT (30057)	1992	80	6,054	1,321.4
+Madison County, MT (30057)	1993	65	6,157	1,055.7
+Madison County, MT (30057)	1994	58	6,352	913.1
+Madison County, MT (30057)	1995	66	6,657	991.4
+Madison County, MT (30057)	1996	83	6,671	1,244.2
+Madison County, MT (30057)	1997	64	6,796	941.7
+Madison County, MT (30057)	1998	61	6,755	903.0
+Meagher County, MT (30059)	1979	19	2,304	824.7 (Unreliable)
+Meagher County, MT (30059)	1980	19	2,153	882.5 (Unreliable)
+Meagher County, MT (30059)	1981	23	2,170	1,059.9
+Meagher County, MT (30059)	1982	18	2,205	816.3 (Unreliable)
+Meagher County, MT (30059)	1983	38	2,253	1,686.6
+Meagher County, MT (30059)	1984	24	2,155	1,113.7
+Meagher County, MT (30059)	1985	13	2,079	625.3 (Unreliable)
+Meagher County, MT (30059)	1986	22	2,016	1,091.3
+Meagher County, MT (30059)	1987	15	1,959	765.7 (Unreliable)
+Meagher County, MT (30059)	1988	14	1,844	759.2 (Unreliable)
+Meagher County, MT (30059)	1989	15	1,829	820.1 (Unreliable)
+Meagher County, MT (30059)	1990	28	1,815	1,542.7
+Meagher County, MT (30059)	1991	19	1,846	1,029.3 (Unreliable)
+Meagher County, MT (30059)	1992	23	1,843	1,248.0
+Meagher County, MT (30059)	1993	16	1,874	853.8 (Unreliable)
+Meagher County, MT (30059)	1994	25	1,903	1,313.7
+Meagher County, MT (30059)	1995	22	1,896	1,160.3
+Meagher County, MT (30059)	1996	28	1,896	1,476.8
+Meagher County, MT (30059)	1997	16	1,924	831.6 (Unreliable)
+Meagher County, MT (30059)	1998	19	1,940	979.4 (Unreliable)
+Mineral County, MT (30061)	1979	37	3,743	988.5
+Mineral County, MT (30061)	1980	28	3,680	760.9
+Mineral County, MT (30061)	1981	24	3,579	670.6
+Mineral County, MT (30061)	1982	30	3,510	854.7
+Mineral County, MT (30061)	1983	31	3,565	869.6
+Mineral County, MT (30061)	1984	33	3,744	881.4
+Mineral County, MT (30061)	1985	19	3,637	522.4 (Unreliable)
+Mineral County, MT (30061)	1986	31	3,506	884.2
+Mineral County, MT (30061)	1987	26	3,405	763.6
+Mineral County, MT (30061)	1988	31	3,288	942.8
+Mineral County, MT (30061)	1989	24	3,240	740.7
+Mineral County, MT (30061)	1990	29	3,311	875.9
+Mineral County, MT (30061)	1991	27	3,330	810.8
+Mineral County, MT (30061)	1992	32	3,456	925.9
+Mineral County, MT (30061)	1993	30	3,615	829.9
+Mineral County, MT (30061)	1994	42	3,635	1,155.4
+Mineral County, MT (30061)	1995	32	3,614	885.4
+Mineral County, MT (30061)	1996	33	3,718	887.6
+Mineral County, MT (30061)	1997	29	3,737	776.0
+Mineral County, MT (30061)	1998	35	3,787	924.2
+Missoula County, MT (30063)	1979	450	74,294	605.7
+Missoula County, MT (30063)	1980	487	76,282	638.4
+Missoula County, MT (30063)	1981	488	76,539	637.6
+Missoula County, MT (30063)	1982	478	75,329	634.5
+Missoula County, MT (30063)	1983	473	75,558	626.0
+Missoula County, MT (30063)	1984	485	76,920	630.5
+Missoula County, MT (30063)	1985	480	77,766	617.2
+Missoula County, MT (30063)	1986	531	77,951	681.2
+Missoula County, MT (30063)	1987	502	77,535	647.4
+Missoula County, MT (30063)	1988	497	77,503	641.3
+Missoula County, MT (30063)	1989	519	77,987	665.5
+Missoula County, MT (30063)	1990	507	78,616	644.9
+Missoula County, MT (30063)	1991	506	81,090	624.0
+Missoula County, MT (30063)	1992	552	83,516	661.0
+Missoula County, MT (30063)	1993	611	86,221	708.6
+Missoula County, MT (30063)	1994	588	88,032	667.9
+Missoula County, MT (30063)	1995	599	90,411	662.5
+Missoula County, MT (30063)	1996	556	91,865	605.2
+Missoula County, MT (30063)	1997	631	93,057	678.1
+Missoula County, MT (30063)	1998	664	93,846	707.5
+Musselshell County, MT (30065)	1979	54	4,591	1,176.2
+Musselshell County, MT (30065)	1980	47	4,429	1,061.2
+Musselshell County, MT (30065)	1981	53	4,656	1,138.3
+Musselshell County, MT (30065)	1982	42	4,712	891.3
+Musselshell County, MT (30065)	1983	43	4,787	898.3
+Musselshell County, MT (30065)	1984	51	4,788	1,065.2
+Musselshell County, MT (30065)	1985	53	4,747	1,116.5
+Musselshell County, MT (30065)	1986	39	4,549	857.3
+Musselshell County, MT (30065)	1987	52	4,439	1,171.4
+Musselshell County, MT (30065)	1988	48	4,286	1,119.9
+Musselshell County, MT (30065)	1989	54	4,122	1,310.0
+Musselshell County, MT (30065)	1990	43	4,110	1,046.2
+Musselshell County, MT (30065)	1991	49	4,127	1,187.3
+Musselshell County, MT (30065)	1992	43	4,084	1,052.9
+Musselshell County, MT (30065)	1993	62	4,184	1,481.8
+Musselshell County, MT (30065)	1994	56	4,357	1,285.3
+Musselshell County, MT (30065)	1995	62	4,465	1,388.6
+Musselshell County, MT (30065)	1996	60	4,616	1,299.8
+Musselshell County, MT (30065)	1997	61	4,528	1,347.2
+Musselshell County, MT (30065)	1998	59	4,496	1,312.3
+Park County, MT (30067) †	1979	126	12,756	987.8
+Park County, MT (30067) †	1980	133	12,692	1,047.9
+Park County, MT (30067) †	1981	125	13,465	928.3
+Park County, MT (30067) †	1982	133	13,565	980.5
+Park County, MT (30067) †	1983	150	13,747	1,091.1
+Park County, MT (30067) †	1984	143	13,796	1,036.5
+Park County, MT (30067) †	1985	138	13,970	987.8
+Park County, MT (30067) †	1986	152	13,863	1,096.4
+Park County, MT (30067) †	1987	116	13,120	884.1
+Park County, MT (30067) †	1988	135	13,403	1,007.2
+Park County, MT (30067) †	1989	152	13,964	1,088.5
+Park County, MT (30067) †	1990	142	14,532	977.2
+Park County, MT (30067) †	1991	129	14,484	890.6
+Park County, MT (30067) †	1992	169	14,679	1,151.3
+Park County, MT (30067) †	1993	132	15,196	868.6
+Park County, MT (30067) †	1994	153	15,502	987.0
+Park County, MT (30067) †	1995	164	15,717	1,043.5
+Park County, MT (30067) †	1996	146	15,838	921.8
+Park County, MT (30067) †	1997	143	15,788	905.8
+Park County, MT (30067) †	1998	150	15,418	972.9
+Petroleum County, MT (30069)	1979	3	664	451.8 (Unreliable)
+Petroleum County, MT (30069)	1980	5	661	756.4 (Unreliable)
+Petroleum County, MT (30069)	1981	5	650	769.2 (Unreliable)
+Petroleum County, MT (30069)	1982	2	636	314.5 (Unreliable)
+Petroleum County, MT (30069)	1983	7	622	1,125.4 (Unreliable)
+Petroleum County, MT (30069)	1984	5	600	833.3 (Unreliable)
+Petroleum County, MT (30069)	1985	4	577	693.2 (Unreliable)
+Petroleum County, MT (30069)	1986	4	560	714.3 (Unreliable)
+Petroleum County, MT (30069)	1987	2	531	376.6 (Unreliable)
+Petroleum County, MT (30069)	1988	3	513	584.8 (Unreliable)
+Phillips County, MT (30071)	1979	58	5,255	1,103.7
+Phillips County, MT (30071)	1980	61	5,373	1,135.3
+Phillips County, MT (30071)	1981	58	5,404	1,073.3
+Phillips County, MT (30071)	1982	57	5,428	1,050.1
+Phillips County, MT (30071)	1983	65	5,611	1,158.4
+Phillips County, MT (30071)	1984	59	5,636	1,046.8
+Phillips County, MT (30071)	1985	58	5,559	1,043.4
+Phillips County, MT (30071)	1986	54	5,333	1,012.6
+Phillips County, MT (30071)	1987	56	5,291	1,058.4
+Phillips County, MT (30071)	1988	66	5,219	1,264.6
+Phillips County, MT (30071)	1989	47	5,273	891.3
+Phillips County, MT (30071)	1990	59	5,151	1,145.4
+Phillips County, MT (30071)	1991	54	5,149	1,048.7
+Phillips County, MT (30071)	1992	54	5,087	1,061.5
+Phillips County, MT (30071)	1993	43	5,028	855.2
+Phillips County, MT (30071)	1994	50	5,011	997.8
+Phillips County, MT (30071)	1995	52	5,115	1,016.6
+Phillips County, MT (30071)	1996	57	5,032	1,132.8
+Phillips County, MT (30071)	1997	46	4,951	929.1
+Phillips County, MT (30071)	1998	52	4,825	1,077.7
+Pondera County, MT (30073)	1979	55	6,882	799.2
+Pondera County, MT (30073)	1980	48	6,738	712.4
+Pondera County, MT (30073)	1981	73	6,729	1,084.9
+Pondera County, MT (30073)	1982	62	6,873	902.1
+Pondera County, MT (30073)	1983	67	6,929	967.0
+Pondera County, MT (30073)	1984	69	6,882	1,002.6
+Pondera County, MT (30073)	1985	53	6,741	786.2
+Pondera County, MT (30073)	1986	69	6,539	1,055.2
+Pondera County, MT (30073)	1987	59	6,428	917.9
+Pondera County, MT (30073)	1988	66	6,515	1,013.0
+Pondera County, MT (30073)	1989	67	6,557	1,021.8
+Pondera County, MT (30073)	1990	67	6,442	1,040.0
+Pondera County, MT (30073)	1991	67	6,267	1,069.1
+Pondera County, MT (30073)	1992	62	6,299	984.3
+Pondera County, MT (30073)	1993	55	6,236	882.0
+Pondera County, MT (30073)	1994	77	6,292	1,223.8
+Pondera County, MT (30073)	1995	68	6,402	1,062.2
+Pondera County, MT (30073)	1996	69	6,460	1,068.1
+Pondera County, MT (30073)	1997	77	6,606	1,165.6
+Pondera County, MT (30073)	1998	59	6,560	899.4
+Powder River County, MT (30075)	1979	16	2,542	629.4 (Unreliable)
+Powder River County, MT (30075)	1980	24	2,521	952.0
+Powder River County, MT (30075)	1981	18	2,479	726.1 (Unreliable)
+Powder River County, MT (30075)	1982	23	2,483	926.3
+Powder River County, MT (30075)	1983	17	2,481	685.2 (Unreliable)
+Powder River County, MT (30075)	1984	18	2,490	722.9 (Unreliable)
+Powder River County, MT (30075)	1985	17	2,456	692.2 (Unreliable)
+Powder River County, MT (30075)	1986	26	2,380	1,092.4
+Powder River County, MT (30075)	1987	27	2,342	1,152.9
+Powder River County, MT (30075)	1988	20	2,292	872.6
+Powder River County, MT (30075)	1989	13	2,150	604.7 (Unreliable)
+Powder River County, MT (30075)	1990	18	2,087	862.5 (Unreliable)
+Powder River County, MT (30075)	1991	20	2,057	972.3
+Powder River County, MT (30075)	1992	12	2,050	585.4 (Unreliable)
+Powder River County, MT (30075)	1993	17	2,055	827.3 (Unreliable)
+Powder River County, MT (30075)	1994	30	2,057	1,458.4
+Powder River County, MT (30075)	1995	15	2,021	742.2 (Unreliable)
+Powder River County, MT (30075)	1996	18	2,004	898.2 (Unreliable)
+Powder River County, MT (30075)	1997	27	1,962	1,376.1
+Powder River County, MT (30075)	1998	19	1,880	1,010.6 (Unreliable)
+Powell County, MT (30077)	1979	67	7,195	931.2
+Powell County, MT (30077)	1980	68	6,971	975.5
+Powell County, MT (30077)	1981	80	6,882	1,162.5
+Powell County, MT (30077)	1982	55	6,801	808.7
+Powell County, MT (30077)	1983	59	6,874	858.3
+Powell County, MT (30077)	1984	70	6,807	1,028.4
+Powell County, MT (30077)	1985	60	6,896	870.1
+Powell County, MT (30077)	1986	79	6,768	1,167.3
+Powell County, MT (30077)	1987	71	6,782	1,046.9
+Powell County, MT (30077)	1988	53	6,651	796.9
+Powell County, MT (30077)	1989	77	6,584	1,169.5
+Powell County, MT (30077)	1990	62	6,612	937.7
+Powell County, MT (30077)	1991	71	6,707	1,058.6
+Powell County, MT (30077)	1992	61	6,809	895.9
+Powell County, MT (30077)	1993	87	6,806	1,278.3
+Powell County, MT (30077)	1994	69	6,895	1,000.7
+Powell County, MT (30077)	1995	84	7,070	1,188.1
+Powell County, MT (30077)	1996	73	7,107	1,027.2
+Powell County, MT (30077)	1997	61	7,111	857.8
+Powell County, MT (30077)	1998	65	7,144	909.9
+Prairie County, MT (30079)	1979	18	1,871	962.1 (Unreliable)
+Prairie County, MT (30079)	1980	16	1,825	876.7 (Unreliable)
+Prairie County, MT (30079)	1981	18	1,822	987.9 (Unreliable)
+Prairie County, MT (30079)	1982	22	1,852	1,187.9
+Prairie County, MT (30079)	1983	27	1,825	1,479.5
+Prairie County, MT (30079)	1984	17	1,760	965.9 (Unreliable)
+Prairie County, MT (30079)	1985	19	1,723	1,102.7 (Unreliable)
+Prairie County, MT (30079)	1986	16	1,600	1,000.0 (Unreliable)
+Prairie County, MT (30079)	1987	14	1,542	907.9 (Unreliable)
+Prairie County, MT (30079)	1988	21	1,509	1,391.7
+Prairie County, MT (30079)	1989	22	1,450	1,517.2
+Prairie County, MT (30079)	1990	19	1,380	1,376.8 (Unreliable)
+Prairie County, MT (30079)	1991	17	1,323	1,285.0 (Unreliable)
+Prairie County, MT (30079)	1992	25	1,301	1,921.6
+Prairie County, MT (30079)	1993	13	1,309	993.1 (Unreliable)
+Prairie County, MT (30079)	1994	12	1,300	923.1 (Unreliable)
+Prairie County, MT (30079)	1996	18	1,272	1,415.1 (Unreliable)
+Prairie County, MT (30079)	1997	18	1,252	1,437.7 (Unreliable)
+Prairie County, MT (30079)	1998	19	1,254	1,515.2 (Unreliable)
+Ravalli County, MT (30081)	1979	199	21,717	916.3
+Ravalli County, MT (30081)	1980	217	22,498	964.5
+Ravalli County, MT (30081)	1981	203	23,304	871.1
+Ravalli County, MT (30081)	1982	205	23,668	866.1
+Ravalli County, MT (30081)	1983	220	23,777	925.3
+Ravalli County, MT (30081)	1984	226	24,244	932.2
+Ravalli County, MT (30081)	1985	248	24,366	1,017.8
+Ravalli County, MT (30081)	1986	227	24,386	930.9
+Ravalli County, MT (30081)	1987	221	24,459	903.6
+Ravalli County, MT (30081)	1988	224	24,711	906.5
+Ravalli County, MT (30081)	1989	243	24,786	980.4
+Ravalli County, MT (30081)	1990	222	25,016	887.4
+Ravalli County, MT (30081)	1991	255	25,987	981.3
+Ravalli County, MT (30081)	1992	251	27,384	916.6
+Ravalli County, MT (30081)	1993	265	28,754	921.6
+Ravalli County, MT (30081)	1994	285	30,473	935.3
+Ravalli County, MT (30081)	1995	302	31,945	945.4
+Ravalli County, MT (30081)	1996	306	33,149	923.1
+Ravalli County, MT (30081)	1997	313	34,053	919.2
+Ravalli County, MT (30081)	1998	331	34,561	957.7
+Richland County, MT (30083)	1979	91	11,803	771.0
+Richland County, MT (30083)	1980	90	12,272	733.4
+Richland County, MT (30083)	1981	101	13,275	760.8
+Richland County, MT (30083)	1982	109	14,269	763.9
+Richland County, MT (30083)	1983	81	13,998	578.7
+Richland County, MT (30083)	1984	107	13,624	785.4
+Richland County, MT (30083)	1985	96	13,296	722.0
+Richland County, MT (30083)	1986	102	12,664	805.4
+Richland County, MT (30083)	1987	114	11,788	967.1
+Richland County, MT (30083)	1988	98	11,427	857.6
+Richland County, MT (30083)	1989	84	10,984	764.7
+Richland County, MT (30083)	1990	94	10,687	879.6
+Richland County, MT (30083)	1991	89	10,555	843.2
+Richland County, MT (30083)	1992	99	10,446	947.7
+Richland County, MT (30083)	1993	122	10,224	1,193.3
+Richland County, MT (30083)	1994	100	10,196	980.8
+Richland County, MT (30083)	1995	95	10,149	936.1
+Richland County, MT (30083)	1996	94	10,023	937.8
+Richland County, MT (30083)	1997	115	9,995	1,150.6
+Richland County, MT (30083)	1998	106	9,890	1,071.8
+Roosevelt County, MT (30085)	1979	98	10,277	953.6
+Roosevelt County, MT (30085)	1980	114	10,507	1,085.0
+Roosevelt County, MT (30085)	1981	128	10,495	1,219.6
+Roosevelt County, MT (30085)	1982	113	10,985	1,028.7
+Roosevelt County, MT (30085)	1983	126	11,259	1,119.1
+Roosevelt County, MT (30085)	1984	115	11,301	1,017.6
+Roosevelt County, MT (30085)	1985	114	11,545	987.4
+Roosevelt County, MT (30085)	1986	98	11,402	859.5
+Roosevelt County, MT (30085)	1987	104	11,286	921.5
+Roosevelt County, MT (30085)	1988	108	11,150	968.6
+Roosevelt County, MT (30085)	1989	106	11,193	947.0
+Roosevelt County, MT (30085)	1990	136	11,023	1,233.8
+Roosevelt County, MT (30085)	1991	105	10,779	974.1
+Roosevelt County, MT (30085)	1992	107	10,807	990.1
+Roosevelt County, MT (30085)	1993	110	10,894	1,009.7
+Roosevelt County, MT (30085)	1994	98	10,953	894.7
+Roosevelt County, MT (30085)	1995	105	10,941	959.7
+Roosevelt County, MT (30085)	1996	90	10,833	830.8
+Roosevelt County, MT (30085)	1997	86	10,879	790.5
+Roosevelt County, MT (30085)	1998	88	10,709	821.7
+Rosebud County, MT (30087)	1979	72	9,723	740.5
+Rosebud County, MT (30087)	1980	80	9,885	809.3
+Rosebud County, MT (30087)	1981	76	11,026	689.3
+Rosebud County, MT (30087)	1982	79	12,219	646.5
+Rosebud County, MT (30087)	1983	63	13,391	470.5
+Rosebud County, MT (30087)	1984	72	13,314	540.8
+Rosebud County, MT (30087)	1985	64	12,195	524.8
+Rosebud County, MT (30087)	1986	86	11,746	732.2
+Rosebud County, MT (30087)	1987	78	11,389	684.9
+Rosebud County, MT (30087)	1988	63	10,900	578.0
+Rosebud County, MT (30087)	1989	70	10,652	657.2
+Rosebud County, MT (30087)	1990	83	10,533	788.0
+Rosebud County, MT (30087)	1991	58	10,328	561.6
+Rosebud County, MT (30087)	1992	73	10,436	699.5
+Rosebud County, MT (30087)	1993	73	10,520	693.9
+Rosebud County, MT (30087)	1994	79	10,470	754.5
+Rosebud County, MT (30087)	1995	70	10,480	667.9
+Rosebud County, MT (30087)	1996	85	10,194	833.8
+Rosebud County, MT (30087)	1997	80	9,810	815.5
+Rosebud County, MT (30087)	1998	78	9,582	814.0
+Sanders County, MT (30089)	1979	74	9,003	821.9
+Sanders County, MT (30089)	1980	82	8,654	947.5
+Sanders County, MT (30089)	1981	83	8,759	947.6
+Sanders County, MT (30089)	1982	99	9,035	1,095.7
+Sanders County, MT (30089)	1983	100	9,134	1,094.8
+Sanders County, MT (30089)	1984	84	9,366	896.9
+Sanders County, MT (30089)	1985	74	9,156	808.2
+Sanders County, MT (30089)	1986	96	8,967	1,070.6
+Sanders County, MT (30089)	1987	96	8,780	1,093.4
+Sanders County, MT (30089)	1988	85	8,670	980.4
+Sanders County, MT (30089)	1989	79	8,633	915.1
+Sanders County, MT (30089)	1990	83	8,678	956.4
+Sanders County, MT (30089)	1991	92	8,657	1,062.7
+Sanders County, MT (30089)	1992	76	8,857	858.1
+Sanders County, MT (30089)	1993	101	9,220	1,095.4
+Sanders County, MT (30089)	1994	91	9,633	944.7
+Sanders County, MT (30089)	1995	96	10,028	957.3
+Sanders County, MT (30089)	1996	96	10,094	951.1
+Sanders County, MT (30089)	1997	125	10,161	1,230.2
+Sanders County, MT (30089)	1998	113	10,093	1,119.6
+Sheridan County, MT (30091)	1979	48	5,509	871.3
+Sheridan County, MT (30091)	1980	64	5,439	1,176.7
+Sheridan County, MT (30091)	1981	50	5,731	872.4
+Sheridan County, MT (30091)	1982	52	5,920	878.4
+Sheridan County, MT (30091)	1983	61	5,838	1,044.9
+Sheridan County, MT (30091)	1984	52	5,666	917.8
+Sheridan County, MT (30091)	1985	50	5,574	897.0
+Sheridan County, MT (30091)	1986	54	5,410	998.2
+Sheridan County, MT (30091)	1987	72	5,247	1,372.2
+Sheridan County, MT (30091)	1988	55	5,099	1,078.6
+Sheridan County, MT (30091)	1989	56	4,909	1,140.8
+Sheridan County, MT (30091)	1990	48	4,724	1,016.1
+Sheridan County, MT (30091)	1991	55	4,565	1,204.8
+Sheridan County, MT (30091)	1992	58	4,550	1,274.7
+Sheridan County, MT (30091)	1993	50	4,466	1,119.6
+Sheridan County, MT (30091)	1994	58	4,431	1,309.0
+Sheridan County, MT (30091)	1995	47	4,450	1,056.2
+Sheridan County, MT (30091)	1996	63	4,405	1,430.2
+Sheridan County, MT (30091)	1997	68	4,326	1,571.9
+Sheridan County, MT (30091)	1998	75	4,312	1,739.3
+Silver Bow County, MT (30093)	1979	513	39,304	1,305.2
+Silver Bow County, MT (30093)	1980	522	38,148	1,368.4
+Silver Bow County, MT (30093)	1981	466	37,956	1,227.7
+Silver Bow County, MT (30093)	1982	449	37,310	1,203.4
+Silver Bow County, MT (30093)	1983	470	36,533	1,286.5
+Silver Bow County, MT (30093)	1984	442	35,648	1,239.9
+Silver Bow County, MT (30093)	1985	475	35,266	1,346.9
+Silver Bow County, MT (30093)	1986	428	34,945	1,224.8
+Silver Bow County, MT (30093)	1987	423	34,489	1,226.5
+Silver Bow County, MT (30093)	1988	425	34,258	1,240.6
+Silver Bow County, MT (30093)	1989	407	34,061	1,194.9
+Silver Bow County, MT (30093)	1990	390	33,921	1,149.7
+Silver Bow County, MT (30093)	1991	397	34,171	1,161.8
+Silver Bow County, MT (30093)	1992	391	34,421	1,135.9
+Silver Bow County, MT (30093)	1993	397	34,878	1,138.3
+Silver Bow County, MT (30093)	1994	386	35,048	1,101.3
+Silver Bow County, MT (30093)	1995	472	34,969	1,349.8
+Silver Bow County, MT (30093)	1996	427	34,984	1,220.6
+Silver Bow County, MT (30093)	1997	438	34,932	1,253.9
+Silver Bow County, MT (30093)	1998	442	35,225	1,254.8
+Stillwater County, MT (30095)	1979	62	5,799	1,069.1
+Stillwater County, MT (30095)	1980	63	5,593	1,126.4
+Stillwater County, MT (30095)	1981	73	5,708	1,278.9
+Stillwater County, MT (30095)	1982	63	5,811	1,084.2
+Stillwater County, MT (30095)	1983	73	5,857	1,246.4
+Stillwater County, MT (30095)	1984	69	5,876	1,174.3
+Stillwater County, MT (30095)	1985	79	5,896	1,339.9
+Stillwater County, MT (30095)	1986	60	5,959	1,006.9
+Stillwater County, MT (30095)	1987	41	6,184	663.0
+Stillwater County, MT (30095)	1988	67	6,292	1,064.8
+Stillwater County, MT (30095)	1989	62	6,371	973.2
+Stillwater County, MT (30095)	1990	66	6,524	1,011.6
+Stillwater County, MT (30095)	1991	58	6,681	868.1
+Stillwater County, MT (30095)	1992	75	6,711	1,117.6
+Stillwater County, MT (30095)	1993	76	6,944	1,094.5
+Stillwater County, MT (30095)	1994	75	7,125	1,052.6
+Stillwater County, MT (30095)	1995	74	7,336	1,008.7
+Stillwater County, MT (30095)	1996	62	7,478	829.1
+Stillwater County, MT (30095)	1997	61	7,719	790.3
+Stillwater County, MT (30095)	1998	76	7,888	963.5
+Sweet Grass County, MT (30097)	1979	28	3,255	860.2
+Sweet Grass County, MT (30097)	1980	48	3,223	1,489.3
+Sweet Grass County, MT (30097)	1981	33	3,245	1,016.9
+Sweet Grass County, MT (30097)	1982	43	3,307	1,300.3
+Sweet Grass County, MT (30097)	1983	40	3,267	1,224.4
+Sweet Grass County, MT (30097)	1984	38	3,273	1,161.0
+Sweet Grass County, MT (30097)	1985	43	3,224	1,333.7
+Sweet Grass County, MT (30097)	1986	33	3,244	1,017.3
+Sweet Grass County, MT (30097)	1987	55	3,241	1,697.0
+Sweet Grass County, MT (30097)	1988	38	3,192	1,190.5
+Sweet Grass County, MT (30097)	1989	41	3,154	1,299.9
+Sweet Grass County, MT (30097)	1990	43	3,144	1,367.7
+Sweet Grass County, MT (30097)	1991	30	3,141	955.1
+Sweet Grass County, MT (30097)	1992	42	3,133	1,340.6
+Sweet Grass County, MT (30097)	1993	34	3,188	1,066.5
+Sweet Grass County, MT (30097)	1994	30	3,225	930.2
+Sweet Grass County, MT (30097)	1995	33	3,311	996.7
+Sweet Grass County, MT (30097)	1996	40	3,352	1,193.3
+Sweet Grass County, MT (30097)	1997	44	3,305	1,331.3
+Sweet Grass County, MT (30097)	1998	36	3,314	1,086.3
+Teton County, MT (30099)	1979	59	6,765	872.1
+Teton County, MT (30099)	1980	66	6,494	1,016.3
+Teton County, MT (30099)	1981	63	6,628	950.5
+Teton County, MT (30099)	1982	83	6,706	1,237.7
+Teton County, MT (30099)	1983	56	6,669	839.7
+Teton County, MT (30099)	1984	58	6,501	892.2
+Teton County, MT (30099)	1985	62	6,361	974.7
+Teton County, MT (30099)	1986	56	6,245	896.7
+Teton County, MT (30099)	1987	57	6,263	910.1
+Teton County, MT (30099)	1988	64	6,333	1,010.6
+Teton County, MT (30099)	1989	64	6,275	1,019.9
+Teton County, MT (30099)	1990	76	6,246	1,216.8
+Teton County, MT (30099)	1991	68	6,191	1,098.4
+Teton County, MT (30099)	1992	68	6,231	1,091.3
+Teton County, MT (30099)	1993	72	6,343	1,135.1
+Teton County, MT (30099)	1994	72	6,428	1,120.1
+Teton County, MT (30099)	1995	74	6,443	1,148.5
+Teton County, MT (30099)	1996	72	6,370	1,130.3
+Teton County, MT (30099)	1997	74	6,338	1,167.6
+Teton County, MT (30099)	1998	92	6,380	1,442.0
+Toole County, MT (30101)	1979	39	5,534	704.7
+Toole County, MT (30101)	1980	43	5,555	774.1
+Toole County, MT (30101)	1981	51	5,612	908.8
+Toole County, MT (30101)	1982	44	5,598	786.0
+Toole County, MT (30101)	1983	55	5,703	964.4
+Toole County, MT (30101)	1984	62	5,619	1,103.4
+Toole County, MT (30101)	1985	36	5,572	646.1
+Toole County, MT (30101)	1986	59	5,361	1,100.5
+Toole County, MT (30101)	1987	52	5,133	1,013.1
+Toole County, MT (30101)	1988	57	5,182	1,100.0
+Toole County, MT (30101)	1989	33	5,139	642.1
+Toole County, MT (30101)	1990	43	5,043	852.7
+Toole County, MT (30101)	1991	36	5,030	715.7
+Toole County, MT (30101)	1992	62	5,129	1,208.8
+Toole County, MT (30101)	1993	48	5,244	915.3
+Toole County, MT (30101)	1994	52	5,296	981.9
+Toole County, MT (30101)	1995	61	5,299	1,151.2
+Toole County, MT (30101)	1996	46	5,206	883.6
+Toole County, MT (30101)	1997	57	5,238	1,088.2
+Toole County, MT (30101)	1998	62	5,206	1,190.9
+Treasure County, MT (30103)	1979	6	1,074	558.7 (Unreliable)
+Treasure County, MT (30103)	1980	6	988	607.3 (Unreliable)
+Treasure County, MT (30103)	1981	9	1,017	885.0 (Unreliable)
+Treasure County, MT (30103)	1982	8	1,047	764.1 (Unreliable)
+Treasure County, MT (30103)	1983	8	1,043	767.0 (Unreliable)
+Treasure County, MT (30103)	1984	8	1,036	772.2 (Unreliable)
+Treasure County, MT (30103)	1985	11	996	1,104.4 (Unreliable)
+Treasure County, MT (30103)	1986	14	1,004	1,394.4 (Unreliable)
+Treasure County, MT (30103)	1987	9	978	920.2 (Unreliable)
+Treasure County, MT (30103)	1988	11	959	1,147.0 (Unreliable)
+Treasure County, MT (30103)	1991	10	881	1,135.1 (Unreliable)
+Treasure County, MT (30103)	1993	14	890	1,573.0 (Unreliable)
+Treasure County, MT (30103)	1995	12	861	1,393.7 (Unreliable)
+Valley County, MT (30105)	1979	85	10,839	784.2
+Valley County, MT (30105)	1980	88	10,255	858.1
+Valley County, MT (30105)	1981	87	9,773	890.2
+Valley County, MT (30105)	1982	91	9,685	939.6
+Valley County, MT (30105)	1983	87	9,493	916.5
+Valley County, MT (30105)	1984	90	9,371	960.4
+Valley County, MT (30105)	1985	91	9,286	980.0
+Valley County, MT (30105)	1986	73	8,917	818.7
+Valley County, MT (30105)	1987	73	8,702	838.9
+Valley County, MT (30105)	1988	85	8,545	994.7
+Valley County, MT (30105)	1989	76	8,434	901.1
+Valley County, MT (30105)	1990	95	8,236	1,153.5
+Valley County, MT (30105)	1991	96	8,129	1,181.0
+Valley County, MT (30105)	1992	81	8,137	995.5
+Valley County, MT (30105)	1993	107	8,250	1,297.0
+Valley County, MT (30105)	1994	88	8,154	1,079.2
+Valley County, MT (30105)	1995	90	8,212	1,096.0
+Valley County, MT (30105)	1996	98	8,150	1,202.5
+Valley County, MT (30105)	1997	88	8,118	1,084.0
+Valley County, MT (30105)	1998	120	7,984	1,503.0
+Wheatland County, MT (30107)	1979	28	2,351	1,191.0
+Wheatland County, MT (30107)	1980	18	2,359	763.0 (Unreliable)
+Wheatland County, MT (30107)	1981	34	2,217	1,533.6
+Wheatland County, MT (30107)	1982	35	2,285	1,531.7
+Wheatland County, MT (30107)	1983	31	2,315	1,339.1
+Wheatland County, MT (30107)	1984	33	2,225	1,483.1
+Wheatland County, MT (30107)	1985	18	2,264	795.1 (Unreliable)
+Wheatland County, MT (30107)	1986	30	2,229	1,345.9
+Wheatland County, MT (30107)	1987	35	2,237	1,564.6
+Wheatland County, MT (30107)	1988	36	2,291	1,571.4
+Wheatland County, MT (30107)	1989	28	2,272	1,232.4
+Wheatland County, MT (30107)	1990	26	2,242	1,159.7
+Wheatland County, MT (30107)	1991	26	2,285	1,137.9
+Wheatland County, MT (30107)	1992	31	2,270	1,365.6
+Wheatland County, MT (30107)	1993	28	2,295	1,220.0
+Wheatland County, MT (30107)	1994	26	2,356	1,103.6
+Wheatland County, MT (30107)	1995	21	2,413	870.3
+Wheatland County, MT (30107)	1996	26	2,406	1,080.6
+Wheatland County, MT (30107)	1997	27	2,325	1,161.3
+Wheatland County, MT (30107)	1998	30	2,341	1,281.5
+Wibaux County, MT (30109)	1979	15	1,578	950.6 (Unreliable)
+Wibaux County, MT (30109)	1980	14	1,479	946.6 (Unreliable)
+Wibaux County, MT (30109)	1981	16	1,562	1,024.3 (Unreliable)
+Wibaux County, MT (30109)	1982	19	1,554	1,222.7 (Unreliable)
+Wibaux County, MT (30109)	1983	18	1,525	1,180.3 (Unreliable)
+Wibaux County, MT (30109)	1984	29	1,441	2,012.5
+Wibaux County, MT (30109)	1985	13	1,367	951.0 (Unreliable)
+Wibaux County, MT (30109)	1986	13	1,295	1,003.9 (Unreliable)
+Wibaux County, MT (30109)	1987	12	1,273	942.7 (Unreliable)
+Wibaux County, MT (30109)	1988	18	1,255	1,434.3 (Unreliable)
+Wibaux County, MT (30109)	1989	19	1,200	1,583.3 (Unreliable)
+Wibaux County, MT (30109)	1990	14	1,190	1,176.5 (Unreliable)
+Wibaux County, MT (30109)	1991	21	1,155	1,818.2
+Wibaux County, MT (30109)	1992	15	1,141	1,314.6 (Unreliable)
+Wibaux County, MT (30109)	1993	11	1,140	964.9 (Unreliable)
+Wibaux County, MT (30109)	1994	14	1,111	1,260.1 (Unreliable)
+Wibaux County, MT (30109)	1995	18	1,131	1,591.5 (Unreliable)
+Wibaux County, MT (30109)	1996	22	1,115	1,973.1
+Wibaux County, MT (30109)	1997	17	1,108	1,534.3 (Unreliable)
+Wibaux County, MT (30109)	1998	21	1,100	1,909.1
+Yellowstone County, MT (30111)	1979	710	108,094	656.8
+Yellowstone County, MT (30111)	1980	741	108,198	684.9
+Yellowstone County, MT (30111)	1981	791	110,408	716.4
+Yellowstone County, MT (30111)	1982	754	113,073	666.8
+Yellowstone County, MT (30111)	1983	715	115,921	616.8
+Yellowstone County, MT (30111)	1984	770	118,436	650.1
+Yellowstone County, MT (30111)	1985	837	119,171	702.4
+Yellowstone County, MT (30111)	1986	797	118,437	672.9
+Yellowstone County, MT (30111)	1987	757	116,233	651.3
+Yellowstone County, MT (30111)	1988	852	114,234	745.8
+Yellowstone County, MT (30111)	1989	855	113,594	752.7
+Yellowstone County, MT (30111)	1990	858	113,459	756.2
+Yellowstone County, MT (30111)	1991	931	115,440	806.5
+Yellowstone County, MT (30111)	1992	899	118,461	758.9
+Yellowstone County, MT (30111)	1993	976	121,289	804.7
+Yellowstone County, MT (30111)	1994	974	123,376	789.5
+Yellowstone County, MT (30111)	1995	1,057	125,445	842.6
+Yellowstone County, MT (30111)	1996	1,040	126,707	820.8
+Yellowstone County, MT (30111)	1997	1,046	127,342	821.4
+Yellowstone County, MT (30111)	1998	1,079	127,729	844.8
+Yellowstone National Park, MT (30113)�*	1987	1	55	1,818.2 (Unreliable)

@@ -1,0 +1,304 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Addison County, VT (50001)	1979	189	28,502	663.1
+Addison County, VT (50001)	1980	248	29,467	841.6
+Addison County, VT (50001)	1981	223	29,559	754.4
+Addison County, VT (50001)	1982	221	29,977	737.2
+Addison County, VT (50001)	1983	198	30,488	649.4
+Addison County, VT (50001)	1984	243	30,498	796.8
+Addison County, VT (50001)	1985	246	30,621	803.4
+Addison County, VT (50001)	1986	228	30,745	741.6
+Addison County, VT (50001)	1987	215	31,392	684.9
+Addison County, VT (50001)	1988	227	31,968	710.1
+Addison County, VT (50001)	1989	225	32,413	694.2
+Addison County, VT (50001)	1990	213	32,957	646.3
+Addison County, VT (50001)	1991	226	33,475	675.1
+Addison County, VT (50001)	1992	247	33,784	731.1
+Addison County, VT (50001)	1993	240	34,095	703.9
+Addison County, VT (50001)	1994	247	34,426	717.5
+Addison County, VT (50001)	1995	254	34,568	734.8
+Addison County, VT (50001)	1996	251	34,917	718.8
+Addison County, VT (50001)	1997	250	35,067	712.9
+Addison County, VT (50001)	1998	267	35,432	753.6
+Addison County, VT (50001)	Total	4,658	644,351	722.9
+Bennington County, VT (50003)	1979	368	33,122	1,111.0
+Bennington County, VT (50003)	1980	294	33,403	880.2
+Bennington County, VT (50003)	1981	329	33,843	972.1
+Bennington County, VT (50003)	1982	361	34,133	1,057.6
+Bennington County, VT (50003)	1983	360	34,455	1,044.8
+Bennington County, VT (50003)	1984	328	34,675	945.9
+Bennington County, VT (50003)	1985	330	34,847	947.0
+Bennington County, VT (50003)	1986	352	34,957	1,007.0
+Bennington County, VT (50003)	1987	392	35,149	1,115.3
+Bennington County, VT (50003)	1988	379	35,587	1,065.0
+Bennington County, VT (50003)	1989	384	35,861	1,070.8
+Bennington County, VT (50003)	1990	362	35,796	1,011.3
+Bennington County, VT (50003)	1991	396	35,841	1,104.9
+Bennington County, VT (50003)	1992	386	35,965	1,073.3
+Bennington County, VT (50003)	1993	436	36,080	1,208.4
+Bennington County, VT (50003)	1994	463	36,300	1,275.5
+Bennington County, VT (50003)	1995	402	36,647	1,097.0
+Bennington County, VT (50003)	1996	412	36,843	1,118.3
+Bennington County, VT (50003)	1997	431	36,796	1,171.3
+Bennington County, VT (50003)	1998	373	36,827	1,012.8
+Bennington County, VT (50003)	Total	7,538	707,127	1,066.0
+Caledonia County, VT (50005)	1979	244	25,909	941.8
+Caledonia County, VT (50005)	1980	260	25,832	1,006.5
+Caledonia County, VT (50005)	1981	242	25,828	937.0
+Caledonia County, VT (50005)	1982	253	25,761	982.1
+Caledonia County, VT (50005)	1983	247	25,845	955.7
+Caledonia County, VT (50005)	1984	236	26,045	906.1
+Caledonia County, VT (50005)	1985	274	25,991	1,054.2
+Caledonia County, VT (50005)	1986	238	26,265	906.1
+Caledonia County, VT (50005)	1987	249	26,489	940.0
+Caledonia County, VT (50005)	1988	256	27,047	946.5
+Caledonia County, VT (50005)	1989	227	27,432	827.5
+Caledonia County, VT (50005)	1990	223	27,767	803.1
+Caledonia County, VT (50005)	1991	241	28,228	853.8
+Caledonia County, VT (50005)	1992	258	28,406	908.3
+Caledonia County, VT (50005)	1993	273	28,718	950.6
+Caledonia County, VT (50005)	1994	273	28,794	948.1
+Caledonia County, VT (50005)	1995	293	28,917	1,013.2
+Caledonia County, VT (50005)	1996	230	29,224	787.0
+Caledonia County, VT (50005)	1997	278	29,150	953.7
+Caledonia County, VT (50005)	1998	271	29,215	927.6
+Caledonia County, VT (50005)	Total	5,066	546,863	926.4
+Chittenden County, VT (50007)	1979	697	113,366	614.8
+Chittenden County, VT (50007)	1980	806	115,670	696.8
+Chittenden County, VT (50007)	1981	695	117,485	591.6
+Chittenden County, VT (50007)	1982	722	118,528	609.1
+Chittenden County, VT (50007)	1983	689	120,015	574.1
+Chittenden County, VT (50007)	1984	783	120,919	647.5
+Chittenden County, VT (50007)	1985	777	122,484	634.4
+Chittenden County, VT (50007)	1986	788	123,889	636.1
+Chittenden County, VT (50007)	1987	805	125,548	641.2
+Chittenden County, VT (50007)	1988	778	128,451	605.7
+Chittenden County, VT (50007)	1989	780	130,985	595.5
+Chittenden County, VT (50007)	1990	767	131,691	582.4
+Chittenden County, VT (50007)	1991	770	133,037	578.8
+Chittenden County, VT (50007)	1992	830	134,143	618.7
+Chittenden County, VT (50007)	1993	842	136,173	618.3
+Chittenden County, VT (50007)	1994	814	138,630	587.2
+Chittenden County, VT (50007)	1995	819	140,137	584.4
+Chittenden County, VT (50007)	1996	874	141,251	618.8
+Chittenden County, VT (50007)	1997	856	142,828	599.3
+Chittenden County, VT (50007)	1998	876	143,791	609.2
+Chittenden County, VT (50007)	Total	15,768	2,579,021	611.4
+Essex County, VT (50009)	1979	58	6,041	960.1
+Essex County, VT (50009)	1980	41	6,312	649.6
+Essex County, VT (50009)	1981	67	6,186	1,083.1
+Essex County, VT (50009)	1982	55	6,139	895.9
+Essex County, VT (50009)	1983	60	6,184	970.2
+Essex County, VT (50009)	1984	72	6,098	1,180.7
+Essex County, VT (50009)	1985	64	6,178	1,035.9
+Essex County, VT (50009)	1986	70	6,173	1,134.0
+Essex County, VT (50009)	1987	53	6,209	853.6
+Essex County, VT (50009)	1988	63	6,327	995.7
+Essex County, VT (50009)	1989	57	6,430	886.5
+Essex County, VT (50009)	1990	57	6,439	885.2
+Essex County, VT (50009)	1991	63	6,392	985.6
+Essex County, VT (50009)	1992	62	6,481	956.6
+Essex County, VT (50009)	1993	57	6,498	877.2
+Essex County, VT (50009)	1994	62	6,411	967.1
+Essex County, VT (50009)	1995	58	6,389	907.8
+Essex County, VT (50009)	1996	56	6,371	879.0
+Essex County, VT (50009)	1997	63	6,342	993.4
+Essex County, VT (50009)	1998	58	6,389	907.8
+Essex County, VT (50009)	Total	1,196	125,989	949.3
+Franklin County, VT (50011)	1979	278	34,019	817.2
+Franklin County, VT (50011)	1980	341	34,850	978.5
+Franklin County, VT (50011)	1981	301	34,887	862.8
+Franklin County, VT (50011)	1982	322	35,477	907.6
+Franklin County, VT (50011)	1983	338	35,695	946.9
+Franklin County, VT (50011)	1984	316	36,199	873.0
+Franklin County, VT (50011)	1985	333	36,546	911.2
+Franklin County, VT (50011)	1986	354	37,018	956.3
+Franklin County, VT (50011)	1987	359	37,256	963.6
+Franklin County, VT (50011)	1988	325	38,045	854.3
+Franklin County, VT (50011)	1989	335	39,123	856.3
+Franklin County, VT (50011)	1990	325	39,960	813.3
+Franklin County, VT (50011)	1991	320	40,930	781.8
+Franklin County, VT (50011)	1992	330	41,529	794.6
+Franklin County, VT (50011)	1993	329	42,117	781.2
+Franklin County, VT (50011)	1994	301	42,877	702.0
+Franklin County, VT (50011)	1995	371	43,184	859.1
+Franklin County, VT (50011)	1996	362	43,669	829.0
+Franklin County, VT (50011)	1997	346	43,912	787.9
+Franklin County, VT (50011)	1998	314	44,445	706.5
+Franklin County, VT (50011)	Total	6,600	781,738	844.3
+Grand Isle County, VT (50013)	1979	40	4,381	913.0
+Grand Isle County, VT (50013)	1980	42	4,630	907.1
+Grand Isle County, VT (50013)	1981	45	4,763	944.8
+Grand Isle County, VT (50013)	1982	44	4,791	918.4
+Grand Isle County, VT (50013)	1983	42	4,710	891.7
+Grand Isle County, VT (50013)	1984	38	4,754	799.3
+Grand Isle County, VT (50013)	1985	49	4,841	1,012.2
+Grand Isle County, VT (50013)	1986	43	5,006	859.0
+Grand Isle County, VT (50013)	1987	33	5,083	649.2
+Grand Isle County, VT (50013)	1988	42	5,131	818.6
+Grand Isle County, VT (50013)	1989	45	5,233	859.9
+Grand Isle County, VT (50013)	1990	49	5,316	921.7
+Grand Isle County, VT (50013)	1991	48	5,533	867.5
+Grand Isle County, VT (50013)	1992	52	5,636	922.6
+Grand Isle County, VT (50013)	1993	42	5,775	727.3
+Grand Isle County, VT (50013)	1994	51	5,855	871.1
+Grand Isle County, VT (50013)	1995	44	6,032	729.4
+Grand Isle County, VT (50013)	1996	39	6,194	629.6
+Grand Isle County, VT (50013)	1997	34	6,398	531.4
+Grand Isle County, VT (50013)	1998	47	7,129	659.3
+Grand Isle County, VT (50013)	Total	869	107,191	810.7
+Lamoille County, VT (50015)	1979	134	16,888	793.5
+Lamoille County, VT (50015)	1980	140	16,779	834.4
+Lamoille County, VT (50015)	1981	125	16,851	741.8
+Lamoille County, VT (50015)	1982	137	17,087	801.8
+Lamoille County, VT (50015)	1983	143	17,436	820.1
+Lamoille County, VT (50015)	1984	126	17,732	710.6
+Lamoille County, VT (50015)	1985	153	17,786	860.2
+Lamoille County, VT (50015)	1986	150	17,924	836.9
+Lamoille County, VT (50015)	1987	154	18,396	837.1
+Lamoille County, VT (50015)	1988	158	18,846	838.4
+Lamoille County, VT (50015)	1989	145	19,485	744.2
+Lamoille County, VT (50015)	1990	132	19,724	669.2
+Lamoille County, VT (50015)	1991	137	20,387	672.0
+Lamoille County, VT (50015)	1992	139	20,610	674.4
+Lamoille County, VT (50015)	1993	163	20,947	778.2
+Lamoille County, VT (50015)	1994	156	21,261	733.7
+Lamoille County, VT (50015)	1995	168	21,557	779.3
+Lamoille County, VT (50015)	1996	149	21,963	678.4
+Lamoille County, VT (50015)	1997	165	22,158	744.7
+Lamoille County, VT (50015)	1998	155	22,437	690.8
+Lamoille County, VT (50015)	Total	2,929	386,254	758.3
+Orange County, VT (50017)	1979	191	22,610	844.8
+Orange County, VT (50017)	1980	218	22,733	959.0
+Orange County, VT (50017)	1981	203	23,055	880.5
+Orange County, VT (50017)	1982	201	23,174	867.4
+Orange County, VT (50017)	1983	204	23,403	871.7
+Orange County, VT (50017)	1984	182	23,649	769.6
+Orange County, VT (50017)	1985	181	23,858	758.7
+Orange County, VT (50017)	1986	178	24,171	736.4
+Orange County, VT (50017)	1987	210	24,760	848.1
+Orange County, VT (50017)	1988	226	25,200	896.8
+Orange County, VT (50017)	1989	202	25,594	789.2
+Orange County, VT (50017)	1990	202	26,117	773.4
+Orange County, VT (50017)	1991	209	26,450	790.2
+Orange County, VT (50017)	1992	204	26,666	765.0
+Orange County, VT (50017)	1993	225	26,865	837.5
+Orange County, VT (50017)	1994	234	27,015	866.2
+Orange County, VT (50017)	1995	222	27,298	813.2
+Orange County, VT (50017)	1996	196	27,627	709.5
+Orange County, VT (50017)	1997	240	27,900	860.2
+Orange County, VT (50017)	1998	228	27,887	817.6
+Orange County, VT (50017)	Total	4,156	506,032	821.3
+Orleans County, VT (50019)	1979	223	23,614	944.4
+Orleans County, VT (50019)	1980	198	23,476	843.4
+Orleans County, VT (50019)	1981	211	23,419	901.0
+Orleans County, VT (50019)	1982	212	23,373	907.0
+Orleans County, VT (50019)	1983	251	23,354	1,074.8
+Orleans County, VT (50019)	1984	211	23,460	899.4
+Orleans County, VT (50019)	1985	217	23,310	930.9
+Orleans County, VT (50019)	1986	256	23,264	1,100.4
+Orleans County, VT (50019)	1987	254	23,275	1,091.3
+Orleans County, VT (50019)	1988	268	23,552	1,137.9
+Orleans County, VT (50019)	1989	269	23,809	1,129.8
+Orleans County, VT (50019)	1990	250	24,024	1,040.6
+Orleans County, VT (50019)	1991	259	24,400	1,061.5
+Orleans County, VT (50019)	1992	259	24,601	1,052.8
+Orleans County, VT (50019)	1993	240	24,809	967.4
+Orleans County, VT (50019)	1994	243	25,058	969.8
+Orleans County, VT (50019)	1995	231	25,243	915.1
+Orleans County, VT (50019)	1996	262	25,489	1,027.9
+Orleans County, VT (50019)	1997	255	25,816	987.8
+Orleans County, VT (50019)	1998	263	25,911	1,015.0
+Orleans County, VT (50019)	Total	4,832	483,257	999.9
+Rutland County, VT (50021)	1979	535	58,284	917.9
+Rutland County, VT (50021)	1980	640	58,420	1,095.5
+Rutland County, VT (50021)	1981	596	58,177	1,024.5
+Rutland County, VT (50021)	1982	579	58,357	992.2
+Rutland County, VT (50021)	1983	677	58,461	1,158.0
+Rutland County, VT (50021)	1984	623	58,749	1,060.4
+Rutland County, VT (50021)	1985	640	59,304	1,079.2
+Rutland County, VT (50021)	1986	643	59,870	1,074.0
+Rutland County, VT (50021)	1987	636	60,483	1,051.5
+Rutland County, VT (50021)	1988	595	61,146	973.1
+Rutland County, VT (50021)	1989	558	61,776	903.3
+Rutland County, VT (50021)	1990	648	62,099	1,043.5
+Rutland County, VT (50021)	1991	583	62,501	932.8
+Rutland County, VT (50021)	1992	600	62,659	957.6
+Rutland County, VT (50021)	1993	629	62,535	1,005.8
+Rutland County, VT (50021)	1994	568	62,654	906.6
+Rutland County, VT (50021)	1995	633	62,885	1,006.6
+Rutland County, VT (50021)	1996	590	63,305	932.0
+Rutland County, VT (50021)	1997	654	63,266	1,033.7
+Rutland County, VT (50021)	1998	645	63,386	1,017.6
+Rutland County, VT (50021)	Total	12,272	1,218,317	1,007.3
+Washington County, VT (50023)	1979	479	51,924	922.5
+Washington County, VT (50023)	1980	469	52,447	894.2
+Washington County, VT (50023)	1981	481	52,993	907.7
+Washington County, VT (50023)	1982	504	53,127	948.7
+Washington County, VT (50023)	1983	483	53,239	907.2
+Washington County, VT (50023)	1984	503	53,424	941.5
+Washington County, VT (50023)	1985	523	53,120	984.6
+Washington County, VT (50023)	1986	549	52,879	1,038.2
+Washington County, VT (50023)	1987	478	53,273	897.3
+Washington County, VT (50023)	1988	494	54,014	914.6
+Washington County, VT (50023)	1989	485	54,613	888.1
+Washington County, VT (50023)	1990	480	54,948	873.6
+Washington County, VT (50023)	1991	455	55,258	823.4
+Washington County, VT (50023)	1992	467	55,617	839.7
+Washington County, VT (50023)	1993	544	55,907	973.0
+Washington County, VT (50023)	1994	467	56,478	826.9
+Washington County, VT (50023)	1995	519	56,946	911.4
+Washington County, VT (50023)	1996	491	57,095	860.0
+Washington County, VT (50023)	1997	547	57,274	955.1
+Washington County, VT (50023)	1998	514	57,399	895.5
+Washington County, VT (50023)	Total	9,932	1,091,975	909.5
+Windham County, VT (50025)	1979	316	36,732	860.3
+Windham County, VT (50025)	1980	384	37,039	1,036.7
+Windham County, VT (50025)	1981	334	37,378	893.6
+Windham County, VT (50025)	1982	372	37,739	985.7
+Windham County, VT (50025)	1983	389	38,247	1,017.1
+Windham County, VT (50025)	1984	358	38,702	925.0
+Windham County, VT (50025)	1985	347	38,966	890.5
+Windham County, VT (50025)	1986	390	39,440	988.8
+Windham County, VT (50025)	1987	395	39,885	990.3
+Windham County, VT (50025)	1988	357	40,839	874.2
+Windham County, VT (50025)	1989	380	41,283	920.5
+Windham County, VT (50025)	1990	366	41,630	879.2
+Windham County, VT (50025)	1991	357	41,690	856.3
+Windham County, VT (50025)	1992	395	42,122	937.8
+Windham County, VT (50025)	1993	396	42,447	932.9
+Windham County, VT (50025)	1994	372	43,094	863.2
+Windham County, VT (50025)	1995	377	43,422	868.2
+Windham County, VT (50025)	1996	411	43,866	936.9
+Windham County, VT (50025)	1997	386	44,192	873.5
+Windham County, VT (50025)	1998	407	44,062	923.7
+Windham County, VT (50025)	Total	7,489	812,775	921.4
+Windsor County, VT (50027)	1979	427	50,723	841.8
+Windsor County, VT (50027)	1980	501	51,086	980.7
+Windsor County, VT (50027)	1981	470	51,674	909.5
+Windsor County, VT (50027)	1982	507	51,891	977.0
+Windsor County, VT (50027)	1983	509	51,982	979.2
+Windsor County, VT (50027)	1984	513	51,933	987.8
+Windsor County, VT (50027)	1985	528	52,304	1,009.5
+Windsor County, VT (50027)	1986	521	52,633	989.9
+Windsor County, VT (50027)	1987	535	53,158	1,006.4
+Windsor County, VT (50027)	1988	498	53,596	929.2
+Windsor County, VT (50027)	1989	494	53,940	915.8
+Windsor County, VT (50027)	1990	521	54,021	964.4
+Windsor County, VT (50027)	1991	499	54,569	914.4
+Windsor County, VT (50027)	1992	567	54,706	1,036.4
+Windsor County, VT (50027)	1993	541	54,958	984.4
+Windsor County, VT (50027)	1994	533	55,245	964.8
+Windsor County, VT (50027)	1995	560	55,754	1,004.4
+Windsor County, VT (50027)	1996	547	56,080	975.4
+Windsor County, VT (50027)	1997	548	56,315	973.1
+Windsor County, VT (50027)	1998	530	56,394	939.8
+Windsor County, VT (50027)	Total	10,349	1,072,962	964.5
+Total		93,654	11,063,852	846.5

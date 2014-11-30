@@ -1,0 +1,1293 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Adams County, CO (08001)	1979	1,227	246,223	498.3
+Adams County, CO (08001)	1980	1,265	246,379	513.4
+Adams County, CO (08001)	1981	1,262	251,675	501.4
+Adams County, CO (08001)	1982	1,304	259,415	502.7
+Adams County, CO (08001)	1983	1,286	262,440	490.0
+Adams County, CO (08001)	1984	1,399	264,897	528.1
+Adams County, CO (08001)	1985	1,300	267,137	486.6
+Adams County, CO (08001)	1986	1,419	267,744	530.0
+Adams County, CO (08001)	1987	1,536	268,541	572.0
+Adams County, CO (08001)	1988	1,480	266,844	554.6
+Adams County, CO (08001)	1989	1,427	263,450	541.7
+Adams County, CO (08001)	1990	1,565	265,099	590.3
+Adams County, CO (08001)	1991	1,543	274,326	562.5
+Adams County, CO (08001)	1992	1,592	284,137	560.3
+Adams County, CO (08001)	1993	1,687	293,738	574.3
+Adams County, CO (08001)	1994	1,711	301,760	567.0
+Adams County, CO (08001)	1995	1,783	313,057	569.5
+Adams County, CO (08001)	1996	1,757	322,637	544.6
+Adams County, CO (08001)	1997	1,835	331,763	553.1
+Adams County, CO (08001)	1998	1,990	342,548	580.9
+Adams County, CO (08001)	Total	30,368	5,593,810	542.9
+Alamosa County, CO (08003)	1979	66	11,629	567.5
+Alamosa County, CO (08003)	1980	71	11,825	600.4
+Alamosa County, CO (08003)	1981	77	12,170	632.7
+Alamosa County, CO (08003)	1982	84	12,373	678.9
+Alamosa County, CO (08003)	1983	87	12,493	696.4
+Alamosa County, CO (08003)	1984	98	12,858	762.2
+Alamosa County, CO (08003)	1985	80	12,847	622.7
+Alamosa County, CO (08003)	1986	84	13,147	638.9
+Alamosa County, CO (08003)	1987	90	13,359	673.7
+Alamosa County, CO (08003)	1988	99	13,723	721.4
+Alamosa County, CO (08003)	1989	103	13,744	749.4
+Alamosa County, CO (08003)	1990	91	13,664	666.0
+Alamosa County, CO (08003)	1991	89	13,967	637.2
+Alamosa County, CO (08003)	1992	94	13,822	680.1
+Alamosa County, CO (08003)	1993	87	13,843	628.5
+Alamosa County, CO (08003)	1994	106	14,092	752.2
+Alamosa County, CO (08003)	1995	132	14,409	916.1
+Alamosa County, CO (08003)	1996	117	14,393	812.9
+Alamosa County, CO (08003)	1997	118	14,674	804.1
+Alamosa County, CO (08003)	1998	108	14,740	732.7
+Alamosa County, CO (08003)	Total	1,881	267,772	702.5
+Arapahoe County, CO (08005)	1979	1,228	278,643	440.7
+Arapahoe County, CO (08005)	1980	1,333	294,153	453.2
+Arapahoe County, CO (08005)	1981	1,397	312,975	446.4
+Arapahoe County, CO (08005)	1982	1,458	331,169	440.3
+Arapahoe County, CO (08005)	1983	1,490	345,077	431.8
+Arapahoe County, CO (08005)	1984	1,527	357,341	427.3
+Arapahoe County, CO (08005)	1985	1,607	369,327	435.1
+Arapahoe County, CO (08005)	1986	1,705	377,749	451.4
+Arapahoe County, CO (08005)	1987	1,659	381,997	434.3
+Arapahoe County, CO (08005)	1988	1,732	382,330	453.0
+Arapahoe County, CO (08005)	1989	1,724	384,973	447.8
+Arapahoe County, CO (08005)	1990	1,832	391,470	468.0
+Arapahoe County, CO (08005)	1991	1,953	406,376	480.6
+Arapahoe County, CO (08005)	1992	1,910	420,270	454.5
+Arapahoe County, CO (08005)	1993	2,126	431,796	492.4
+Arapahoe County, CO (08005)	1994	2,216	441,032	502.5
+Arapahoe County, CO (08005)	1995	2,204	446,918	493.2
+Arapahoe County, CO (08005)	1996	2,370	454,255	521.7
+Arapahoe County, CO (08005)	1997	2,394	462,702	517.4
+Arapahoe County, CO (08005)	1998	2,602	472,734	550.4
+Arapahoe County, CO (08005)	Total	36,467	7,743,287	470.9
+Archuleta County, CO (08007)	1979	30	3,521	852.0
+Archuleta County, CO (08007)	1980	20	3,682	543.2
+Archuleta County, CO (08007)	1981	34	4,050	839.5
+Archuleta County, CO (08007)	1982	32	4,309	742.6
+Archuleta County, CO (08007)	1983	32	4,553	702.8
+Archuleta County, CO (08007)	1984	21	4,664	450.3
+Archuleta County, CO (08007)	1985	22	4,861	452.6
+Archuleta County, CO (08007)	1986	40	4,899	816.5
+Archuleta County, CO (08007)	1987	30	5,010	598.8
+Archuleta County, CO (08007)	1988	42	5,121	820.2
+Archuleta County, CO (08007)	1989	35	5,164	677.8
+Archuleta County, CO (08007)	1990	30	5,338	562.0
+Archuleta County, CO (08007)	1991	30	5,536	541.9
+Archuleta County, CO (08007)	1992	34	5,701	596.4
+Archuleta County, CO (08007)	1993	37	6,104	606.2
+Archuleta County, CO (08007)	1994	32	6,479	493.9
+Archuleta County, CO (08007)	1995	36	7,086	508.0
+Archuleta County, CO (08007)	1996	48	7,872	609.8
+Archuleta County, CO (08007)	1997	40	8,488	471.3
+Archuleta County, CO (08007)	1998	53	9,077	583.9
+Archuleta County, CO (08007)	Total	678	111,515	608.0
+Baca County, CO (08009)	1979	58	5,466	1,061.1
+Baca County, CO (08009)	1980	53	5,429	976.2
+Baca County, CO (08009)	1981	54	5,310	1,016.9
+Baca County, CO (08009)	1982	48	5,250	914.3
+Baca County, CO (08009)	1983	60	5,214	1,150.7
+Baca County, CO (08009)	1984	51	5,096	1,000.8
+Baca County, CO (08009)	1985	62	4,995	1,241.2
+Baca County, CO (08009)	1986	57	4,855	1,174.0
+Baca County, CO (08009)	1987	48	4,875	984.6
+Baca County, CO (08009)	1988	64	4,838	1,322.9
+Baca County, CO (08009)	1989	53	4,723	1,122.2
+Baca County, CO (08009)	1990	58	4,569	1,269.4
+Baca County, CO (08009)	1991	49	4,529	1,081.9
+Baca County, CO (08009)	1992	53	4,484	1,182.0
+Baca County, CO (08009)	1993	55	4,429	1,241.8
+Baca County, CO (08009)	1994	57	4,444	1,282.6
+Baca County, CO (08009)	1995	63	4,503	1,399.1
+Baca County, CO (08009)	1996	50	4,606	1,085.5
+Baca County, CO (08009)	1997	69	4,550	1,516.5
+Baca County, CO (08009)	1998	68	4,548	1,495.2
+Baca County, CO (08009)	Total	1,130	96,713	1,168.4
+Bent County, CO (08011)	1979	44	6,017	731.3
+Bent County, CO (08011)	1980	52	5,946	874.5
+Bent County, CO (08011)	1981	64	5,898	1,085.1
+Bent County, CO (08011)	1982	57	5,844	975.4
+Bent County, CO (08011)	1983	76	5,986	1,269.6
+Bent County, CO (08011)	1984	60	5,920	1,013.5
+Bent County, CO (08011)	1985	64	5,862	1,091.8
+Bent County, CO (08011)	1986	66	5,708	1,156.3
+Bent County, CO (08011)	1987	55	5,570	987.4
+Bent County, CO (08011)	1988	71	5,378	1,320.2
+Bent County, CO (08011)	1989	47	5,156	911.6
+Bent County, CO (08011)	1990	67	5,055	1,325.4
+Bent County, CO (08011)	1991	63	4,921	1,280.2
+Bent County, CO (08011)	1992	46	4,996	920.7
+Bent County, CO (08011)	1993	41	5,414	757.3
+Bent County, CO (08011)	1994	55	5,499	1,000.2
+Bent County, CO (08011)	1995	83	5,605	1,480.8
+Bent County, CO (08011)	1996	71	5,601	1,267.6
+Bent County, CO (08011)	1997	73	5,535	1,318.9
+Bent County, CO (08011)	1998	68	5,963	1,140.4
+Bent County, CO (08011)	Total	1,223	111,874	1,093.2
+Boulder County, CO (08013)	1979	887	187,348	473.5
+Boulder County, CO (08013)	1980	908	189,957	478.0
+Boulder County, CO (08013)	1981	1,004	196,197	511.7
+Boulder County, CO (08013)	1982	998	201,153	496.1
+Boulder County, CO (08013)	1983	961	206,651	465.0
+Boulder County, CO (08013)	1984	1,049	211,444	496.1
+Boulder County, CO (08013)	1985	1,062	214,181	495.8
+Boulder County, CO (08013)	1986	1,011	216,103	467.8
+Boulder County, CO (08013)	1987	1,062	218,100	486.9
+Boulder County, CO (08013)	1988	1,076	219,978	489.1
+Boulder County, CO (08013)	1989	1,075	223,543	480.9
+Boulder County, CO (08013)	1990	1,098	225,446	487.0
+Boulder County, CO (08013)	1991	1,053	232,866	452.2
+Boulder County, CO (08013)	1992	1,103	240,417	458.8
+Boulder County, CO (08013)	1993	1,239	247,358	500.9
+Boulder County, CO (08013)	1994	1,246	254,207	490.2
+Boulder County, CO (08013)	1995	1,289	259,458	496.8
+Boulder County, CO (08013)	1996	1,353	264,669	511.2
+Boulder County, CO (08013)	1997	1,307	270,728	482.8
+Boulder County, CO (08013)	1998	1,384	277,643	498.5
+Boulder County, CO (08013)	Total	22,165	4,557,447	486.3
+Chaffee County, CO (08015)	1979	123	13,061	941.7
+Chaffee County, CO (08015)	1980	115	13,275	866.3
+Chaffee County, CO (08015)	1981	105	13,428	781.9
+Chaffee County, CO (08015)	1982	107	13,358	801.0
+Chaffee County, CO (08015)	1983	129	13,042	989.1
+Chaffee County, CO (08015)	1984	123	12,680	970.0
+Chaffee County, CO (08015)	1985	107	12,789	836.7
+Chaffee County, CO (08015)	1986	136	12,660	1,074.2
+Chaffee County, CO (08015)	1987	107	12,643	846.3
+Chaffee County, CO (08015)	1988	120	12,630	950.1
+Chaffee County, CO (08015)	1989	122	12,726	958.7
+Chaffee County, CO (08015)	1990	107	12,681	843.8
+Chaffee County, CO (08015)	1991	140	12,773	1,096.1
+Chaffee County, CO (08015)	1992	139	13,024	1,067.3
+Chaffee County, CO (08015)	1993	165	13,561	1,216.7
+Chaffee County, CO (08015)	1994	132	13,926	947.9
+Chaffee County, CO (08015)	1995	133	14,376	925.2
+Chaffee County, CO (08015)	1996	139	14,882	934.0
+Chaffee County, CO (08015)	1997	157	15,194	1,033.3
+Chaffee County, CO (08015)	1998	132	15,439	855.0
+Chaffee County, CO (08015)	Total	2,538	268,148	946.5
+Cheyenne County, CO (08017)	1979	30	2,177	1,378.0
+Cheyenne County, CO (08017)	1980	19	2,145	885.8 (Unreliable)
+Cheyenne County, CO (08017)	1981	20	2,213	903.8
+Cheyenne County, CO (08017)	1982	21	2,271	924.7
+Cheyenne County, CO (08017)	1983	23	2,310	995.7
+Cheyenne County, CO (08017)	1984	22	2,393	919.3
+Cheyenne County, CO (08017)	1985	21	2,389	879.0
+Cheyenne County, CO (08017)	1986	25	2,364	1,057.5
+Cheyenne County, CO (08017)	1987	27	2,281	1,183.7
+Cheyenne County, CO (08017)	1988	26	2,344	1,109.2
+Cheyenne County, CO (08017)	1989	35	2,401	1,457.7
+Cheyenne County, CO (08017)	1990	22	2,381	924.0
+Cheyenne County, CO (08017)	1991	21	2,381	882.0
+Cheyenne County, CO (08017)	1992	27	2,451	1,101.6
+Cheyenne County, CO (08017)	1993	19	2,342	811.3 (Unreliable)
+Cheyenne County, CO (08017)	1994	17	2,308	736.6 (Unreliable)
+Cheyenne County, CO (08017)	1995	18	2,307	780.2 (Unreliable)
+Cheyenne County, CO (08017)	1996	25	2,309	1,082.7
+Cheyenne County, CO (08017)	1997	26	2,259	1,151.0
+Cheyenne County, CO (08017)	1998	23	2,336	984.6
+Cheyenne County, CO (08017)	Total	467	46,362	1,007.3
+Clear Creek County, CO (08019)	1979	36	7,032	511.9
+Clear Creek County, CO (08019)	1980	36	7,305	492.8
+Clear Creek County, CO (08019)	1981	35	7,544	463.9
+Clear Creek County, CO (08019)	1982	48	7,671	625.7
+Clear Creek County, CO (08019)	1983	36	7,922	454.4
+Clear Creek County, CO (08019)	1984	34	7,804	435.7
+Clear Creek County, CO (08019)	1985	41	7,795	526.0
+Clear Creek County, CO (08019)	1986	37	7,751	477.4
+Clear Creek County, CO (08019)	1987	26	7,743	335.8
+Clear Creek County, CO (08019)	1988	33	7,659	430.9
+Clear Creek County, CO (08019)	1989	35	7,569	462.4
+Clear Creek County, CO (08019)	1990	34	7,608	446.9
+Clear Creek County, CO (08019)	1991	32	7,833	408.5
+Clear Creek County, CO (08019)	1992	31	8,049	385.1
+Clear Creek County, CO (08019)	1993	41	8,291	494.5
+Clear Creek County, CO (08019)	1994	49	8,581	571.0
+Clear Creek County, CO (08019)	1995	57	8,813	646.8
+Clear Creek County, CO (08019)	1996	35	8,789	398.2
+Clear Creek County, CO (08019)	1997	33	8,950	368.7
+Clear Creek County, CO (08019)	1998	41	9,121	449.5
+Clear Creek County, CO (08019)	Total	750	159,830	469.2
+Conejos County, CO (08021)	1979	57	7,814	729.5
+Conejos County, CO (08021)	1980	62	7,832	791.6
+Conejos County, CO (08021)	1981	63	7,656	822.9
+Conejos County, CO (08021)	1982	51	7,701	662.3
+Conejos County, CO (08021)	1983	60	7,783	770.9
+Conejos County, CO (08021)	1984	54	7,739	697.8
+Conejos County, CO (08021)	1985	59	7,583	778.1
+Conejos County, CO (08021)	1986	80	7,605	1,051.9
+Conejos County, CO (08021)	1987	71	7,602	934.0
+Conejos County, CO (08021)	1988	49	7,559	648.2
+Conejos County, CO (08021)	1989	64	7,495	853.9
+Conejos County, CO (08021)	1990	54	7,448	725.0
+Conejos County, CO (08021)	1991	68	7,511	905.3
+Conejos County, CO (08021)	1992	66	7,513	878.5
+Conejos County, CO (08021)	1993	79	7,605	1,038.8
+Conejos County, CO (08021)	1994	70	7,779	899.9
+Conejos County, CO (08021)	1995	83	7,879	1,053.4
+Conejos County, CO (08021)	1996	68	7,993	850.7
+Conejos County, CO (08021)	1997	60	8,053	745.1
+Conejos County, CO (08021)	1998	89	8,199	1,085.5
+Conejos County, CO (08021)	Total	1,307	154,349	846.8
+Costilla County, CO (08023)	1979	25	3,158	791.6
+Costilla County, CO (08023)	1980	39	3,081	1,265.8
+Costilla County, CO (08023)	1981	31	3,062	1,012.4
+Costilla County, CO (08023)	1982	21	3,145	667.7
+Costilla County, CO (08023)	1983	23	3,222	713.8
+Costilla County, CO (08023)	1984	26	3,347	776.8
+Costilla County, CO (08023)	1985	20	3,313	603.7
+Costilla County, CO (08023)	1986	36	3,217	1,119.1
+Costilla County, CO (08023)	1987	24	3,228	743.5
+Costilla County, CO (08023)	1988	23	3,209	716.7
+Costilla County, CO (08023)	1989	21	3,222	651.8
+Costilla County, CO (08023)	1990	29	3,184	910.8
+Costilla County, CO (08023)	1991	22	3,257	675.5
+Costilla County, CO (08023)	1992	33	3,208	1,028.7
+Costilla County, CO (08023)	1993	31	3,228	960.3
+Costilla County, CO (08023)	1994	40	3,295	1,214.0
+Costilla County, CO (08023)	1995	30	3,417	878.0
+Costilla County, CO (08023)	1996	43	3,574	1,203.1
+Costilla County, CO (08023)	1997	49	3,604	1,359.6
+Costilla County, CO (08023)	1998	33	3,658	902.1
+Costilla County, CO (08023)	Total	599	65,629	912.7
+Crowley County, CO (08025)	1979	27	2,835	952.4
+Crowley County, CO (08025)	1980	42	2,985	1,407.0
+Crowley County, CO (08025)	1981	42	3,005	1,397.7
+Crowley County, CO (08025)	1982	39	3,010	1,295.7
+Crowley County, CO (08025)	1983	40	3,108	1,287.0
+Crowley County, CO (08025)	1984	40	3,074	1,301.2
+Crowley County, CO (08025)	1985	36	3,066	1,174.2
+Crowley County, CO (08025)	1986	42	3,070	1,368.1
+Crowley County, CO (08025)	1987	33	3,021	1,092.4
+Crowley County, CO (08025)	1988	30	3,993	751.3
+Crowley County, CO (08025)	1989	48	4,036	1,189.3
+Crowley County, CO (08025)	1990	27	3,955	682.7
+Crowley County, CO (08025)	1991	38	4,076	932.3
+Crowley County, CO (08025)	1992	40	4,167	959.9
+Crowley County, CO (08025)	1993	51	4,331	1,177.6
+Crowley County, CO (08025)	1994	50	4,513	1,107.9
+Crowley County, CO (08025)	1995	42	4,656	902.1
+Crowley County, CO (08025)	1996	50	4,945	1,011.1
+Crowley County, CO (08025)	1997	37	5,007	739.0
+Crowley County, CO (08025)	1998	46	5,145	894.1
+Crowley County, CO (08025)	Total	800	75,998	1,052.7
+Custer County, CO (08027)	1979	7	1,562	448.1 (Unreliable)
+Custer County, CO (08027)	1980	8	1,530	522.9 (Unreliable)
+Custer County, CO (08027)	1981	11	1,553	708.3 (Unreliable)
+Custer County, CO (08027)	1982	18	1,628	1,105.7 (Unreliable)
+Custer County, CO (08027)	1983	8	1,782	448.9 (Unreliable)
+Custer County, CO (08027)	1984	15	1,873	800.9 (Unreliable)
+Custer County, CO (08027)	1985	22	1,843	1,193.7
+Custer County, CO (08027)	1986	18	1,857	969.3 (Unreliable)
+Custer County, CO (08027)	1987	6	1,806	332.2 (Unreliable)
+Custer County, CO (08027)	1988	11	1,828	601.8 (Unreliable)
+Custer County, CO (08027)	1989	15	1,849	811.2 (Unreliable)
+Custer County, CO (08027)	1991	21	2,006	1,046.9
+Custer County, CO (08027)	1992	18	2,099	857.6 (Unreliable)
+Custer County, CO (08027)	1993	19	2,210	859.7 (Unreliable)
+Custer County, CO (08027)	1995	22	2,708	812.4
+Custer County, CO (08027)	1996	16	2,966	539.4 (Unreliable)
+Custer County, CO (08027)	1997	13	3,196	406.8 (Unreliable)
+Custer County, CO (08027)	1998	20	3,312	603.9
+Custer County, CO (08027)	Total	282	41,991	671.6
+Delta County, CO (08029)	1979	224	20,713	1,081.4
+Delta County, CO (08029)	1980	228	21,277	1,071.6
+Delta County, CO (08029)	1981	248	22,424	1,106.0
+Delta County, CO (08029)	1982	209	23,468	890.6
+Delta County, CO (08029)	1983	281	23,512	1,195.1
+Delta County, CO (08029)	1984	282	23,490	1,200.5
+Delta County, CO (08029)	1985	245	23,082	1,061.4
+Delta County, CO (08029)	1986	222	22,216	999.3
+Delta County, CO (08029)	1987	267	21,122	1,264.1
+Delta County, CO (08029)	1988	248	20,909	1,186.1
+Delta County, CO (08029)	1989	264	20,841	1,266.7
+Delta County, CO (08029)	1990	272	20,970	1,297.1
+Delta County, CO (08029)	1991	275	21,717	1,266.3
+Delta County, CO (08029)	1992	273	22,339	1,222.1
+Delta County, CO (08029)	1993	269	23,253	1,156.8
+Delta County, CO (08029)	1994	307	24,426	1,256.9
+Delta County, CO (08029)	1995	304	25,270	1,203.0
+Delta County, CO (08029)	1996	312	25,818	1,208.5
+Delta County, CO (08029)	1997	312	26,214	1,190.2
+Delta County, CO (08029)	1998	310	27,007	1,147.9
+Delta County, CO (08029)	Total	5,352	460,068	1,163.3
+Denver County, CO (08031)	1979	4,543	496,487	915.0
+Denver County, CO (08031)	1980	4,541	494,172	918.9
+Denver County, CO (08031)	1981	4,623	500,712	923.3
+Denver County, CO (08031)	1982	4,489	506,480	886.3
+Denver County, CO (08031)	1983	4,616	512,489	900.7
+Denver County, CO (08031)	1984	4,629	506,806	913.4
+Denver County, CO (08031)	1985	4,540	505,677	897.8
+Denver County, CO (08031)	1986	4,634	501,582	923.9
+Denver County, CO (08031)	1987	4,523	493,300	916.9
+Denver County, CO (08031)	1988	4,469	480,744	929.6
+Denver County, CO (08031)	1989	4,439	473,702	937.1
+Denver County, CO (08031)	1990	4,405	468,550	940.1
+Denver County, CO (08031)	1991	4,728	479,538	985.9
+Denver County, CO (08031)	1992	4,661	496,369	939.0
+Denver County, CO (08031)	1993	4,858	509,315	953.8
+Denver County, CO (08031)	1994	4,927	513,694	959.1
+Denver County, CO (08031)	1995	4,932	520,099	948.3
+Denver County, CO (08031)	1996	4,922	529,165	930.1
+Denver County, CO (08031)	1997	4,704	538,067	874.2
+Denver County, CO (08031)	1998	4,764	542,716	877.8
+Denver County, CO (08031)	Total	92,947	10,069,664	923.0
+Dolores County, CO (08033)	1979	11	1,529	719.4 (Unreliable)
+Dolores County, CO (08033)	1980	9	1,660	542.2 (Unreliable)
+Dolores County, CO (08033)	1981	13	1,676	775.7 (Unreliable)
+Dolores County, CO (08033)	1982	19	1,669	1,138.4 (Unreliable)
+Dolores County, CO (08033)	1983	9	1,769	508.8 (Unreliable)
+Dolores County, CO (08033)	1984	13	1,701	764.3 (Unreliable)
+Dolores County, CO (08033)	1985	9	1,585	567.8 (Unreliable)
+Dolores County, CO (08033)	1986	11	1,585	694.0 (Unreliable)
+Dolores County, CO (08033)	1987	14	1,522	919.8 (Unreliable)
+Dolores County, CO (08033)	1988	12	1,525	786.9 (Unreliable)
+Dolores County, CO (08033)	1989	17	1,480	1,148.6 (Unreliable)
+Dolores County, CO (08033)	1990	10	1,504	664.9 (Unreliable)
+Dolores County, CO (08033)	1991	14	1,403	997.9 (Unreliable)
+Dolores County, CO (08033)	1992	11	1,383	795.4 (Unreliable)
+Dolores County, CO (08033)	1993	11	1,424	772.5 (Unreliable)
+Dolores County, CO (08033)	1994	16	1,504	1,063.8 (Unreliable)
+Dolores County, CO (08033)	1995	20	1,593	1,255.5
+Dolores County, CO (08033)	1996	11	1,649	667.1 (Unreliable)
+Dolores County, CO (08033)	1997	14	1,680	833.3 (Unreliable)
+Dolores County, CO (08033)	1998	15	1,782	841.8 (Unreliable)
+Dolores County, CO (08033)	Total	259	31,623	819.0
+Douglas County, CO (08035)	1979	95	23,118	410.9
+Douglas County, CO (08035)	1980	92	25,121	366.2
+Douglas County, CO (08035)	1981	83	27,382	303.1
+Douglas County, CO (08035)	1982	106	29,769	356.1
+Douglas County, CO (08035)	1983	133	32,424	410.2
+Douglas County, CO (08035)	1984	127	35,606	356.7
+Douglas County, CO (08035)	1985	130	38,770	335.3
+Douglas County, CO (08035)	1986	121	42,237	286.5
+Douglas County, CO (08035)	1987	134	46,805	286.3
+Douglas County, CO (08035)	1988	171	51,289	333.4
+Douglas County, CO (08035)	1989	162	55,577	291.5
+Douglas County, CO (08035)	1990	144	60,388	238.5
+Douglas County, CO (08035)	1991	173	67,006	258.2
+Douglas County, CO (08035)	1992	200	73,702	271.4
+Douglas County, CO (08035)	1993	228	81,441	280.0
+Douglas County, CO (08035)	1994	272	89,820	302.8
+Douglas County, CO (08035)	1995	223	101,893	218.9
+Douglas County, CO (08035)	1996	309	114,716	269.4
+Douglas County, CO (08035)	1997	334	130,485	256.0
+Douglas County, CO (08035)	1998	389	146,157	266.2
+Douglas County, CO (08035)	Total	3,626	1,273,706	284.7
+Eagle County, CO (08037)	1979	53	13,374	396.3
+Eagle County, CO (08037)	1980	43	13,429	320.2
+Eagle County, CO (08037)	1981	45	14,248	315.8
+Eagle County, CO (08037)	1982	46	15,969	288.1
+Eagle County, CO (08037)	1983	47	16,680	281.8
+Eagle County, CO (08037)	1984	39	16,951	230.1
+Eagle County, CO (08037)	1985	41	17,575	233.3
+Eagle County, CO (08037)	1986	57	18,195	313.3
+Eagle County, CO (08037)	1987	61	18,460	330.4
+Eagle County, CO (08037)	1988	54	19,451	277.6
+Eagle County, CO (08037)	1989	41	20,816	197.0
+Eagle County, CO (08037)	1990	45	21,901	205.5
+Eagle County, CO (08037)	1991	43	23,905	179.9
+Eagle County, CO (08037)	1992	49	25,431	192.7
+Eagle County, CO (08037)	1993	63	27,258	231.1
+Eagle County, CO (08037)	1994	75	29,409	255.0
+Eagle County, CO (08037)	1995	59	31,482	187.4
+Eagle County, CO (08037)	1996	71	33,397	212.6
+Eagle County, CO (08037)	1997	53	35,857	147.8
+Eagle County, CO (08037)	1998	60	38,386	156.3
+Eagle County, CO (08037)	Total	1,045	452,174	231.1
+Elbert County, CO (08039)	1979	36	6,188	581.8
+Elbert County, CO (08039)	1980	48	6,841	701.7
+Elbert County, CO (08039)	1981	36	7,099	507.1
+Elbert County, CO (08039)	1982	48	7,429	646.1
+Elbert County, CO (08039)	1983	40	7,724	517.9
+Elbert County, CO (08039)	1984	52	7,989	650.9
+Elbert County, CO (08039)	1985	42	8,145	515.7
+Elbert County, CO (08039)	1986	49	8,302	590.2
+Elbert County, CO (08039)	1987	40	8,822	453.4
+Elbert County, CO (08039)	1988	43	9,133	470.8
+Elbert County, CO (08039)	1989	56	9,278	603.6
+Elbert County, CO (08039)	1990	51	9,657	528.1
+Elbert County, CO (08039)	1991	62	10,233	605.9
+Elbert County, CO (08039)	1992	40	10,723	373.0
+Elbert County, CO (08039)	1993	66	11,500	573.9
+Elbert County, CO (08039)	1994	55	12,821	429.0
+Elbert County, CO (08039)	1995	51	14,430	353.4
+Elbert County, CO (08039)	1996	76	15,840	479.8
+Elbert County, CO (08039)	1997	65	17,011	382.1
+Elbert County, CO (08039)	1998	64	18,081	354.0
+Elbert County, CO (08039)	Total	1,020	207,246	492.2
+El Paso County, CO (08041)	1979	1,704	310,069	549.6
+El Paso County, CO (08041)	1980	1,710	310,325	551.0
+El Paso County, CO (08041)	1981	1,757	322,706	544.5
+El Paso County, CO (08041)	1982	1,770	333,204	531.2
+El Paso County, CO (08041)	1983	1,796	344,443	521.4
+El Paso County, CO (08041)	1984	1,840	354,917	518.4
+El Paso County, CO (08041)	1985	1,850	370,724	499.0
+El Paso County, CO (08041)	1986	2,014	383,603	525.0
+El Paso County, CO (08041)	1987	2,119	395,445	535.9
+El Paso County, CO (08041)	1988	2,076	396,757	523.2
+El Paso County, CO (08041)	1989	2,177	398,170	546.8
+El Paso County, CO (08041)	1990	2,140	397,149	538.8
+El Paso County, CO (08041)	1991	2,315	404,520	572.3
+El Paso County, CO (08041)	1992	2,210	422,271	523.4
+El Paso County, CO (08041)	1993	2,338	437,232	534.7
+El Paso County, CO (08041)	1994	2,391	457,653	522.4
+El Paso County, CO (08041)	1995	2,526	470,033	537.4
+El Paso County, CO (08041)	1996	2,626	478,671	548.6
+El Paso County, CO (08041)	1997	2,710	487,159	556.3
+El Paso County, CO (08041)	1998	2,742	498,153	550.4
+El Paso County, CO (08041)	Total	42,811	7,973,204	536.9
+Fremont County, CO (08043)	1979	341	28,609	1,191.9
+Fremont County, CO (08043)	1980	353	28,701	1,229.9
+Fremont County, CO (08043)	1981	350	29,262	1,196.1
+Fremont County, CO (08043)	1982	410	29,821	1,374.9
+Fremont County, CO (08043)	1983	381	30,616	1,244.4
+Fremont County, CO (08043)	1984	426	31,355	1,358.6
+Fremont County, CO (08043)	1985	376	31,642	1,188.3
+Fremont County, CO (08043)	1986	346	31,834	1,086.9
+Fremont County, CO (08043)	1987	358	32,740	1,093.5
+Fremont County, CO (08043)	1988	415	32,610	1,272.6
+Fremont County, CO (08043)	1989	400	32,504	1,230.6
+Fremont County, CO (08043)	1990	430	32,229	1,334.2
+Fremont County, CO (08043)	1991	384	32,331	1,187.7
+Fremont County, CO (08043)	1992	420	33,151	1,266.9
+Fremont County, CO (08043)	1993	415	36,117	1,149.0
+Fremont County, CO (08043)	1994	433	38,970	1,111.1
+Fremont County, CO (08043)	1995	505	41,276	1,223.5
+Fremont County, CO (08043)	1996	486	42,713	1,137.8
+Fremont County, CO (08043)	1997	459	43,815	1,047.6
+Fremont County, CO (08043)	1998	459	45,025	1,019.4
+Fremont County, CO (08043)	Total	8,147	685,321	1,188.8
+Garfield County, CO (08045)	1979	140	21,927	638.5
+Garfield County, CO (08045)	1980	155	22,578	686.5
+Garfield County, CO (08045)	1981	152	25,126	605.0
+Garfield County, CO (08045)	1982	140	28,600	489.5
+Garfield County, CO (08045)	1983	150	28,317	529.7
+Garfield County, CO (08045)	1984	158	26,612	593.7
+Garfield County, CO (08045)	1985	173	26,850	644.3
+Garfield County, CO (08045)	1986	173	26,617	650.0
+Garfield County, CO (08045)	1987	193	26,930	716.7
+Garfield County, CO (08045)	1988	179	27,797	644.0
+Garfield County, CO (08045)	1989	207	28,762	719.7
+Garfield County, CO (08045)	1990	193	29,990	643.5
+Garfield County, CO (08045)	1991	202	31,366	644.0
+Garfield County, CO (08045)	1992	185	31,491	587.5
+Garfield County, CO (08045)	1993	220	32,880	669.1
+Garfield County, CO (08045)	1994	210	34,788	603.7
+Garfield County, CO (08045)	1995	254	36,399	697.8
+Garfield County, CO (08045)	1996	232	37,895	612.2
+Garfield County, CO (08045)	1997	240	39,225	611.9
+Garfield County, CO (08045)	1998	269	41,098	654.5
+Garfield County, CO (08045)	Total	3,825	605,248	632.0
+Gilpin County, CO (08047)	1979	15	2,235	671.1 (Unreliable)
+Gilpin County, CO (08047)	1980	10	2,442	409.5 (Unreliable)
+Gilpin County, CO (08047)	1981	11	2,569	428.2 (Unreliable)
+Gilpin County, CO (08047)	1982	19	2,684	707.9 (Unreliable)
+Gilpin County, CO (08047)	1983	10	2,866	348.9 (Unreliable)
+Gilpin County, CO (08047)	1984	11	2,825	389.4 (Unreliable)
+Gilpin County, CO (08047)	1985	17	2,927	580.8 (Unreliable)
+Gilpin County, CO (08047)	1986	12	2,985	402.0 (Unreliable)
+Gilpin County, CO (08047)	1987	10	3,066	326.2 (Unreliable)
+Gilpin County, CO (08047)	1988	13	3,020	430.5 (Unreliable)
+Gilpin County, CO (08047)	1989	10	3,019	331.2 (Unreliable)
+Gilpin County, CO (08047)	1990	11	3,068	358.5 (Unreliable)
+Gilpin County, CO (08047)	1991	20	3,164	632.1
+Gilpin County, CO (08047)	1992	20	3,172	630.5
+Gilpin County, CO (08047)	1993	15	3,318	452.1 (Unreliable)
+Gilpin County, CO (08047)	1994	12	3,478	345.0 (Unreliable)
+Gilpin County, CO (08047)	1995	13	3,686	352.7 (Unreliable)
+Gilpin County, CO (08047)	1996	18	3,810	472.4 (Unreliable)
+Gilpin County, CO (08047)	1997	13	4,088	318.0 (Unreliable)
+Gilpin County, CO (08047)	1998	12	4,323	277.6 (Unreliable)
+Gilpin County, CO (08047)	Total	272	62,745	433.5
+Grand County, CO (08049)	1979	32	7,225	442.9
+Grand County, CO (08049)	1980	34	7,496	453.6
+Grand County, CO (08049)	1981	37	7,763	476.6
+Grand County, CO (08049)	1982	43	8,060	533.5
+Grand County, CO (08049)	1983	27	8,069	334.6
+Grand County, CO (08049)	1984	39	8,474	460.2
+Grand County, CO (08049)	1985	41	8,617	475.8
+Grand County, CO (08049)	1986	31	8,486	365.3
+Grand County, CO (08049)	1987	37	8,302	445.7
+Grand County, CO (08049)	1988	29	8,007	362.2
+Grand County, CO (08049)	1989	41	7,854	522.0
+Grand County, CO (08049)	1990	32	7,970	401.5
+Grand County, CO (08049)	1991	37	8,227	449.7
+Grand County, CO (08049)	1992	31	8,611	360.0
+Grand County, CO (08049)	1993	38	9,052	419.8
+Grand County, CO (08049)	1994	37	9,315	397.2
+Grand County, CO (08049)	1995	45	9,917	453.8
+Grand County, CO (08049)	1996	43	10,550	407.6
+Grand County, CO (08049)	1997	41	10,977	373.5
+Grand County, CO (08049)	1998	47	11,517	408.1
+Grand County, CO (08049)	Total	742	174,489	425.2
+Gunnison County, CO (08051)	1979	22	9,980	220.4
+Gunnison County, CO (08051)	1980	47	10,724	438.3
+Gunnison County, CO (08051)	1981	44	10,819	406.7
+Gunnison County, CO (08051)	1982	47	10,912	430.7
+Gunnison County, CO (08051)	1983	41	10,642	385.3
+Gunnison County, CO (08051)	1984	32	10,257	312.0
+Gunnison County, CO (08051)	1985	50	10,137	493.2
+Gunnison County, CO (08051)	1986	52	10,091	515.3
+Gunnison County, CO (08051)	1987	58	9,924	584.4
+Gunnison County, CO (08051)	1988	52	10,151	512.3
+Gunnison County, CO (08051)	1989	36	10,135	355.2
+Gunnison County, CO (08051)	1990	48	10,262	467.7
+Gunnison County, CO (08051)	1991	45	10,600	424.5
+Gunnison County, CO (08051)	1992	64	11,184	572.2
+Gunnison County, CO (08051)	1993	44	11,706	375.9
+Gunnison County, CO (08051)	1994	57	12,076	472.0
+Gunnison County, CO (08051)	1995	58	12,407	467.5
+Gunnison County, CO (08051)	1996	50	12,913	387.2
+Gunnison County, CO (08051)	1997	51	13,175	387.1
+Gunnison County, CO (08051)	1998	35	13,488	259.5
+Gunnison County, CO (08051)	Total	933	221,583	421.1
+Hinsdale County, CO (08053)	1979	4	498	803.2 (Unreliable)
+Hinsdale County, CO (08053)	1980	2	404	495.0 (Unreliable)
+Hinsdale County, CO (08053)	1981	1	443	225.7 (Unreliable)
+Hinsdale County, CO (08053)	1983	1	492	203.3 (Unreliable)
+Hinsdale County, CO (08053)	1984	1	507	197.2 (Unreliable)
+Hinsdale County, CO (08053)	1986	3	483	621.1 (Unreliable)
+Hinsdale County, CO (08053)	1987	2	476	420.2 (Unreliable)
+Hinsdale County, CO (08053)	1988	4	465	860.2 (Unreliable)
+Hinsdale County, CO (08053)	Total	43	10,636	404.3
+Huerfano County, CO (08055)	1979	81	6,565	1,233.8
+Huerfano County, CO (08055)	1980	87	6,432	1,352.6
+Huerfano County, CO (08055)	1981	69	6,445	1,070.6
+Huerfano County, CO (08055)	1982	94	6,659	1,411.6
+Huerfano County, CO (08055)	1983	68	6,805	999.3
+Huerfano County, CO (08055)	1984	73	6,866	1,063.2
+Huerfano County, CO (08055)	1985	81	6,787	1,193.5
+Huerfano County, CO (08055)	1986	80	6,706	1,193.0
+Huerfano County, CO (08055)	1987	69	6,447	1,070.3
+Huerfano County, CO (08055)	1988	68	6,337	1,073.1
+Huerfano County, CO (08055)	1989	86	6,147	1,399.1
+Huerfano County, CO (08055)	1990	71	6,017	1,180.0
+Huerfano County, CO (08055)	1991	74	6,032	1,226.8
+Huerfano County, CO (08055)	1992	68	6,148	1,106.1
+Huerfano County, CO (08055)	1993	88	6,329	1,390.4
+Huerfano County, CO (08055)	1994	80	6,591	1,213.8
+Huerfano County, CO (08055)	1995	90	6,895	1,305.3
+Huerfano County, CO (08055)	1996	78	7,225	1,079.6
+Huerfano County, CO (08055)	1997	100	7,552	1,324.2
+Huerfano County, CO (08055)	1998	106	7,747	1,368.3
+Huerfano County, CO (08055)	Total	1,611	132,732	1,213.7
+Jackson County, CO (08057)	1979	14	1,782	785.6 (Unreliable)
+Jackson County, CO (08057)	1980	4	1,864	214.6 (Unreliable)
+Jackson County, CO (08057)	1981	14	1,857	753.9 (Unreliable)
+Jackson County, CO (08057)	1982	11	1,802	610.4 (Unreliable)
+Jackson County, CO (08057)	1983	4	1,749	228.7 (Unreliable)
+Jackson County, CO (08057)	1984	12	1,738	690.4 (Unreliable)
+Jackson County, CO (08057)	1985	7	1,685	415.4 (Unreliable)
+Jackson County, CO (08057)	1986	7	1,631	429.2 (Unreliable)
+Jackson County, CO (08057)	1987	12	1,672	717.7 (Unreliable)
+Jackson County, CO (08057)	1988	16	1,617	989.5 (Unreliable)
+Jackson County, CO (08057)	1989	10	1,663	601.3 (Unreliable)
+Jackson County, CO (08057)	1990	15	1,605	934.6 (Unreliable)
+Jackson County, CO (08057)	1992	11	1,647	667.9 (Unreliable)
+Jackson County, CO (08057)	1993	21	1,694	1,239.7
+Jackson County, CO (08057)	1995	17	1,551	1,096.1 (Unreliable)
+Jackson County, CO (08057)	1997	15	1,538	975.3 (Unreliable)
+Jackson County, CO (08057)	1998	11	1,541	713.8 (Unreliable)
+Jackson County, CO (08057)	Total	226	33,399	676.7
+Jefferson County, CO (08059)	1979	1,830	369,769	494.9
+Jefferson County, CO (08059)	1980	1,846	372,095	496.1
+Jefferson County, CO (08059)	1981	1,978	385,015	513.7
+Jefferson County, CO (08059)	1982	2,000	393,756	507.9
+Jefferson County, CO (08059)	1983	1,967	403,465	487.5
+Jefferson County, CO (08059)	1984	2,062	411,951	500.5
+Jefferson County, CO (08059)	1985	2,183	418,388	521.8
+Jefferson County, CO (08059)	1986	2,143	423,767	505.7
+Jefferson County, CO (08059)	1987	2,159	428,353	504.0
+Jefferson County, CO (08059)	1988	2,417	431,336	560.4
+Jefferson County, CO (08059)	1989	2,229	435,633	511.7
+Jefferson County, CO (08059)	1990	2,429	438,346	554.1
+Jefferson County, CO (08059)	1991	2,400	446,994	536.9
+Jefferson County, CO (08059)	1992	2,477	457,372	541.6
+Jefferson County, CO (08059)	1993	2,629	472,235	556.7
+Jefferson County, CO (08059)	1994	2,670	483,052	552.7
+Jefferson County, CO (08059)	1995	2,808	491,942	570.8
+Jefferson County, CO (08059)	1996	2,867	499,674	573.8
+Jefferson County, CO (08059)	1997	2,981	507,249	587.7
+Jefferson County, CO (08059)	1998	3,101	513,456	603.9
+Jefferson County, CO (08059)	Total	47,176	8,783,848	537.1
+Kiowa County, CO (08061)	1979	25	1,875	1,333.3
+Kiowa County, CO (08061)	1980	23	1,940	1,185.6
+Kiowa County, CO (08061)	1981	27	1,983	1,361.6
+Kiowa County, CO (08061)	1982	20	1,900	1,052.6
+Kiowa County, CO (08061)	1983	22	1,904	1,155.5
+Kiowa County, CO (08061)	1984	14	1,901	736.5 (Unreliable)
+Kiowa County, CO (08061)	1985	12	1,867	642.7 (Unreliable)
+Kiowa County, CO (08061)	1986	15	1,796	835.2 (Unreliable)
+Kiowa County, CO (08061)	1987	16	1,752	913.2 (Unreliable)
+Kiowa County, CO (08061)	1988	10	1,746	572.7 (Unreliable)
+Kiowa County, CO (08061)	1989	21	1,743	1,204.8
+Kiowa County, CO (08061)	1990	16	1,687	948.4 (Unreliable)
+Kiowa County, CO (08061)	1991	24	1,634	1,468.8
+Kiowa County, CO (08061)	1992	17	1,631	1,042.3 (Unreliable)
+Kiowa County, CO (08061)	1993	20	1,698	1,177.9
+Kiowa County, CO (08061)	1994	19	1,661	1,143.9 (Unreliable)
+Kiowa County, CO (08061)	1995	16	1,633	979.8 (Unreliable)
+Kiowa County, CO (08061)	1996	20	1,640	1,219.5
+Kiowa County, CO (08061)	1997	18	1,636	1,100.2 (Unreliable)
+Kiowa County, CO (08061)	1998	19	1,637	1,160.7 (Unreliable)
+Kiowa County, CO (08061)	Total	374	35,264	1,060.6
+Kit Carson County, CO (08063)	1979	57	7,591	750.9
+Kit Carson County, CO (08063)	1980	73	7,616	958.5
+Kit Carson County, CO (08063)	1981	59	7,575	778.9
+Kit Carson County, CO (08063)	1982	60	7,613	788.1
+Kit Carson County, CO (08063)	1983	77	7,688	1,001.6
+Kit Carson County, CO (08063)	1984	101	7,673	1,316.3
+Kit Carson County, CO (08063)	1985	69	7,492	921.0
+Kit Carson County, CO (08063)	1986	75	7,369	1,017.8
+Kit Carson County, CO (08063)	1987	51	7,253	703.2
+Kit Carson County, CO (08063)	1988	71	7,284	974.7
+Kit Carson County, CO (08063)	1989	74	7,243	1,021.7
+Kit Carson County, CO (08063)	1990	61	7,128	855.8
+Kit Carson County, CO (08063)	1991	64	7,236	884.5
+Kit Carson County, CO (08063)	1992	61	7,339	831.2
+Kit Carson County, CO (08063)	1993	65	7,372	881.7
+Kit Carson County, CO (08063)	1994	75	7,402	1,013.2
+Kit Carson County, CO (08063)	1995	55	7,454	737.9
+Kit Carson County, CO (08063)	1996	83	7,522	1,103.4
+Kit Carson County, CO (08063)	1997	73	7,585	962.4
+Kit Carson County, CO (08063)	1998	75	7,799	961.7
+Kit Carson County, CO (08063)	Total	1,379	149,234	924.1
+Lake County, CO (08065)	1979	37	8,858	417.7
+Lake County, CO (08065)	1980	40	8,896	449.6
+Lake County, CO (08065)	1981	33	8,900	370.8
+Lake County, CO (08065)	1982	35	8,462	413.6
+Lake County, CO (08065)	1983	36	7,610	473.1
+Lake County, CO (08065)	1984	33	6,939	475.6
+Lake County, CO (08065)	1985	33	6,747	489.1
+Lake County, CO (08065)	1986	35	6,497	538.7
+Lake County, CO (08065)	1987	32	6,127	522.3
+Lake County, CO (08065)	1988	33	5,804	568.6
+Lake County, CO (08065)	1989	31	5,941	521.8
+Lake County, CO (08065)	1990	36	5,988	601.2
+Lake County, CO (08065)	1991	29	6,255	463.6
+Lake County, CO (08065)	1992	29	6,385	454.2
+Lake County, CO (08065)	1993	30	6,461	464.3
+Lake County, CO (08065)	1994	26	6,597	394.1
+Lake County, CO (08065)	1995	49	6,901	710.0
+Lake County, CO (08065)	1996	34	7,071	480.8
+Lake County, CO (08065)	1997	28	7,234	387.1
+Lake County, CO (08065)	1998	37	7,468	495.4
+Lake County, CO (08065)	Total	676	141,141	479.0
+La Plata County, CO (08067)	1979	180	27,309	659.1
+La Plata County, CO (08067)	1980	211	27,511	767.0
+La Plata County, CO (08067)	1981	197	28,341	695.1
+La Plata County, CO (08067)	1982	189	29,448	641.8
+La Plata County, CO (08067)	1983	200	30,209	662.1
+La Plata County, CO (08067)	1984	180	30,859	583.3
+La Plata County, CO (08067)	1985	182	31,441	578.9
+La Plata County, CO (08067)	1986	205	31,286	655.2
+La Plata County, CO (08067)	1987	192	31,302	613.4
+La Plata County, CO (08067)	1988	197	31,310	629.2
+La Plata County, CO (08067)	1989	200	31,668	631.6
+La Plata County, CO (08067)	1990	192	32,317	594.1
+La Plata County, CO (08067)	1991	217	33,680	644.3
+La Plata County, CO (08067)	1992	200	34,958	572.1
+La Plata County, CO (08067)	1993	217	36,563	593.5
+La Plata County, CO (08067)	1994	225	37,880	594.0
+La Plata County, CO (08067)	1995	228	39,572	576.2
+La Plata County, CO (08067)	1996	268	40,798	656.9
+La Plata County, CO (08067)	1997	224	41,636	538.0
+La Plata County, CO (08067)	1998	242	42,334	571.6
+La Plata County, CO (08067)	Total	4,146	670,422	618.4
+Larimer County, CO (08069)	1979	793	145,758	544.1
+Larimer County, CO (08069)	1980	801	149,471	535.9
+Larimer County, CO (08069)	1981	924	153,636	601.4
+Larimer County, CO (08069)	1982	881	157,688	558.7
+Larimer County, CO (08069)	1983	807	162,049	498.0
+Larimer County, CO (08069)	1984	960	165,257	580.9
+Larimer County, CO (08069)	1985	960	169,840	565.2
+Larimer County, CO (08069)	1986	1,091	174,354	625.7
+Larimer County, CO (08069)	1987	1,015	177,533	571.7
+Larimer County, CO (08069)	1988	994	180,644	550.3
+Larimer County, CO (08069)	1989	1,044	183,420	569.2
+Larimer County, CO (08069)	1990	1,027	186,200	551.6
+Larimer County, CO (08069)	1991	1,184	193,109	613.1
+Larimer County, CO (08069)	1992	1,101	200,098	550.2
+Larimer County, CO (08069)	1993	1,139	208,094	547.3
+Larimer County, CO (08069)	1994	1,235	216,875	569.5
+Larimer County, CO (08069)	1995	1,220	222,784	547.6
+Larimer County, CO (08069)	1996	1,308	228,283	573.0
+Larimer County, CO (08069)	1997	1,304	233,687	558.0
+Larimer County, CO (08069)	1998	1,383	240,696	574.6
+Larimer County, CO (08069)	Total	21,171	3,749,476	564.6
+Las Animas County, CO (08071)	1979	171	14,639	1,168.1
+Las Animas County, CO (08071)	1980	168	14,913	1,126.5
+Las Animas County, CO (08071)	1981	175	15,029	1,164.4
+Las Animas County, CO (08071)	1982	173	15,183	1,139.4
+Las Animas County, CO (08071)	1983	182	15,054	1,209.0
+Las Animas County, CO (08071)	1984	197	14,747	1,335.9
+Las Animas County, CO (08071)	1985	163	14,386	1,133.0
+Las Animas County, CO (08071)	1986	191	14,191	1,345.9
+Las Animas County, CO (08071)	1987	197	14,009	1,406.2
+Las Animas County, CO (08071)	1988	162	13,765	1,176.9
+Las Animas County, CO (08071)	1989	161	13,837	1,163.5
+Las Animas County, CO (08071)	1990	183	13,786	1,327.4
+Las Animas County, CO (08071)	1991	179	13,587	1,317.4
+Las Animas County, CO (08071)	1992	143	13,694	1,044.3
+Las Animas County, CO (08071)	1993	168	13,734	1,223.2
+Las Animas County, CO (08071)	1994	175	14,095	1,241.6
+Las Animas County, CO (08071)	1995	214	14,385	1,487.7
+Las Animas County, CO (08071)	1996	186	14,530	1,280.1
+Las Animas County, CO (08071)	1997	168	14,608	1,150.1
+Las Animas County, CO (08071)	1998	155	14,775	1,049.1
+Las Animas County, CO (08071)	Total	3,511	286,947	1,223.6
+Lincoln County, CO (08073)	1979	66	4,562	1,446.7
+Lincoln County, CO (08073)	1980	64	4,687	1,365.5
+Lincoln County, CO (08073)	1981	59	4,571	1,290.7
+Lincoln County, CO (08073)	1982	66	4,560	1,447.4
+Lincoln County, CO (08073)	1983	48	4,537	1,058.0
+Lincoln County, CO (08073)	1984	56	4,603	1,216.6
+Lincoln County, CO (08073)	1985	51	4,654	1,095.8
+Lincoln County, CO (08073)	1986	47	4,684	1,003.4
+Lincoln County, CO (08073)	1987	51	4,659	1,094.7
+Lincoln County, CO (08073)	1988	62	4,609	1,345.2
+Lincoln County, CO (08073)	1989	47	4,594	1,023.1
+Lincoln County, CO (08073)	1990	53	4,533	1,169.2
+Lincoln County, CO (08073)	1991	62	5,064	1,224.3
+Lincoln County, CO (08073)	1992	68	5,618	1,210.4
+Lincoln County, CO (08073)	1993	43	5,600	767.9
+Lincoln County, CO (08073)	1994	61	5,700	1,070.2
+Lincoln County, CO (08073)	1995	59	5,758	1,024.7
+Lincoln County, CO (08073)	1996	70	5,925	1,181.4
+Lincoln County, CO (08073)	1997	50	5,986	835.3
+Lincoln County, CO (08073)	1998	61	6,078	1,003.6
+Lincoln County, CO (08073)	Total	1,144	100,982	1,132.9
+Logan County, CO (08075)	1979	142	19,305	735.6
+Logan County, CO (08075)	1980	164	19,822	827.4
+Logan County, CO (08075)	1981	167	19,891	839.6
+Logan County, CO (08075)	1982	162	19,901	814.0
+Logan County, CO (08075)	1983	189	20,007	944.7
+Logan County, CO (08075)	1984	176	19,764	890.5
+Logan County, CO (08075)	1985	163	19,433	838.8
+Logan County, CO (08075)	1986	152	18,840	806.8
+Logan County, CO (08075)	1987	170	18,319	928.0
+Logan County, CO (08075)	1988	181	18,029	1,003.9
+Logan County, CO (08075)	1989	163	17,877	911.8
+Logan County, CO (08075)	1990	197	17,547	1,122.7
+Logan County, CO (08075)	1991	183	17,558	1,042.3
+Logan County, CO (08075)	1992	178	17,815	999.2
+Logan County, CO (08075)	1993	137	18,103	756.8
+Logan County, CO (08075)	1994	142	18,530	766.3
+Logan County, CO (08075)	1995	180	19,071	943.8
+Logan County, CO (08075)	1996	199	19,471	1,022.0
+Logan County, CO (08075)	1997	185	19,811	933.8
+Logan County, CO (08075)	1998	171	19,835	862.1
+Logan County, CO (08075)	Total	3,401	378,929	897.5
+Mesa County, CO (08077)	1979	541	77,071	702.0
+Mesa County, CO (08077)	1980	679	81,757	830.5
+Mesa County, CO (08077)	1981	656	87,968	745.7
+Mesa County, CO (08077)	1982	727	94,492	769.4
+Mesa County, CO (08077)	1983	683	96,212	709.9
+Mesa County, CO (08077)	1984	725	94,489	767.3
+Mesa County, CO (08077)	1985	682	89,323	763.5
+Mesa County, CO (08077)	1986	718	87,317	822.3
+Mesa County, CO (08077)	1987	751	87,240	860.8
+Mesa County, CO (08077)	1988	849	88,724	956.9
+Mesa County, CO (08077)	1989	823	91,125	903.2
+Mesa County, CO (08077)	1990	820	93,122	880.6
+Mesa County, CO (08077)	1991	861	96,252	894.5
+Mesa County, CO (08077)	1992	869	97,971	887.0
+Mesa County, CO (08077)	1993	926	100,627	920.2
+Mesa County, CO (08077)	1994	961	103,386	929.5
+Mesa County, CO (08077)	1995	927	105,957	874.9
+Mesa County, CO (08077)	1996	1,026	108,170	948.5
+Mesa County, CO (08077)	1997	1,025	110,615	926.6
+Mesa County, CO (08077)	1998	1,040	112,763	922.3
+Mesa County, CO (08077)	Total	16,289	1,904,581	855.3
+Mineral County, CO (08079)	1979	5	788	634.5 (Unreliable)
+Mineral County, CO (08079)	1980	7	809	865.3 (Unreliable)
+Mineral County, CO (08079)	1981	5	876	570.8 (Unreliable)
+Mineral County, CO (08079)	1982	3	846	354.6 (Unreliable)
+Mineral County, CO (08079)	1983	7	840	833.3 (Unreliable)
+Mineral County, CO (08079)	1984	5	801	624.2 (Unreliable)
+Mineral County, CO (08079)	1985	4	791	505.7 (Unreliable)
+Mineral County, CO (08079)	1986	5	679	736.4 (Unreliable)
+Mineral County, CO (08079)	1987	1	686	145.8 (Unreliable)
+Mineral County, CO (08079)	1988	6	630	952.4 (Unreliable)
+Mineral County, CO (08079)	Total	99	14,176	698.4
+Moffat County, CO (08081)	1979	65	12,375	525.3
+Moffat County, CO (08081)	1980	60	13,177	455.3
+Moffat County, CO (08081)	1981	77	13,436	573.1
+Moffat County, CO (08081)	1982	67	14,275	469.4
+Moffat County, CO (08081)	1983	76	14,530	523.1
+Moffat County, CO (08081)	1984	67	13,602	492.6
+Moffat County, CO (08081)	1985	63	12,616	499.4
+Moffat County, CO (08081)	1986	60	12,089	496.3
+Moffat County, CO (08081)	1987	63	11,469	549.3
+Moffat County, CO (08081)	1988	81	11,253	719.8
+Moffat County, CO (08081)	1989	56	11,257	497.5
+Moffat County, CO (08081)	1990	56	11,322	494.6
+Moffat County, CO (08081)	1991	82	11,496	713.3
+Moffat County, CO (08081)	1992	70	11,602	603.3
+Moffat County, CO (08081)	1993	62	11,825	524.3
+Moffat County, CO (08081)	1994	68	12,044	564.6
+Moffat County, CO (08081)	1995	93	12,195	762.6
+Moffat County, CO (08081)	1996	83	12,313	674.1
+Moffat County, CO (08081)	1997	86	12,637	680.5
+Moffat County, CO (08081)	1998	61	12,954	470.9
+Moffat County, CO (08081)	Total	1,396	248,467	561.8
+Montezuma County, CO (08083)	1979	137	16,327	839.1
+Montezuma County, CO (08083)	1980	138	16,525	835.1
+Montezuma County, CO (08083)	1981	120	17,269	694.9
+Montezuma County, CO (08083)	1982	140	18,024	776.7
+Montezuma County, CO (08083)	1983	151	18,657	809.3
+Montezuma County, CO (08083)	1984	122	19,277	632.9
+Montezuma County, CO (08083)	1985	108	19,194	562.7
+Montezuma County, CO (08083)	1986	149	19,106	779.9
+Montezuma County, CO (08083)	1987	143	18,699	764.7
+Montezuma County, CO (08083)	1988	149	18,681	797.6
+Montezuma County, CO (08083)	1989	164	18,583	882.5
+Montezuma County, CO (08083)	1990	158	18,632	848.0
+Montezuma County, CO (08083)	1991	148	19,097	775.0
+Montezuma County, CO (08083)	1992	157	19,738	795.4
+Montezuma County, CO (08083)	1993	181	20,439	885.6
+Montezuma County, CO (08083)	1994	182	21,268	855.7
+Montezuma County, CO (08083)	1995	194	22,035	880.4
+Montezuma County, CO (08083)	1996	200	22,608	884.6
+Montezuma County, CO (08083)	1997	193	22,938	841.4
+Montezuma County, CO (08083)	1998	219	23,193	944.3
+Montezuma County, CO (08083)	Total	3,153	390,290	807.9
+Montrose County, CO (08085)	1979	179	23,481	762.3
+Montrose County, CO (08085)	1980	194	24,431	794.1
+Montrose County, CO (08085)	1981	181	25,155	719.5
+Montrose County, CO (08085)	1982	206	25,505	807.7
+Montrose County, CO (08085)	1983	198	25,909	764.2
+Montrose County, CO (08085)	1984	225	25,563	880.2
+Montrose County, CO (08085)	1985	239	24,820	962.9
+Montrose County, CO (08085)	1986	201	24,236	829.3
+Montrose County, CO (08085)	1987	229	24,211	945.9
+Montrose County, CO (08085)	1988	222	24,203	917.2
+Montrose County, CO (08085)	1989	238	24,413	974.9
+Montrose County, CO (08085)	1990	228	24,456	932.3
+Montrose County, CO (08085)	1991	251	25,200	996.0
+Montrose County, CO (08085)	1992	242	25,853	936.1
+Montrose County, CO (08085)	1993	258	27,057	953.5
+Montrose County, CO (08085)	1994	264	28,348	931.3
+Montrose County, CO (08085)	1995	252	29,661	849.6
+Montrose County, CO (08085)	1996	299	30,652	975.5
+Montrose County, CO (08085)	1997	270	31,509	856.9
+Montrose County, CO (08085)	1998	347	32,228	1,076.7
+Montrose County, CO (08085)	Total	4,723	526,891	896.4
+Morgan County, CO (08087)	1979	213	21,897	972.7
+Morgan County, CO (08087)	1980	195	22,572	863.9
+Morgan County, CO (08087)	1981	212	22,455	944.1
+Morgan County, CO (08087)	1982	229	22,649	1,011.1
+Morgan County, CO (08087)	1983	225	23,377	962.5
+Morgan County, CO (08087)	1984	219	23,182	944.7
+Morgan County, CO (08087)	1985	217	22,839	950.1
+Morgan County, CO (08087)	1986	224	22,015	1,017.5
+Morgan County, CO (08087)	1987	230	22,167	1,037.6
+Morgan County, CO (08087)	1988	234	21,971	1,065.0
+Morgan County, CO (08087)	1989	202	22,049	916.1
+Morgan County, CO (08087)	1990	219	21,904	999.8
+Morgan County, CO (08087)	1991	234	22,604	1,035.2
+Morgan County, CO (08087)	1992	240	23,211	1,034.0
+Morgan County, CO (08087)	1993	264	23,598	1,118.7
+Morgan County, CO (08087)	1994	241	24,343	990.0
+Morgan County, CO (08087)	1995	222	24,931	890.5
+Morgan County, CO (08087)	1996	222	25,618	866.6
+Morgan County, CO (08087)	1997	217	26,209	828.0
+Morgan County, CO (08087)	1998	244	26,393	924.5
+Morgan County, CO (08087)	Total	4,503	465,984	966.3
+Otero County, CO (08089)	1979	265	22,589	1,173.1
+Otero County, CO (08089)	1980	242	22,604	1,070.6
+Otero County, CO (08089)	1981	249	22,556	1,103.9
+Otero County, CO (08089)	1982	262	22,366	1,171.4
+Otero County, CO (08089)	1983	230	22,489	1,022.7
+Otero County, CO (08089)	1984	239	22,030	1,084.9
+Otero County, CO (08089)	1985	255	21,688	1,175.8
+Otero County, CO (08089)	1986	213	21,483	991.5
+Otero County, CO (08089)	1987	238	21,169	1,124.3
+Otero County, CO (08089)	1988	238	20,706	1,149.4
+Otero County, CO (08089)	1989	221	20,582	1,073.8
+Otero County, CO (08089)	1990	230	20,175	1,140.0
+Otero County, CO (08089)	1991	245	20,131	1,217.0
+Otero County, CO (08089)	1992	249	20,110	1,238.2
+Otero County, CO (08089)	1993	234	20,350	1,149.9
+Otero County, CO (08089)	1994	243	20,444	1,188.6
+Otero County, CO (08089)	1995	273	20,723	1,317.4
+Otero County, CO (08089)	1996	262	20,705	1,265.4
+Otero County, CO (08089)	1997	236	20,786	1,135.4
+Otero County, CO (08089)	1998	238	20,548	1,158.3
+Otero County, CO (08089)	Total	4,862	424,234	1,146.1
+Ouray County, CO (08091)	1979	16	1,995	802.0 (Unreliable)
+Ouray County, CO (08091)	1980	12	1,920	625.0 (Unreliable)
+Ouray County, CO (08091)	1981	11	2,032	541.3 (Unreliable)
+Ouray County, CO (08091)	1982	16	2,116	756.1 (Unreliable)
+Ouray County, CO (08091)	1983	11	2,078	529.4 (Unreliable)
+Ouray County, CO (08091)	1984	21	2,187	960.2
+Ouray County, CO (08091)	1985	10	2,103	475.5 (Unreliable)
+Ouray County, CO (08091)	1986	16	2,085	767.4 (Unreliable)
+Ouray County, CO (08091)	1987	15	2,207	679.7 (Unreliable)
+Ouray County, CO (08091)	1988	18	2,236	805.0 (Unreliable)
+Ouray County, CO (08091)	1989	10	2,255	443.5 (Unreliable)
+Ouray County, CO (08091)	1990	15	2,288	655.6 (Unreliable)
+Ouray County, CO (08091)	1991	17	2,436	697.9 (Unreliable)
+Ouray County, CO (08091)	1992	20	2,509	797.1
+Ouray County, CO (08091)	1993	14	2,708	517.0 (Unreliable)
+Ouray County, CO (08091)	1994	16	2,931	545.9 (Unreliable)
+Ouray County, CO (08091)	1995	17	3,124	544.2 (Unreliable)
+Ouray County, CO (08091)	1996	14	3,228	433.7 (Unreliable)
+Ouray County, CO (08091)	1997	15	3,321	451.7 (Unreliable)
+Ouray County, CO (08091)	1998	21	3,474	604.5
+Ouray County, CO (08091)	Total	305	49,233	619.5
+Park County, CO (08093)	1979	20	4,588	435.9
+Park County, CO (08093)	1980	25	5,344	467.8
+Park County, CO (08093)	1981	27	5,761	468.7
+Park County, CO (08093)	1982	28	6,088	459.9
+Park County, CO (08093)	1983	23	6,314	364.3
+Park County, CO (08093)	1984	22	6,448	341.2
+Park County, CO (08093)	1985	32	6,530	490.0
+Park County, CO (08093)	1986	25	6,737	371.1
+Park County, CO (08093)	1987	41	6,813	601.8
+Park County, CO (08093)	1988	36	6,881	523.2
+Park County, CO (08093)	1989	27	7,025	384.3
+Park County, CO (08093)	1990	27	7,182	375.9
+Park County, CO (08093)	1991	29	7,660	378.6
+Park County, CO (08093)	1992	33	7,994	412.8
+Park County, CO (08093)	1993	41	8,430	486.4
+Park County, CO (08093)	1994	32	9,422	339.6
+Park County, CO (08093)	1995	44	10,469	420.3
+Park County, CO (08093)	1996	41	11,533	355.5
+Park County, CO (08093)	1997	48	12,446	385.7
+Park County, CO (08093)	1998	43	13,186	326.1
+Park County, CO (08093)	Total	644	156,851	410.6
+Phillips County, CO (08095)	1979	44	4,420	995.5
+Phillips County, CO (08095)	1980	63	4,535	1,389.2
+Phillips County, CO (08095)	1981	44	4,525	972.4
+Phillips County, CO (08095)	1982	76	4,610	1,648.6
+Phillips County, CO (08095)	1983	45	4,673	963.0
+Phillips County, CO (08095)	1984	51	4,572	1,115.5
+Phillips County, CO (08095)	1985	60	4,437	1,352.3
+Phillips County, CO (08095)	1986	47	4,336	1,083.9
+Phillips County, CO (08095)	1987	56	4,256	1,315.8
+Phillips County, CO (08095)	1988	36	4,228	851.5
+Phillips County, CO (08095)	1989	51	4,195	1,215.7
+Phillips County, CO (08095)	1990	53	4,197	1,262.8
+Phillips County, CO (08095)	1991	59	4,202	1,404.1
+Phillips County, CO (08095)	1992	56	4,210	1,330.2
+Phillips County, CO (08095)	1993	62	4,284	1,447.2
+Phillips County, CO (08095)	1994	59	4,335	1,361.0
+Phillips County, CO (08095)	1995	41	4,474	916.4
+Phillips County, CO (08095)	1996	53	4,519	1,172.8
+Phillips County, CO (08095)	1997	72	4,527	1,590.5
+Phillips County, CO (08095)	1998	48	4,558	1,053.1
+Phillips County, CO (08095)	Total	1,076	88,093	1,221.4
+Pitkin County, CO (08097)	1979	32	10,682	299.6
+Pitkin County, CO (08097)	1980	40	10,365	385.9
+Pitkin County, CO (08097)	1981	33	10,407	317.1
+Pitkin County, CO (08097)	1982	38	10,721	354.4
+Pitkin County, CO (08097)	1983	21	10,974	191.4
+Pitkin County, CO (08097)	1984	29	10,790	268.8
+Pitkin County, CO (08097)	1985	27	10,725	251.7
+Pitkin County, CO (08097)	1986	33	11,157	295.8
+Pitkin County, CO (08097)	1987	27	11,556	233.6
+Pitkin County, CO (08097)	1988	25	12,057	207.3
+Pitkin County, CO (08097)	1989	21	12,361	169.9
+Pitkin County, CO (08097)	1990	27	12,638	213.6
+Pitkin County, CO (08097)	1991	30	12,876	233.0
+Pitkin County, CO (08097)	1992	22	13,216	166.5
+Pitkin County, CO (08097)	1993	48	13,907	345.1
+Pitkin County, CO (08097)	1994	24	14,343	167.3
+Pitkin County, CO (08097)	1995	40	14,587	274.2
+Pitkin County, CO (08097)	1996	38	14,509	261.9
+Pitkin County, CO (08097)	1997	34	14,912	228.0
+Pitkin County, CO (08097)	1998	31	14,869	208.5
+Pitkin County, CO (08097)	Total	620	247,652	250.4
+Prowers County, CO (08099)	1979	120	13,432	893.4
+Prowers County, CO (08099)	1980	127	13,124	967.7
+Prowers County, CO (08099)	1981	122	13,077	932.9
+Prowers County, CO (08099)	1982	155	13,304	1,165.1
+Prowers County, CO (08099)	1983	118	13,875	850.5
+Prowers County, CO (08099)	1984	120	14,260	841.5
+Prowers County, CO (08099)	1985	120	14,164	847.2
+Prowers County, CO (08099)	1986	127	14,118	899.6
+Prowers County, CO (08099)	1987	148	13,988	1,058.0
+Prowers County, CO (08099)	1988	121	13,939	868.1
+Prowers County, CO (08099)	1989	115	13,474	853.5
+Prowers County, CO (08099)	1990	115	13,362	860.6
+Prowers County, CO (08099)	1991	113	13,362	845.7
+Prowers County, CO (08099)	1992	105	13,311	788.8
+Prowers County, CO (08099)	1993	126	13,466	935.7
+Prowers County, CO (08099)	1994	104	13,867	750.0
+Prowers County, CO (08099)	1995	123	13,960	881.1
+Prowers County, CO (08099)	1996	121	14,037	862.0
+Prowers County, CO (08099)	1997	110	14,228	773.1
+Prowers County, CO (08099)	1998	140	14,353	975.4
+Prowers County, CO (08099)	Total	2,450	274,701	891.9
+Pueblo County, CO (08101)	1979	1,081	126,013	857.8
+Pueblo County, CO (08101)	1980	1,105	126,175	875.8
+Pueblo County, CO (08101)	1981	1,050	125,861	834.3
+Pueblo County, CO (08101)	1982	1,083	125,396	863.7
+Pueblo County, CO (08101)	1983	1,060	125,703	843.3
+Pueblo County, CO (08101)	1984	1,121	124,126	903.1
+Pueblo County, CO (08101)	1985	1,126	123,758	909.8
+Pueblo County, CO (08101)	1986	1,127	123,968	909.1
+Pueblo County, CO (08101)	1987	1,205	124,200	970.2
+Pueblo County, CO (08101)	1988	1,196	123,671	967.1
+Pueblo County, CO (08101)	1989	1,161	123,489	940.2
+Pueblo County, CO (08101)	1990	1,223	123,129	993.3
+Pueblo County, CO (08101)	1991	1,257	123,544	1,017.5
+Pueblo County, CO (08101)	1992	1,207	124,453	969.8
+Pueblo County, CO (08101)	1993	1,224	126,732	965.8
+Pueblo County, CO (08101)	1994	1,271	128,886	986.1
+Pueblo County, CO (08101)	1995	1,312	130,960	1,001.8
+Pueblo County, CO (08101)	1996	1,299	132,682	979.0
+Pueblo County, CO (08101)	1997	1,368	134,783	1,015.0
+Pueblo County, CO (08101)	1998	1,349	137,764	979.2
+Pueblo County, CO (08101)	Total	23,825	2,535,293	939.7
+Rio Blanco County, CO (08103)	1979	36	6,007	599.3
+Rio Blanco County, CO (08103)	1980	51	6,275	812.7
+Rio Blanco County, CO (08103)	1981	41	6,742	608.1
+Rio Blanco County, CO (08103)	1982	37	7,060	524.1
+Rio Blanco County, CO (08103)	1983	36	7,160	502.8
+Rio Blanco County, CO (08103)	1984	33	6,809	484.7
+Rio Blanco County, CO (08103)	1985	37	6,687	553.3
+Rio Blanco County, CO (08103)	1986	30	6,630	452.5
+Rio Blanco County, CO (08103)	1987	37	6,457	573.0
+Rio Blanco County, CO (08103)	1988	37	6,241	592.9
+Rio Blanco County, CO (08103)	1989	31	6,110	507.4
+Rio Blanco County, CO (08103)	1990	39	5,956	654.8
+Rio Blanco County, CO (08103)	1991	30	6,123	490.0
+Rio Blanco County, CO (08103)	1992	42	6,164	681.4
+Rio Blanco County, CO (08103)	1993	43	6,233	689.9
+Rio Blanco County, CO (08103)	1994	42	6,321	664.5
+Rio Blanco County, CO (08103)	1995	42	6,378	658.5
+Rio Blanco County, CO (08103)	1996	50	6,263	798.3
+Rio Blanco County, CO (08103)	1997	40	6,193	645.9
+Rio Blanco County, CO (08103)	1998	56	6,128	913.8
+Rio Blanco County, CO (08103)	Total	790	127,937	617.5
+Rio Grande County, CO (08105)	1979	124	10,579	1,172.1
+Rio Grande County, CO (08105)	1980	111	10,549	1,052.2
+Rio Grande County, CO (08105)	1981	93	10,864	856.0
+Rio Grande County, CO (08105)	1982	103	10,946	941.0
+Rio Grande County, CO (08105)	1983	112	11,111	1,008.0
+Rio Grande County, CO (08105)	1984	109	11,053	986.2
+Rio Grande County, CO (08105)	1985	114	11,161	1,021.4
+Rio Grande County, CO (08105)	1986	95	11,352	836.9
+Rio Grande County, CO (08105)	1987	114	11,402	999.8
+Rio Grande County, CO (08105)	1988	108	11,222	962.4
+Rio Grande County, CO (08105)	1989	98	10,908	898.4
+Rio Grande County, CO (08105)	1990	98	10,733	913.1
+Rio Grande County, CO (08105)	1991	123	10,808	1,138.0
+Rio Grande County, CO (08105)	1992	119	10,815	1,100.3
+Rio Grande County, CO (08105)	1993	100	10,947	913.5
+Rio Grande County, CO (08105)	1994	106	11,242	942.9
+Rio Grande County, CO (08105)	1995	112	11,581	967.1
+Rio Grande County, CO (08105)	1996	125	11,774	1,061.7
+Rio Grande County, CO (08105)	1997	108	11,942	904.4
+Rio Grande County, CO (08105)	1998	122	12,148	1,004.3
+Rio Grande County, CO (08105)	Total	2,194	223,137	983.3
+Routt County, CO (08107)	1979	54	13,000	415.4
+Routt County, CO (08107)	1980	52	13,449	386.6
+Routt County, CO (08107)	1981	50	13,648	366.4
+Routt County, CO (08107)	1982	66	14,061	469.4
+Routt County, CO (08107)	1983	67	14,194	472.0
+Routt County, CO (08107)	1984	63	14,082	447.4
+Routt County, CO (08107)	1985	62	13,833	448.2
+Routt County, CO (08107)	1986	56	13,472	415.7
+Routt County, CO (08107)	1987	60	13,469	445.5
+Routt County, CO (08107)	1988	47	13,368	351.6
+Routt County, CO (08107)	1989	55	13,645	403.1
+Routt County, CO (08107)	1990	50	14,063	355.5
+Routt County, CO (08107)	1991	54	14,757	365.9
+Routt County, CO (08107)	1992	67	15,272	438.7
+Routt County, CO (08107)	1993	57	15,957	357.2
+Routt County, CO (08107)	1994	67	16,622	403.1
+Routt County, CO (08107)	1995	54	17,240	313.2
+Routt County, CO (08107)	1996	75	17,793	421.5
+Routt County, CO (08107)	1997	60	18,259	328.6
+Routt County, CO (08107)	1998	65	18,613	349.2
+Routt County, CO (08107)	Total	1,181	298,797	395.3
+Saguache County, CO (08109)	1979	37	3,976	930.6
+Saguache County, CO (08109)	1980	38	3,963	958.9
+Saguache County, CO (08109)	1981	27	4,074	662.7
+Saguache County, CO (08109)	1982	25	4,144	603.3
+Saguache County, CO (08109)	1983	36	4,234	850.3
+Saguache County, CO (08109)	1984	28	4,186	668.9
+Saguache County, CO (08109)	1985	34	4,218	806.1
+Saguache County, CO (08109)	1986	41	4,333	946.2
+Saguache County, CO (08109)	1987	31	4,404	703.9
+Saguache County, CO (08109)	1988	27	4,457	605.8
+Saguache County, CO (08109)	1989	34	4,510	753.9
+Saguache County, CO (08109)	1990	31	4,625	670.3
+Saguache County, CO (08109)	1991	34	4,712	721.6
+Saguache County, CO (08109)	1992	32	4,705	680.1
+Saguache County, CO (08109)	1993	36	4,727	761.6
+Saguache County, CO (08109)	1994	33	4,905	672.8
+Saguache County, CO (08109)	1995	34	5,212	652.3
+Saguache County, CO (08109)	1996	30	5,427	552.8
+Saguache County, CO (08109)	1997	36	5,558	647.7
+Saguache County, CO (08109)	1998	46	5,638	815.9
+Saguache County, CO (08109)	Total	670	92,008	728.2
+San Juan County, CO (08111)	1979	4	854	468.4 (Unreliable)
+San Juan County, CO (08111)	1980	1	842	118.8 (Unreliable)
+San Juan County, CO (08111)	1981	5	887	563.7 (Unreliable)
+San Juan County, CO (08111)	1982	7	958	730.7 (Unreliable)
+San Juan County, CO (08111)	1983	6	963	623.1 (Unreliable)
+San Juan County, CO (08111)	1984	5	961	520.3 (Unreliable)
+San Juan County, CO (08111)	1985	5	880	568.2 (Unreliable)
+San Juan County, CO (08111)	1986	6	741	809.7 (Unreliable)
+San Juan County, CO (08111)	1987	4	910	439.6 (Unreliable)
+San Juan County, CO (08111)	1988	2	828	241.5 (Unreliable)
+San Juan County, CO (08111)	Total	84	15,001	560.0
+San Miguel County, CO (08113)	1979	16	2,910	549.8 (Unreliable)
+San Miguel County, CO (08113)	1980	6	3,195	187.8 (Unreliable)
+San Miguel County, CO (08113)	1981	12	3,200	375.0 (Unreliable)
+San Miguel County, CO (08113)	1982	13	3,027	429.5 (Unreliable)
+San Miguel County, CO (08113)	1983	8	3,043	262.9 (Unreliable)
+San Miguel County, CO (08113)	1984	16	3,013	531.0 (Unreliable)
+San Miguel County, CO (08113)	1985	5	2,970	168.4 (Unreliable)
+San Miguel County, CO (08113)	1986	12	3,214	373.4 (Unreliable)
+San Miguel County, CO (08113)	1987	8	3,327	240.5 (Unreliable)
+San Miguel County, CO (08113)	1988	14	3,367	415.8 (Unreliable)
+San Miguel County, CO (08113)	1990	11	3,663	300.3 (Unreliable)
+San Miguel County, CO (08113)	1991	11	4,103	268.1 (Unreliable)
+San Miguel County, CO (08113)	1992	14	4,422	316.6 (Unreliable)
+San Miguel County, CO (08113)	1993	15	4,847	309.5 (Unreliable)
+San Miguel County, CO (08113)	1995	13	5,428	239.5 (Unreliable)
+San Miguel County, CO (08113)	1996	12	5,776	207.8 (Unreliable)
+San Miguel County, CO (08113)	1997	13	5,985	217.2 (Unreliable)
+San Miguel County, CO (08113)	Total	224	80,310	278.9
+Sedgwick County, CO (08115)	1979	40	3,409	1,173.4
+Sedgwick County, CO (08115)	1980	32	3,264	980.4
+Sedgwick County, CO (08115)	1981	34	3,229	1,053.0
+Sedgwick County, CO (08115)	1982	36	3,226	1,115.9
+Sedgwick County, CO (08115)	1983	33	3,185	1,036.1
+Sedgwick County, CO (08115)	1984	41	3,139	1,306.1
+Sedgwick County, CO (08115)	1985	39	3,044	1,281.2
+Sedgwick County, CO (08115)	1986	27	2,959	912.5
+Sedgwick County, CO (08115)	1987	38	2,850	1,333.3
+Sedgwick County, CO (08115)	1988	31	2,801	1,106.7
+Sedgwick County, CO (08115)	1989	39	2,765	1,410.5
+Sedgwick County, CO (08115)	1990	22	2,694	816.6
+Sedgwick County, CO (08115)	1991	35	2,698	1,297.3
+Sedgwick County, CO (08115)	1992	36	2,668	1,349.3
+Sedgwick County, CO (08115)	1993	39	2,684	1,453.1
+Sedgwick County, CO (08115)	1994	47	2,699	1,741.4
+Sedgwick County, CO (08115)	1995	43	2,686	1,600.9
+Sedgwick County, CO (08115)	1996	44	2,748	1,601.2
+Sedgwick County, CO (08115)	1997	36	2,699	1,333.8
+Sedgwick County, CO (08115)	1998	39	2,672	1,459.6
+Sedgwick County, CO (08115)	Total	731	58,119	1,257.8
+Summit County, CO (08117)	1979	9	8,584	104.8 (Unreliable)
+Summit County, CO (08117)	1980	20	8,912	224.4
+Summit County, CO (08117)	1981	28	9,463	295.9
+Summit County, CO (08117)	1982	28	10,347	270.6
+Summit County, CO (08117)	1983	16	10,759	148.7 (Unreliable)
+Summit County, CO (08117)	1984	20	10,696	187.0
+Summit County, CO (08117)	1985	25	11,137	224.5
+Summit County, CO (08117)	1986	17	11,543	147.3 (Unreliable)
+Summit County, CO (08117)	1987	16	11,432	140.0 (Unreliable)
+Summit County, CO (08117)	1988	22	11,664	188.6
+Summit County, CO (08117)	1989	20	12,209	163.8
+Summit County, CO (08117)	1990	10	12,866	77.7 (Unreliable)
+Summit County, CO (08117)	1991	21	13,939	150.7
+Summit County, CO (08117)	1992	31	15,006	206.6
+Summit County, CO (08117)	1993	40	16,128	248.0
+Summit County, CO (08117)	1994	21	17,454	120.3
+Summit County, CO (08117)	1995	28	18,823	148.8
+Summit County, CO (08117)	1996	30	19,874	151.0
+Summit County, CO (08117)	1997	39	20,930	186.3
+Summit County, CO (08117)	1998	37	21,689	170.6
+Summit County, CO (08117)	Total	478	273,455	174.8
+Teller County, CO (08119)	1979	43	7,913	543.4
+Teller County, CO (08119)	1980	49	8,066	607.5
+Teller County, CO (08119)	1981	43	8,569	501.8
+Teller County, CO (08119)	1982	49	9,105	538.2
+Teller County, CO (08119)	1983	51	9,587	532.0
+Teller County, CO (08119)	1984	62	10,421	595.0
+Teller County, CO (08119)	1985	63	10,882	578.9
+Teller County, CO (08119)	1986	58	11,393	509.1
+Teller County, CO (08119)	1987	57	11,964	476.4
+Teller County, CO (08119)	1988	52	12,213	425.8
+Teller County, CO (08119)	1989	53	12,261	432.3
+Teller County, CO (08119)	1990	61	12,482	488.7
+Teller County, CO (08119)	1991	64	12,816	499.4
+Teller County, CO (08119)	1992	60	13,599	441.2
+Teller County, CO (08119)	1993	68	14,748	461.1
+Teller County, CO (08119)	1994	81	15,821	512.0
+Teller County, CO (08119)	1995	84	17,149	489.8
+Teller County, CO (08119)	1996	71	18,174	390.7
+Teller County, CO (08119)	1997	71	19,191	370.0
+Teller County, CO (08119)	1998	83	19,719	420.9
+Teller County, CO (08119)	Total	1,223	256,073	477.6
+Washington County, CO (08121)	1979	69	4,885	1,412.5
+Washington County, CO (08121)	1980	63	5,313	1,185.8
+Washington County, CO (08121)	1981	66	5,183	1,273.4
+Washington County, CO (08121)	1982	51	5,341	954.9
+Washington County, CO (08121)	1983	57	5,454	1,045.1
+Washington County, CO (08121)	1984	59	5,396	1,093.4
+Washington County, CO (08121)	1985	61	5,240	1,164.1
+Washington County, CO (08121)	1986	52	5,170	1,005.8
+Washington County, CO (08121)	1987	54	5,136	1,051.4
+Washington County, CO (08121)	1988	46	5,060	909.1
+Washington County, CO (08121)	1989	42	4,949	848.7
+Washington County, CO (08121)	1990	56	4,802	1,166.2
+Washington County, CO (08121)	1991	67	4,799	1,396.1
+Washington County, CO (08121)	1992	56	4,728	1,184.4
+Washington County, CO (08121)	1993	56	4,843	1,156.3
+Washington County, CO (08121)	1994	44	4,919	894.5
+Washington County, CO (08121)	1995	58	5,002	1,159.5
+Washington County, CO (08121)	1996	52	5,039	1,032.0
+Washington County, CO (08121)	1997	47	5,005	939.1
+Washington County, CO (08121)	1998	75	5,035	1,489.6
+Washington County, CO (08121)	Total	1,131	101,299	1,116.5
+Weld County, CO (08123)	1979	737	120,292	612.7
+Weld County, CO (08123)	1980	789	123,611	638.3
+Weld County, CO (08123)	1981	780	124,923	624.4
+Weld County, CO (08123)	1982	772	125,936	613.0
+Weld County, CO (08123)	1983	736	129,570	568.0
+Weld County, CO (08123)	1984	847	130,795	647.6
+Weld County, CO (08123)	1985	831	131,374	632.5
+Weld County, CO (08123)	1986	843	131,591	640.6
+Weld County, CO (08123)	1987	873	131,604	663.4
+Weld County, CO (08123)	1988	806	131,759	611.7
+Weld County, CO (08123)	1989	844	132,203	638.4
+Weld County, CO (08123)	1990	848	131,878	643.0
+Weld County, CO (08123)	1991	864	134,330	643.2
+Weld County, CO (08123)	1992	919	137,620	667.8
+Weld County, CO (08123)	1993	952	142,694	667.2
+Weld County, CO (08123)	1994	937	147,333	636.0
+Weld County, CO (08123)	1995	982	152,105	645.6
+Weld County, CO (08123)	1996	1,034	156,187	662.0
+Weld County, CO (08123)	1997	1,027	161,551	635.7
+Weld County, CO (08123)	1998	1,026	166,581	615.9
+Weld County, CO (08123)	Total	17,447	2,743,937	635.8
+Yuma County, CO (08125)	1979	102	9,638	1,058.3
+Yuma County, CO (08125)	1980	81	9,683	836.5
+Yuma County, CO (08125)	1981	121	9,625	1,257.1
+Yuma County, CO (08125)	1982	109	9,755	1,117.4
+Yuma County, CO (08125)	1983	100	9,914	1,008.7
+Yuma County, CO (08125)	1984	113	9,728	1,161.6
+Yuma County, CO (08125)	1985	96	9,707	989.0
+Yuma County, CO (08125)	1986	106	9,580	1,106.5
+Yuma County, CO (08125)	1987	100	9,323	1,072.6
+Yuma County, CO (08125)	1988	115	9,356	1,229.2
+Yuma County, CO (08125)	1989	99	9,147	1,082.3
+Yuma County, CO (08125)	1990	93	8,986	1,034.9
+Yuma County, CO (08125)	1991	101	9,003	1,121.8
+Yuma County, CO (08125)	1992	86	9,084	946.7
+Yuma County, CO (08125)	1993	91	9,138	995.8
+Yuma County, CO (08125)	1994	90	9,232	974.9
+Yuma County, CO (08125)	1995	108	9,417	1,146.9
+Yuma County, CO (08125)	1996	107	9,498	1,126.6
+Yuma County, CO (08125)	1997	108	9,672	1,116.6
+Yuma County, CO (08125)	1998	110	9,782	1,124.5
+Yuma County, CO (08125)	Total	2,036	189,268	1,075.7
+Total		438,626	67,770,593	647.2

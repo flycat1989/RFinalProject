@@ -1,0 +1,914 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Ada County, ID (16001)	1979	1,036	169,056	612.8
+Ada County, ID (16001)	1980	1,058	173,211	610.8
+Ada County, ID (16001)	1981	1,185	177,628	667.1
+Ada County, ID (16001)	1982	1,108	180,523	613.8
+Ada County, ID (16001)	1983	1,230	182,692	673.3
+Ada County, ID (16001)	1984	1,177	186,232	632.0
+Ada County, ID (16001)	1985	1,211	189,738	638.2
+Ada County, ID (16001)	1986	1,252	190,895	655.9
+Ada County, ID (16001)	1987	1,282	192,836	664.8
+Ada County, ID (16001)	1988	1,314	195,469	672.2
+Ada County, ID (16001)	1989	1,305	200,965	649.4
+Ada County, ID (16001)	1990	1,368	205,876	664.5
+Ada County, ID (16001)	1991	1,346	216,820	620.8
+Ada County, ID (16001)	1992	1,423	225,282	631.7
+Ada County, ID (16001)	1993	1,485	236,396	628.2
+Ada County, ID (16001)	1994	1,476	247,070	597.4
+Ada County, ID (16001)	1995	1,569	256,900	610.7
+Ada County, ID (16001)	1996	1,598	266,273	600.1
+Ada County, ID (16001)	1997	1,624	274,156	592.4
+Ada County, ID (16001)	1998	1,659	284,964	582.2
+Ada County, ID (16001)	Total	26,706	4,252,982	627.9
+Adams County, ID (16003)	1979	31	3,386	915.5
+Adams County, ID (16003)	1980	23	3,347	687.2
+Adams County, ID (16003)	1981	25	3,269	764.8
+Adams County, ID (16003)	1982	29	3,244	894.0
+Adams County, ID (16003)	1983	27	3,318	813.7
+Adams County, ID (16003)	1984	32	3,415	937.0
+Adams County, ID (16003)	1985	23	3,360	684.5
+Adams County, ID (16003)	1986	18	3,385	531.8 (Unreliable)
+Adams County, ID (16003)	1987	27	3,198	844.3
+Adams County, ID (16003)	1988	34	3,312	1,026.6
+Adams County, ID (16003)	1989	25	3,213	778.1
+Adams County, ID (16003)	1990	26	3,255	798.8
+Adams County, ID (16003)	1991	34	3,313	1,026.3
+Adams County, ID (16003)	1992	23	3,450	666.7
+Adams County, ID (16003)	1993	34	3,586	948.1
+Adams County, ID (16003)	1994	28	3,695	757.8
+Adams County, ID (16003)	1995	24	3,666	654.7
+Adams County, ID (16003)	1996	30	3,681	815.0
+Adams County, ID (16003)	1997	45	3,563	1,263.0
+Adams County, ID (16003)	1998	28	3,530	793.2
+Adams County, ID (16003)	Total	566	68,186	830.1
+Bannock County, ID (16005)	1979	412	65,081	633.1
+Bannock County, ID (16005)	1980	383	65,624	583.6
+Bannock County, ID (16005)	1981	413	66,554	620.5
+Bannock County, ID (16005)	1982	439	67,079	654.5
+Bannock County, ID (16005)	1983	388	67,293	576.6
+Bannock County, ID (16005)	1984	441	67,072	657.5
+Bannock County, ID (16005)	1985	439	67,066	654.6
+Bannock County, ID (16005)	1986	463	66,971	691.3
+Bannock County, ID (16005)	1987	429	66,089	649.1
+Bannock County, ID (16005)	1988	439	65,574	669.5
+Bannock County, ID (16005)	1989	407	65,838	618.2
+Bannock County, ID (16005)	1990	412	66,032	623.9
+Bannock County, ID (16005)	1991	407	67,332	604.5
+Bannock County, ID (16005)	1992	480	69,208	693.6
+Bannock County, ID (16005)	1993	449	70,805	634.1
+Bannock County, ID (16005)	1994	437	72,546	602.4
+Bannock County, ID (16005)	1995	477	73,654	647.6
+Bannock County, ID (16005)	1996	558	74,147	752.6
+Bannock County, ID (16005)	1997	549	74,692	735.0
+Bannock County, ID (16005)	1998	554	74,903	739.6
+Bannock County, ID (16005)	Total	8,976	1,373,560	653.5
+Bear Lake County, ID (16007)	1979	62	6,885	900.5
+Bear Lake County, ID (16007)	1980	69	6,931	995.5
+Bear Lake County, ID (16007)	1981	48	7,155	670.9
+Bear Lake County, ID (16007)	1982	60	7,375	813.6
+Bear Lake County, ID (16007)	1983	78	7,303	1,068.1
+Bear Lake County, ID (16007)	1984	51	7,071	721.3
+Bear Lake County, ID (16007)	1985	78	6,877	1,134.2
+Bear Lake County, ID (16007)	1986	57	6,601	863.5
+Bear Lake County, ID (16007)	1987	55	6,314	871.1
+Bear Lake County, ID (16007)	1988	68	6,065	1,121.2
+Bear Lake County, ID (16007)	1989	69	6,080	1,134.9
+Bear Lake County, ID (16007)	1990	52	6,076	855.8
+Bear Lake County, ID (16007)	1991	59	6,099	967.4
+Bear Lake County, ID (16007)	1992	44	6,223	707.1
+Bear Lake County, ID (16007)	1993	49	6,295	778.4
+Bear Lake County, ID (16007)	1994	55	6,309	871.8
+Bear Lake County, ID (16007)	1995	65	6,467	1,005.1
+Bear Lake County, ID (16007)	1996	66	6,377	1,035.0
+Bear Lake County, ID (16007)	1997	68	6,376	1,066.5
+Bear Lake County, ID (16007)	1998	70	6,351	1,102.2
+Bear Lake County, ID (16007)	Total	1,223	131,230	932.0
+Benewah County, ID (16009)	1979	56	7,872	711.4
+Benewah County, ID (16009)	1980	68	8,320	817.3
+Benewah County, ID (16009)	1981	60	8,407	713.7
+Benewah County, ID (16009)	1982	69	8,389	822.5
+Benewah County, ID (16009)	1983	76	8,451	899.3
+Benewah County, ID (16009)	1984	85	8,579	990.8
+Benewah County, ID (16009)	1985	77	8,541	901.5
+Benewah County, ID (16009)	1986	72	8,552	841.9
+Benewah County, ID (16009)	1987	69	8,312	830.1
+Benewah County, ID (16009)	1988	80	8,020	997.5
+Benewah County, ID (16009)	1989	85	7,991	1,063.7
+Benewah County, ID (16009)	1990	66	7,948	830.4
+Benewah County, ID (16009)	1991	87	8,023	1,084.4
+Benewah County, ID (16009)	1992	76	8,096	938.7
+Benewah County, ID (16009)	1993	94	8,284	1,134.7
+Benewah County, ID (16009)	1994	80	8,574	933.1
+Benewah County, ID (16009)	1995	97	8,805	1,101.6
+Benewah County, ID (16009)	1996	76	8,940	850.1
+Benewah County, ID (16009)	1997	97	9,002	1,077.5
+Benewah County, ID (16009)	1998	83	9,115	910.6
+Benewah County, ID (16009)	Total	1,553	168,221	923.2
+Bingham County, ID (16011)	1979	225	36,462	617.1
+Bingham County, ID (16011)	1980	218	36,528	596.8
+Bingham County, ID (16011)	1981	229	37,151	616.4
+Bingham County, ID (16011)	1982	223	37,475	595.1
+Bingham County, ID (16011)	1983	277	37,700	734.7
+Bingham County, ID (16011)	1984	220	38,302	574.4
+Bingham County, ID (16011)	1985	222	38,198	581.2
+Bingham County, ID (16011)	1986	245	37,865	647.0
+Bingham County, ID (16011)	1987	238	38,111	624.5
+Bingham County, ID (16011)	1988	245	37,756	648.9
+Bingham County, ID (16011)	1989	266	37,540	708.6
+Bingham County, ID (16011)	1990	249	37,523	663.6
+Bingham County, ID (16011)	1991	267	38,378	695.7
+Bingham County, ID (16011)	1992	235	39,561	594.0
+Bingham County, ID (16011)	1993	262	40,197	651.8
+Bingham County, ID (16011)	1994	277	40,623	681.9
+Bingham County, ID (16011)	1995	278	40,678	683.4
+Bingham County, ID (16011)	1996	268	40,856	656.0
+Bingham County, ID (16011)	1997	296	41,082	720.5
+Bingham County, ID (16011)	1998	282	41,403	681.1
+Bingham County, ID (16011)	Total	5,022	773,389	649.3
+Blaine County, ID (16013)	1979	50	9,953	502.4
+Blaine County, ID (16013)	1980	42	9,862	425.9
+Blaine County, ID (16013)	1981	50	10,347	483.2
+Blaine County, ID (16013)	1982	64	11,290	566.9
+Blaine County, ID (16013)	1983	39	11,584	336.7
+Blaine County, ID (16013)	1984	38	11,989	317.0
+Blaine County, ID (16013)	1985	57	12,179	468.0
+Blaine County, ID (16013)	1986	58	12,168	476.7
+Blaine County, ID (16013)	1987	72	12,710	566.5
+Blaine County, ID (16013)	1988	58	12,665	458.0
+Blaine County, ID (16013)	1989	57	12,893	442.1
+Blaine County, ID (16013)	1990	63	13,541	465.3
+Blaine County, ID (16013)	1991	59	14,484	407.3
+Blaine County, ID (16013)	1992	65	15,078	431.1
+Blaine County, ID (16013)	1993	58	15,675	370.0
+Blaine County, ID (16013)	1994	59	16,504	357.5
+Blaine County, ID (16013)	1995	76	17,091	444.7
+Blaine County, ID (16013)	1996	52	17,681	294.1
+Blaine County, ID (16013)	1997	65	18,089	359.3
+Blaine County, ID (16013)	1998	85	18,252	465.7
+Blaine County, ID (16013)	Total	1,167	274,035	425.9
+Boise County, ID (16015)	1979	20	2,874	695.9
+Boise County, ID (16015)	1980	20	2,998	667.1
+Boise County, ID (16015)	1981	16	3,094	517.1 (Unreliable)
+Boise County, ID (16015)	1982	16	3,050	524.6 (Unreliable)
+Boise County, ID (16015)	1983	19	2,967	640.4 (Unreliable)
+Boise County, ID (16015)	1984	21	3,168	662.9
+Boise County, ID (16015)	1985	19	3,278	579.6 (Unreliable)
+Boise County, ID (16015)	1986	28	3,257	859.7
+Boise County, ID (16015)	1987	22	3,344	657.9
+Boise County, ID (16015)	1988	35	3,299	1,060.9
+Boise County, ID (16015)	1989	19	3,304	575.1 (Unreliable)
+Boise County, ID (16015)	1990	20	3,518	568.5
+Boise County, ID (16015)	1991	25	3,812	655.8
+Boise County, ID (16015)	1992	24	4,151	578.2
+Boise County, ID (16015)	1993	26	4,550	571.4
+Boise County, ID (16015)	1994	34	4,846	701.6
+Boise County, ID (16015)	1995	23	5,194	442.8
+Boise County, ID (16015)	1996	37	5,563	665.1
+Boise County, ID (16015)	1997	33	5,823	566.7
+Boise County, ID (16015)	1998	33	5,999	550.1
+Boise County, ID (16015)	Total	490	78,089	627.5
+Bonner County, ID (16017)	1979	176	23,456	750.3
+Bonner County, ID (16017)	1980	203	24,223	838.0
+Bonner County, ID (16017)	1981	205	24,816	826.1
+Bonner County, ID (16017)	1982	206	25,141	819.4
+Bonner County, ID (16017)	1983	197	25,654	767.9
+Bonner County, ID (16017)	1984	212	25,965	816.5
+Bonner County, ID (16017)	1985	201	26,423	760.7
+Bonner County, ID (16017)	1986	223	26,267	849.0
+Bonner County, ID (16017)	1987	223	25,680	868.4
+Bonner County, ID (16017)	1988	248	25,442	974.8
+Bonner County, ID (16017)	1989	230	26,096	881.4
+Bonner County, ID (16017)	1990	257	26,621	965.4
+Bonner County, ID (16017)	1991	235	27,939	841.1
+Bonner County, ID (16017)	1992	230	28,958	794.3
+Bonner County, ID (16017)	1993	281	30,295	927.5
+Bonner County, ID (16017)	1994	278	31,949	870.1
+Bonner County, ID (16017)	1995	264	33,197	795.3
+Bonner County, ID (16017)	1996	282	34,197	824.6
+Bonner County, ID (16017)	1997	272	34,956	778.1
+Bonner County, ID (16017)	1998	291	35,620	817.0
+Bonner County, ID (16017)	Total	4,714	562,895	837.5
+Bonneville County, ID (16019)	1979	332	65,868	504.0
+Bonneville County, ID (16019)	1980	391	66,077	591.7
+Bonneville County, ID (16019)	1981	414	67,042	617.5
+Bonneville County, ID (16019)	1982	386	66,943	576.6
+Bonneville County, ID (16019)	1983	384	67,295	570.6
+Bonneville County, ID (16019)	1984	427	68,033	627.6
+Bonneville County, ID (16019)	1985	392	68,562	571.7
+Bonneville County, ID (16019)	1986	414	69,301	597.4
+Bonneville County, ID (16019)	1987	432	70,464	613.1
+Bonneville County, ID (16019)	1988	435	70,778	614.6
+Bonneville County, ID (16019)	1989	401	71,253	562.8
+Bonneville County, ID (16019)	1990	436	72,156	604.2
+Bonneville County, ID (16019)	1991	407	75,056	542.3
+Bonneville County, ID (16019)	1992	427	77,106	553.8
+Bonneville County, ID (16019)	1993	457	78,287	583.7
+Bonneville County, ID (16019)	1994	478	79,196	603.6
+Bonneville County, ID (16019)	1995	486	79,481	611.5
+Bonneville County, ID (16019)	1996	500	79,473	629.1
+Bonneville County, ID (16019)	1997	507	80,149	632.6
+Bonneville County, ID (16019)	1998	557	80,792	689.4
+Bonneville County, ID (16019)	Total	8,663	1,453,312	596.1
+Boundary County, ID (16021)	1979	54	7,132	757.2
+Boundary County, ID (16021)	1980	53	7,285	727.5
+Boundary County, ID (16021)	1981	67	7,388	906.9
+Boundary County, ID (16021)	1982	47	7,462	629.9
+Boundary County, ID (16021)	1983	48	7,555	635.3
+Boundary County, ID (16021)	1984	65	8,023	810.2
+Boundary County, ID (16021)	1985	63	7,920	795.5
+Boundary County, ID (16021)	1986	58	7,835	740.3
+Boundary County, ID (16021)	1987	62	7,922	782.6
+Boundary County, ID (16021)	1988	73	8,021	910.1
+Boundary County, ID (16021)	1989	65	8,228	790.0
+Boundary County, ID (16021)	1990	67	8,305	806.7
+Boundary County, ID (16021)	1991	62	8,358	741.8
+Boundary County, ID (16021)	1992	77	8,578	897.6
+Boundary County, ID (16021)	1993	66	8,911	740.7
+Boundary County, ID (16021)	1994	80	9,130	876.2
+Boundary County, ID (16021)	1995	54	9,451	571.4
+Boundary County, ID (16021)	1996	79	9,576	825.0
+Boundary County, ID (16021)	1997	80	9,614	832.1
+Boundary County, ID (16021)	1998	85	9,565	888.7
+Boundary County, ID (16021)	Total	1,305	166,259	784.9
+Butte County, ID (16023)	1979	20	3,323	601.9
+Butte County, ID (16023)	1980	25	3,350	746.3
+Butte County, ID (16023)	1981	23	3,468	663.2
+Butte County, ID (16023)	1982	32	3,480	919.5
+Butte County, ID (16023)	1983	27	3,412	791.3
+Butte County, ID (16023)	1984	18	3,422	526.0 (Unreliable)
+Butte County, ID (16023)	1985	31	3,261	950.6
+Butte County, ID (16023)	1986	21	3,161	664.3
+Butte County, ID (16023)	1987	19	3,098	613.3 (Unreliable)
+Butte County, ID (16023)	1988	40	2,973	1,345.4
+Butte County, ID (16023)	1989	30	2,945	1,018.7
+Butte County, ID (16023)	1990	25	2,911	858.8
+Butte County, ID (16023)	1991	28	2,839	986.3
+Butte County, ID (16023)	1992	26	2,927	888.3
+Butte County, ID (16023)	1993	30	2,971	1,009.8
+Butte County, ID (16023)	1994	31	3,064	1,011.7
+Butte County, ID (16023)	1995	38	3,025	1,256.2
+Butte County, ID (16023)	1996	26	3,022	860.4
+Butte County, ID (16023)	1997	31	3,006	1,031.3
+Butte County, ID (16023)	1998	36	2,939	1,224.9
+Butte County, ID (16023)	Total	557	62,597	889.8
+Camas County, ID (16025)	1979	5	723	691.6 (Unreliable)
+Camas County, ID (16025)	1980	6	821	730.8 (Unreliable)
+Camas County, ID (16025)	1981	2	824	242.7 (Unreliable)
+Camas County, ID (16025)	1982	7	813	861.0 (Unreliable)
+Camas County, ID (16025)	1983	7	854	819.7 (Unreliable)
+Camas County, ID (16025)	1984	7	801	873.9 (Unreliable)
+Camas County, ID (16025)	1985	8	794	1,007.6 (Unreliable)
+Camas County, ID (16025)	1986	6	819	732.6 (Unreliable)
+Camas County, ID (16025)	1987	2	751	266.3 (Unreliable)
+Camas County, ID (16025)	1988	11	729	1,508.9 (Unreliable)
+Camas County, ID (16025)	Total	121	16,204	746.7
+Canyon County, ID (16027)	1979	569	84,320	674.8
+Canyon County, ID (16027)	1980	655	83,777	781.8
+Canyon County, ID (16027)	1981	679	84,572	802.9
+Canyon County, ID (16027)	1982	672	85,514	785.8
+Canyon County, ID (16027)	1983	714	86,163	828.7
+Canyon County, ID (16027)	1984	769	86,882	885.1
+Canyon County, ID (16027)	1985	696	87,671	793.9
+Canyon County, ID (16027)	1986	760	88,417	859.6
+Canyon County, ID (16027)	1987	708	87,494	809.2
+Canyon County, ID (16027)	1988	757	87,643	863.7
+Canyon County, ID (16027)	1989	783	88,806	881.7
+Canyon County, ID (16027)	1990	747	90,157	828.6
+Canyon County, ID (16027)	1991	751	94,066	798.4
+Canyon County, ID (16027)	1992	813	97,051	837.7
+Canyon County, ID (16027)	1993	865	101,054	856.0
+Canyon County, ID (16027)	1994	847	105,458	803.2
+Canyon County, ID (16027)	1995	846	110,046	768.8
+Canyon County, ID (16027)	1996	879	113,743	772.8
+Canyon County, ID (16027)	1997	893	118,067	756.4
+Canyon County, ID (16027)	1998	946	122,432	772.7
+Canyon County, ID (16027)	Total	15,349	1,903,333	806.4
+Caribou County, ID (16029)	1979	47	8,618	545.4
+Caribou County, ID (16029)	1980	51	8,705	585.9
+Caribou County, ID (16029)	1981	40	8,795	454.8
+Caribou County, ID (16029)	1982	47	8,833	532.1
+Caribou County, ID (16029)	1983	50	8,673	576.5
+Caribou County, ID (16029)	1984	46	8,543	538.5
+Caribou County, ID (16029)	1985	52	8,270	628.8
+Caribou County, ID (16029)	1986	54	7,860	687.0
+Caribou County, ID (16029)	1987	53	7,182	738.0
+Caribou County, ID (16029)	1988	55	7,049	780.3
+Caribou County, ID (16029)	1989	41	7,036	582.7
+Caribou County, ID (16029)	1990	31	6,970	444.8
+Caribou County, ID (16029)	1991	51	7,067	721.7
+Caribou County, ID (16029)	1992	53	7,119	744.5
+Caribou County, ID (16029)	1993	60	7,258	826.7
+Caribou County, ID (16029)	1994	51	7,216	706.8
+Caribou County, ID (16029)	1995	62	7,281	851.5
+Caribou County, ID (16029)	1996	55	7,353	748.0
+Caribou County, ID (16029)	1997	58	7,254	799.6
+Caribou County, ID (16029)	1998	62	7,372	841.0
+Caribou County, ID (16029)	Total	1,019	154,454	659.7
+Cassia County, ID (16031)	1979	142	19,513	727.7
+Cassia County, ID (16031)	1980	136	19,444	699.4
+Cassia County, ID (16031)	1981	107	19,812	540.1
+Cassia County, ID (16031)	1982	139	20,066	692.7
+Cassia County, ID (16031)	1983	137	20,318	674.3
+Cassia County, ID (16031)	1984	148	20,416	724.9
+Cassia County, ID (16031)	1985	134	20,278	660.8
+Cassia County, ID (16031)	1986	132	20,075	657.5
+Cassia County, ID (16031)	1987	145	19,837	731.0
+Cassia County, ID (16031)	1988	171	19,651	870.2
+Cassia County, ID (16031)	1989	157	19,439	807.7
+Cassia County, ID (16031)	1990	152	19,497	779.6
+Cassia County, ID (16031)	1991	147	19,771	743.5
+Cassia County, ID (16031)	1992	146	20,162	724.1
+Cassia County, ID (16031)	1993	159	20,418	778.7
+Cassia County, ID (16031)	1994	138	20,699	666.7
+Cassia County, ID (16031)	1995	150	20,971	715.3
+Cassia County, ID (16031)	1996	153	21,186	722.2
+Cassia County, ID (16031)	1997	154	21,288	723.4
+Cassia County, ID (16031)	1998	174	21,148	822.8
+Cassia County, ID (16031)	Total	2,921	403,989	723.0
+Clark County, ID (16033)	1979	7	786	890.6 (Unreliable)
+Clark County, ID (16033)	1980	4	805	496.9 (Unreliable)
+Clark County, ID (16033)	1981	10	808	1,237.6 (Unreliable)
+Clark County, ID (16033)	1982	6	827	725.5 (Unreliable)
+Clark County, ID (16033)	1983	5	845	591.7 (Unreliable)
+Clark County, ID (16033)	1984	7	836	837.3 (Unreliable)
+Clark County, ID (16033)	1985	2	803	249.1 (Unreliable)
+Clark County, ID (16033)	1986	7	831	842.4 (Unreliable)
+Clark County, ID (16033)	1987	12	809	1,483.3 (Unreliable)
+Clark County, ID (16033)	1988	10	798	1,253.1 (Unreliable)
+Clark County, ID (16033)	Total	129	16,566	778.7
+Clearwater County, ID (16035)	1979	69	10,198	676.6
+Clearwater County, ID (16035)	1980	72	10,396	692.6
+Clearwater County, ID (16035)	1981	77	10,373	742.3
+Clearwater County, ID (16035)	1982	72	10,333	696.8
+Clearwater County, ID (16035)	1983	85	10,096	841.9
+Clearwater County, ID (16035)	1984	81	9,999	810.1
+Clearwater County, ID (16035)	1985	72	9,667	744.8
+Clearwater County, ID (16035)	1986	79	9,247	854.3
+Clearwater County, ID (16035)	1987	81	9,042	895.8
+Clearwater County, ID (16035)	1988	75	8,726	859.5
+Clearwater County, ID (16035)	1989	76	8,586	885.2
+Clearwater County, ID (16035)	1990	63	8,506	740.7
+Clearwater County, ID (16035)	1991	89	8,521	1,044.5
+Clearwater County, ID (16035)	1992	74	8,613	859.2
+Clearwater County, ID (16035)	1993	87	8,641	1,006.8
+Clearwater County, ID (16035)	1994	89	8,895	1,000.6
+Clearwater County, ID (16035)	1995	85	8,989	945.6
+Clearwater County, ID (16035)	1996	75	9,183	816.7
+Clearwater County, ID (16035)	1997	88	9,111	965.9
+Clearwater County, ID (16035)	1998	79	9,061	871.9
+Clearwater County, ID (16035)	Total	1,568	186,183	842.2
+Custer County, ID (16037)	1979	27	3,215	839.8
+Custer County, ID (16037)	1980	27	3,386	797.4
+Custer County, ID (16037)	1981	34	3,770	901.9
+Custer County, ID (16037)	1982	31	5,047	614.2
+Custer County, ID (16037)	1983	34	5,518	616.2
+Custer County, ID (16037)	1984	39	5,178	753.2
+Custer County, ID (16037)	1985	36	5,105	705.2
+Custer County, ID (16037)	1986	32	4,760	672.3
+Custer County, ID (16037)	1987	27	4,553	593.0
+Custer County, ID (16037)	1988	26	4,172	623.2
+Custer County, ID (16037)	1989	33	4,055	813.8
+Custer County, ID (16037)	1990	24	4,117	582.9
+Custer County, ID (16037)	1991	39	4,235	920.9
+Custer County, ID (16037)	1992	27	4,091	660.0
+Custer County, ID (16037)	1993	37	3,922	943.4
+Custer County, ID (16037)	1994	40	4,081	980.2
+Custer County, ID (16037)	1995	38	4,410	861.7
+Custer County, ID (16037)	1996	26	4,561	570.1
+Custer County, ID (16037)	1997	42	4,472	939.2
+Custer County, ID (16037)	1998	36	4,328	831.8
+Custer County, ID (16037)	Total	655	86,976	753.1
+Elmore County, ID (16039)	1979	106	22,398	473.3
+Elmore County, ID (16039)	1980	95	21,677	438.3
+Elmore County, ID (16039)	1981	99	22,214	445.7
+Elmore County, ID (16039)	1982	122	21,970	555.3
+Elmore County, ID (16039)	1983	98	22,440	436.7
+Elmore County, ID (16039)	1984	100	22,132	451.8
+Elmore County, ID (16039)	1985	100	21,866	457.3
+Elmore County, ID (16039)	1986	121	21,615	559.8
+Elmore County, ID (16039)	1987	103	21,441	480.4
+Elmore County, ID (16039)	1988	115	21,256	541.0
+Elmore County, ID (16039)	1989	120	21,314	563.0
+Elmore County, ID (16039)	1990	110	21,196	519.0
+Elmore County, ID (16039)	1991	135	21,007	642.6
+Elmore County, ID (16039)	1992	106	21,162	500.9
+Elmore County, ID (16039)	1993	142	23,205	611.9
+Elmore County, ID (16039)	1994	145	23,936	605.8
+Elmore County, ID (16039)	1995	127	25,028	507.4
+Elmore County, ID (16039)	1996	137	25,649	534.1
+Elmore County, ID (16039)	1997	153	27,212	562.3
+Elmore County, ID (16039)	1998	130	28,258	460.0
+Elmore County, ID (16039)	Total	2,364	456,976	517.3
+Franklin County, ID (16041)	1979	74	8,937	828.0
+Franklin County, ID (16041)	1980	88	8,890	989.9
+Franklin County, ID (16041)	1981	87	9,200	945.7
+Franklin County, ID (16041)	1982	80	9,476	844.2
+Franklin County, ID (16041)	1983	73	9,712	751.6
+Franklin County, ID (16041)	1984	82	9,646	850.1
+Franklin County, ID (16041)	1985	70	9,533	734.3
+Franklin County, ID (16041)	1986	63	9,295	677.8
+Franklin County, ID (16041)	1987	56	9,239	606.1
+Franklin County, ID (16041)	1988	73	9,216	792.1
+Franklin County, ID (16041)	1989	62	9,212	673.0
+Franklin County, ID (16041)	1990	75	9,226	812.9
+Franklin County, ID (16041)	1991	85	9,457	898.8
+Franklin County, ID (16041)	1992	63	9,516	662.0
+Franklin County, ID (16041)	1993	88	9,796	898.3
+Franklin County, ID (16041)	1994	92	10,063	914.2
+Franklin County, ID (16041)	1995	77	10,199	755.0
+Franklin County, ID (16041)	1996	94	10,499	895.3
+Franklin County, ID (16041)	1997	109	10,791	1,010.1
+Franklin County, ID (16041)	1998	88	11,046	796.7
+Franklin County, ID (16041)	Total	1,579	192,949	818.4
+Fremont County, ID (16043)	1979	69	11,089	622.2
+Fremont County, ID (16043)	1980	61	10,809	564.3
+Fremont County, ID (16043)	1981	72	11,051	651.5
+Fremont County, ID (16043)	1982	75	11,050	678.7
+Fremont County, ID (16043)	1983	72	11,143	646.1
+Fremont County, ID (16043)	1984	95	11,012	862.7
+Fremont County, ID (16043)	1985	89	10,812	823.2
+Fremont County, ID (16043)	1986	95	10,913	870.5
+Fremont County, ID (16043)	1987	76	10,732	708.2
+Fremont County, ID (16043)	1988	78	10,857	718.4
+Fremont County, ID (16043)	1989	75	10,909	687.5
+Fremont County, ID (16043)	1990	56	10,927	512.5
+Fremont County, ID (16043)	1991	80	11,159	716.9
+Fremont County, ID (16043)	1992	74	11,237	658.5
+Fremont County, ID (16043)	1993	89	11,592	767.8
+Fremont County, ID (16043)	1994	76	11,558	657.6
+Fremont County, ID (16043)	1995	79	11,554	683.7
+Fremont County, ID (16043)	1996	73	11,497	634.9
+Fremont County, ID (16043)	1997	73	11,728	622.4
+Fremont County, ID (16043)	1998	78	11,875	656.8
+Fremont County, ID (16043)	Total	1,535	223,504	686.8
+Gem County, ID (16045)	1979	115	11,781	976.1
+Gem County, ID (16045)	1980	116	11,988	967.6
+Gem County, ID (16045)	1981	119	11,936	997.0
+Gem County, ID (16045)	1982	97	11,780	823.4
+Gem County, ID (16045)	1983	121	11,664	1,037.4
+Gem County, ID (16045)	1984	120	11,900	1,008.4
+Gem County, ID (16045)	1985	109	11,762	926.7
+Gem County, ID (16045)	1986	133	11,596	1,146.9
+Gem County, ID (16045)	1987	133	11,412	1,165.4
+Gem County, ID (16045)	1988	134	11,527	1,162.5
+Gem County, ID (16045)	1989	136	11,522	1,180.4
+Gem County, ID (16045)	1990	121	11,835	1,022.4
+Gem County, ID (16045)	1991	133	12,259	1,084.9
+Gem County, ID (16045)	1992	138	12,600	1,095.2
+Gem County, ID (16045)	1993	133	13,108	1,014.6
+Gem County, ID (16045)	1994	152	13,453	1,129.9
+Gem County, ID (16045)	1995	142	13,763	1,031.8
+Gem County, ID (16045)	1996	148	14,061	1,052.6
+Gem County, ID (16045)	1997	134	14,397	930.7
+Gem County, ID (16045)	1998	161	14,799	1,087.9
+Gem County, ID (16045)	Total	2,595	249,143	1,041.6
+Gooding County, ID (16047)	1979	85	11,740	724.0
+Gooding County, ID (16047)	1980	108	11,888	908.5
+Gooding County, ID (16047)	1981	131	12,167	1,076.7
+Gooding County, ID (16047)	1982	130	12,410	1,047.5
+Gooding County, ID (16047)	1983	115	12,593	913.2
+Gooding County, ID (16047)	1984	105	12,507	839.5
+Gooding County, ID (16047)	1985	111	12,220	908.3
+Gooding County, ID (16047)	1986	126	12,095	1,041.8
+Gooding County, ID (16047)	1987	111	11,807	940.1
+Gooding County, ID (16047)	1988	112	11,621	963.8
+Gooding County, ID (16047)	1989	107	11,579	924.1
+Gooding County, ID (16047)	1990	129	11,630	1,109.2
+Gooding County, ID (16047)	1991	119	11,893	1,000.6
+Gooding County, ID (16047)	1992	121	12,157	995.3
+Gooding County, ID (16047)	1993	135	12,489	1,081.0
+Gooding County, ID (16047)	1994	154	12,727	1,210.0
+Gooding County, ID (16047)	1995	132	12,984	1,016.6
+Gooding County, ID (16047)	1996	140	13,400	1,044.8
+Gooding County, ID (16047)	1997	114	13,765	828.2
+Gooding County, ID (16047)	1998	132	13,880	951.0
+Gooding County, ID (16047)	Total	2,417	247,552	976.4
+Idaho County, ID (16049)	1979	136	14,263	953.5
+Idaho County, ID (16049)	1980	114	14,773	771.7
+Idaho County, ID (16049)	1981	113	14,907	758.0
+Idaho County, ID (16049)	1982	134	14,841	902.9
+Idaho County, ID (16049)	1983	155	14,564	1,064.3
+Idaho County, ID (16049)	1984	118	14,599	808.3
+Idaho County, ID (16049)	1985	125	14,383	869.1
+Idaho County, ID (16049)	1986	123	14,071	874.1
+Idaho County, ID (16049)	1987	152	13,806	1,101.0
+Idaho County, ID (16049)	1988	126	13,626	924.7
+Idaho County, ID (16049)	1989	138	13,571	1,016.9
+Idaho County, ID (16049)	1990	134	13,790	971.7
+Idaho County, ID (16049)	1991	134	13,968	959.3
+Idaho County, ID (16049)	1992	122	14,294	853.5
+Idaho County, ID (16049)	1993	148	14,490	1,021.4
+Idaho County, ID (16049)	1994	126	14,827	849.8
+Idaho County, ID (16049)	1995	150	15,106	993.0
+Idaho County, ID (16049)	1996	142	15,185	935.1
+Idaho County, ID (16049)	1997	165	15,413	1,070.5
+Idaho County, ID (16049)	1998	149	15,400	967.5
+Idaho County, ID (16049)	Total	2,704	289,877	932.8
+Jefferson County, ID (16051)	1979	78	15,280	510.5
+Jefferson County, ID (16051)	1980	100	15,349	651.5
+Jefferson County, ID (16051)	1981	84	15,665	536.2
+Jefferson County, ID (16051)	1982	110	15,564	706.8
+Jefferson County, ID (16051)	1983	109	16,096	677.2
+Jefferson County, ID (16051)	1984	107	16,138	663.0
+Jefferson County, ID (16051)	1985	102	16,221	628.8
+Jefferson County, ID (16051)	1986	107	16,175	661.5
+Jefferson County, ID (16051)	1987	83	16,294	509.4
+Jefferson County, ID (16051)	1988	109	16,550	658.6
+Jefferson County, ID (16051)	1989	88	16,388	537.0
+Jefferson County, ID (16051)	1990	98	16,604	590.2
+Jefferson County, ID (16051)	1991	84	16,912	496.7
+Jefferson County, ID (16051)	1992	89	17,340	513.3
+Jefferson County, ID (16051)	1993	125	17,734	704.9
+Jefferson County, ID (16051)	1994	119	18,151	655.6
+Jefferson County, ID (16051)	1995	122	18,269	667.8
+Jefferson County, ID (16051)	1996	118	18,339	643.4
+Jefferson County, ID (16051)	1997	103	18,425	559.0
+Jefferson County, ID (16051)	1998	114	18,723	608.9
+Jefferson County, ID (16051)	Total	2,049	336,217	609.4
+Jerome County, ID (16053)	1979	120	14,912	804.7
+Jerome County, ID (16053)	1980	105	14,836	707.7
+Jerome County, ID (16053)	1981	105	15,219	689.9
+Jerome County, ID (16053)	1982	104	15,663	664.0
+Jerome County, ID (16053)	1983	111	16,116	688.8
+Jerome County, ID (16053)	1984	117	15,876	737.0
+Jerome County, ID (16053)	1985	120	15,737	762.5
+Jerome County, ID (16053)	1986	130	15,620	832.3
+Jerome County, ID (16053)	1987	128	15,265	838.5
+Jerome County, ID (16053)	1988	134	14,984	894.3
+Jerome County, ID (16053)	1989	132	14,883	886.9
+Jerome County, ID (16053)	1990	131	15,153	864.5
+Jerome County, ID (16053)	1991	133	15,547	855.5
+Jerome County, ID (16053)	1992	122	15,793	772.5
+Jerome County, ID (16053)	1993	137	16,246	843.3
+Jerome County, ID (16053)	1994	157	16,530	949.8
+Jerome County, ID (16053)	1995	140	16,930	826.9
+Jerome County, ID (16053)	1996	132	17,325	761.9
+Jerome County, ID (16053)	1997	134	17,491	766.1
+Jerome County, ID (16053)	1998	134	17,962	746.0
+Jerome County, ID (16053)	Total	2,526	318,088	794.1
+Kootenai County, ID (16055)	1979	433	58,767	736.8
+Kootenai County, ID (16055)	1980	484	59,858	808.6
+Kootenai County, ID (16055)	1981	462	60,835	759.4
+Kootenai County, ID (16055)	1982	471	62,396	754.9
+Kootenai County, ID (16055)	1983	522	62,951	829.2
+Kootenai County, ID (16055)	1984	534	65,429	816.2
+Kootenai County, ID (16055)	1985	518	66,697	776.6
+Kootenai County, ID (16055)	1986	524	66,678	785.9
+Kootenai County, ID (16055)	1987	550	66,038	832.9
+Kootenai County, ID (16055)	1988	616	66,834	921.7
+Kootenai County, ID (16055)	1989	570	67,761	841.2
+Kootenai County, ID (16055)	1990	590	69,752	845.9
+Kootenai County, ID (16055)	1991	626	73,936	846.7
+Kootenai County, ID (16055)	1992	600	77,558	773.6
+Kootenai County, ID (16055)	1993	669	82,603	809.9
+Kootenai County, ID (16055)	1994	683	88,035	775.8
+Kootenai County, ID (16055)	1995	686	92,708	740.0
+Kootenai County, ID (16055)	1996	678	96,584	702.0
+Kootenai County, ID (16055)	1997	757	100,062	756.5
+Kootenai County, ID (16055)	1998	812	102,763	790.2
+Kootenai County, ID (16055)	Total	11,785	1,488,245	791.9
+Latah County, ID (16057)	1979	173	28,344	610.4
+Latah County, ID (16057)	1980	207	28,851	717.5
+Latah County, ID (16057)	1981	206	29,094	708.0
+Latah County, ID (16057)	1982	206	29,977	687.2
+Latah County, ID (16057)	1983	178	30,006	593.2
+Latah County, ID (16057)	1984	180	30,373	592.6
+Latah County, ID (16057)	1985	198	30,738	644.2
+Latah County, ID (16057)	1986	183	30,178	606.4
+Latah County, ID (16057)	1987	183	30,322	603.5
+Latah County, ID (16057)	1988	181	30,801	587.6
+Latah County, ID (16057)	1989	182	30,711	592.6
+Latah County, ID (16057)	1990	174	30,643	567.8
+Latah County, ID (16057)	1991	202	31,369	643.9
+Latah County, ID (16057)	1992	218	32,274	675.5
+Latah County, ID (16057)	1993	220	33,027	666.1
+Latah County, ID (16057)	1994	194	33,732	575.1
+Latah County, ID (16057)	1995	186	34,353	541.4
+Latah County, ID (16057)	1996	207	34,837	594.2
+Latah County, ID (16057)	1997	217	35,037	619.3
+Latah County, ID (16057)	1998	219	34,844	628.5
+Latah County, ID (16057)	Total	3,914	629,511	621.8
+Lemhi County, ID (16059)	1979	58	7,318	792.6
+Lemhi County, ID (16059)	1980	60	7,462	804.1
+Lemhi County, ID (16059)	1981	63	7,866	800.9
+Lemhi County, ID (16059)	1982	72	8,037	895.9
+Lemhi County, ID (16059)	1983	60	8,019	748.2
+Lemhi County, ID (16059)	1984	66	7,937	831.5
+Lemhi County, ID (16059)	1985	67	7,498	893.6
+Lemhi County, ID (16059)	1986	59	6,889	856.4
+Lemhi County, ID (16059)	1987	64	6,851	934.2
+Lemhi County, ID (16059)	1988	84	6,912	1,215.3
+Lemhi County, ID (16059)	1989	63	6,771	930.4
+Lemhi County, ID (16059)	1990	63	6,887	914.8
+Lemhi County, ID (16059)	1991	62	7,063	877.8
+Lemhi County, ID (16059)	1992	84	7,101	1,182.9
+Lemhi County, ID (16059)	1993	87	7,203	1,207.8
+Lemhi County, ID (16059)	1994	76	7,477	1,016.5
+Lemhi County, ID (16059)	1995	80	8,039	995.1
+Lemhi County, ID (16059)	1996	72	8,091	889.9
+Lemhi County, ID (16059)	1997	74	8,104	913.1
+Lemhi County, ID (16059)	1998	73	8,073	904.2
+Lemhi County, ID (16059)	Total	1,387	149,598	927.2
+Lewis County, ID (16061)	1979	51	4,340	1,175.1
+Lewis County, ID (16061)	1980	43	4,129	1,041.4
+Lewis County, ID (16061)	1981	44	4,094	1,074.7
+Lewis County, ID (16061)	1982	44	4,061	1,083.5
+Lewis County, ID (16061)	1983	45	3,920	1,148.0
+Lewis County, ID (16061)	1984	38	3,837	990.4
+Lewis County, ID (16061)	1985	39	3,762	1,036.7
+Lewis County, ID (16061)	1986	36	3,592	1,002.2
+Lewis County, ID (16061)	1987	35	3,473	1,007.8
+Lewis County, ID (16061)	1988	44	3,521	1,249.6
+Lewis County, ID (16061)	1989	34	3,552	957.2
+Lewis County, ID (16061)	1990	27	3,508	769.7
+Lewis County, ID (16061)	1991	33	3,534	933.8
+Lewis County, ID (16061)	1992	42	3,568	1,177.1
+Lewis County, ID (16061)	1993	33	3,678	897.2
+Lewis County, ID (16061)	1994	41	3,765	1,089.0
+Lewis County, ID (16061)	1995	42	3,850	1,090.9
+Lewis County, ID (16061)	1996	39	3,859	1,010.6
+Lewis County, ID (16061)	1997	51	3,854	1,323.3
+Lewis County, ID (16061)	1998	40	3,816	1,048.2
+Lewis County, ID (16061)	Total	801	75,713	1,057.9
+Lincoln County, ID (16063)	1979	28	3,393	825.2
+Lincoln County, ID (16063)	1980	38	3,429	1,108.2
+Lincoln County, ID (16063)	1981	35	3,544	987.6
+Lincoln County, ID (16063)	1982	30	3,589	835.9
+Lincoln County, ID (16063)	1983	36	3,676	979.3
+Lincoln County, ID (16063)	1984	42	3,525	1,191.5
+Lincoln County, ID (16063)	1985	37	3,492	1,059.6
+Lincoln County, ID (16063)	1986	28	3,358	833.8
+Lincoln County, ID (16063)	1987	28	3,214	871.2
+Lincoln County, ID (16063)	1988	32	3,338	958.7
+Lincoln County, ID (16063)	1989	29	3,196	907.4
+Lincoln County, ID (16063)	1990	32	3,314	965.6
+Lincoln County, ID (16063)	1991	34	3,384	1,004.7
+Lincoln County, ID (16063)	1992	41	3,466	1,182.9
+Lincoln County, ID (16063)	1993	27	3,553	759.9
+Lincoln County, ID (16063)	1994	26	3,637	714.9
+Lincoln County, ID (16063)	1995	40	3,794	1,054.3
+Lincoln County, ID (16063)	1996	35	3,857	907.4
+Lincoln County, ID (16063)	1997	36	3,912	920.2
+Lincoln County, ID (16063)	1998	40	3,901	1,025.4
+Lincoln County, ID (16063)	Total	674	70,572	955.1
+Madison County, ID (16065)	1979	92	19,448	473.1
+Madison County, ID (16065)	1980	79	19,562	403.8
+Madison County, ID (16065)	1981	62	20,424	303.6
+Madison County, ID (16065)	1982	97	20,950	463.0
+Madison County, ID (16065)	1983	76	21,530	353.0
+Madison County, ID (16065)	1984	76	21,955	346.2
+Madison County, ID (16065)	1985	97	22,208	436.8
+Madison County, ID (16065)	1986	73	22,659	322.2
+Madison County, ID (16065)	1987	80	22,790	351.0
+Madison County, ID (16065)	1988	83	23,148	358.6
+Madison County, ID (16065)	1989	79	23,566	335.2
+Madison County, ID (16065)	1990	85	23,677	359.0
+Madison County, ID (16065)	1991	102	24,110	423.1
+Madison County, ID (16065)	1992	98	24,986	392.2
+Madison County, ID (16065)	1993	93	25,355	366.8
+Madison County, ID (16065)	1994	87	25,584	340.1
+Madison County, ID (16065)	1995	103	26,096	394.7
+Madison County, ID (16065)	1996	96	26,309	364.9
+Madison County, ID (16065)	1997	131	26,919	486.6
+Madison County, ID (16065)	1998	101	27,396	368.7
+Madison County, ID (16065)	Total	1,790	468,672	381.9
+Minidoka County, ID (16067)	1979	117	19,875	588.7
+Minidoka County, ID (16067)	1980	121	19,779	611.8
+Minidoka County, ID (16067)	1981	141	20,042	703.5
+Minidoka County, ID (16067)	1982	143	20,215	707.4
+Minidoka County, ID (16067)	1983	127	20,839	609.4
+Minidoka County, ID (16067)	1984	136	20,940	649.5
+Minidoka County, ID (16067)	1985	134	20,736	646.2
+Minidoka County, ID (16067)	1986	137	20,382	672.2
+Minidoka County, ID (16067)	1987	145	19,652	737.8
+Minidoka County, ID (16067)	1988	141	19,407	726.5
+Minidoka County, ID (16067)	1989	127	19,378	655.4
+Minidoka County, ID (16067)	1990	137	19,362	707.6
+Minidoka County, ID (16067)	1991	139	19,742	704.1
+Minidoka County, ID (16067)	1992	152	20,122	755.4
+Minidoka County, ID (16067)	1993	142	20,331	698.4
+Minidoka County, ID (16067)	1994	156	20,568	758.5
+Minidoka County, ID (16067)	1995	128	20,803	615.3
+Minidoka County, ID (16067)	1996	153	20,574	743.7
+Minidoka County, ID (16067)	1997	154	20,518	750.6
+Minidoka County, ID (16067)	1998	180	20,333	885.3
+Minidoka County, ID (16067)	Total	2,810	403,598	696.2
+Nez Perce County, ID (16069)	1979	300	32,592	920.5
+Nez Perce County, ID (16069)	1980	321	33,260	965.1
+Nez Perce County, ID (16069)	1981	302	33,201	909.6
+Nez Perce County, ID (16069)	1982	322	32,828	980.9
+Nez Perce County, ID (16069)	1983	338	32,625	1,036.0
+Nez Perce County, ID (16069)	1984	329	32,985	997.4
+Nez Perce County, ID (16069)	1985	303	32,891	921.2
+Nez Perce County, ID (16069)	1986	326	32,543	1,001.8
+Nez Perce County, ID (16069)	1987	342	32,917	1,039.0
+Nez Perce County, ID (16069)	1988	342	32,878	1,040.2
+Nez Perce County, ID (16069)	1989	340	33,635	1,010.9
+Nez Perce County, ID (16069)	1990	307	33,750	909.6
+Nez Perce County, ID (16069)	1991	342	34,586	988.8
+Nez Perce County, ID (16069)	1992	327	35,251	927.6
+Nez Perce County, ID (16069)	1993	361	35,904	1,005.5
+Nez Perce County, ID (16069)	1994	360	36,552	984.9
+Nez Perce County, ID (16069)	1995	341	36,867	924.9
+Nez Perce County, ID (16069)	1996	363	37,079	979.0
+Nez Perce County, ID (16069)	1997	366	37,394	978.8
+Nez Perce County, ID (16069)	1998	378	37,431	1,009.9
+Nez Perce County, ID (16069)	Total	6,710	687,169	976.5
+Oneida County, ID (16071)	1979	36	3,285	1,095.9
+Oneida County, ID (16071)	1980	43	3,261	1,318.6
+Oneida County, ID (16071)	1981	31	3,310	936.6
+Oneida County, ID (16071)	1982	39	3,286	1,186.9
+Oneida County, ID (16071)	1983	50	3,346	1,494.3
+Oneida County, ID (16071)	1984	27	3,363	802.9
+Oneida County, ID (16071)	1985	40	3,489	1,146.5
+Oneida County, ID (16071)	1986	31	3,453	897.8
+Oneida County, ID (16071)	1987	33	3,413	966.9
+Oneida County, ID (16071)	1988	40	3,501	1,142.5
+Oneida County, ID (16071)	1989	34	3,430	991.3
+Oneida County, ID (16071)	1990	33	3,475	949.6
+Oneida County, ID (16071)	1991	28	3,449	811.8
+Oneida County, ID (16071)	1992	42	3,501	1,199.7
+Oneida County, ID (16071)	1993	40	3,510	1,139.6
+Oneida County, ID (16071)	1994	34	3,618	939.7
+Oneida County, ID (16071)	1995	27	3,836	703.9
+Oneida County, ID (16071)	1996	31	3,890	796.9
+Oneida County, ID (16071)	1997	33	4,010	822.9
+Oneida County, ID (16071)	1998	36	4,056	887.6
+Oneida County, ID (16071)	Total	708	70,482	1,004.5
+Owyhee County, ID (16073)	1979	60	8,388	715.3
+Owyhee County, ID (16073)	1980	58	8,268	701.5
+Owyhee County, ID (16073)	1981	78	8,684	898.2
+Owyhee County, ID (16073)	1982	67	8,491	789.1
+Owyhee County, ID (16073)	1983	69	8,583	803.9
+Owyhee County, ID (16073)	1984	74	8,607	859.8
+Owyhee County, ID (16073)	1985	65	8,428	771.2
+Owyhee County, ID (16073)	1986	66	8,354	790.0
+Owyhee County, ID (16073)	1987	86	8,409	1,022.7
+Owyhee County, ID (16073)	1988	66	8,410	784.8
+Owyhee County, ID (16073)	1989	60	8,347	718.8
+Owyhee County, ID (16073)	1990	55	8,390	655.5
+Owyhee County, ID (16073)	1991	68	8,537	796.5
+Owyhee County, ID (16073)	1992	79	8,649	913.4
+Owyhee County, ID (16073)	1993	84	8,915	942.2
+Owyhee County, ID (16073)	1994	75	9,138	820.7
+Owyhee County, ID (16073)	1995	60	9,601	624.9
+Owyhee County, ID (16073)	1996	88	9,858	892.7
+Owyhee County, ID (16073)	1997	83	10,122	820.0
+Owyhee County, ID (16073)	1998	62	10,315	601.1
+Owyhee County, ID (16073)	Total	1,403	176,494	794.9
+Payette County, ID (16075)	1979	153	15,479	988.4
+Payette County, ID (16075)	1980	176	15,758	1,116.9
+Payette County, ID (16075)	1981	154	16,076	957.9
+Payette County, ID (16075)	1982	157	15,998	981.4
+Payette County, ID (16075)	1983	165	15,903	1,037.5
+Payette County, ID (16075)	1984	156	16,266	959.1
+Payette County, ID (16075)	1985	139	16,286	853.5
+Payette County, ID (16075)	1986	135	16,090	839.0
+Payette County, ID (16075)	1987	142	16,300	871.2
+Payette County, ID (16075)	1988	165	16,273	1,013.9
+Payette County, ID (16075)	1989	147	16,456	893.3
+Payette County, ID (16075)	1990	173	16,418	1,053.7
+Payette County, ID (16075)	1991	160	16,936	944.7
+Payette County, ID (16075)	1992	179	17,462	1,025.1
+Payette County, ID (16075)	1993	152	17,995	844.7
+Payette County, ID (16075)	1994	177	18,758	943.6
+Payette County, ID (16075)	1995	183	19,234	951.4
+Payette County, ID (16075)	1996	197	19,549	1,007.7
+Payette County, ID (16075)	1997	189	19,778	955.6
+Payette County, ID (16075)	1998	176	20,058	877.5
+Payette County, ID (16075)	Total	3,275	343,073	954.6
+Power County, ID (16077)	1979	36	6,706	536.8
+Power County, ID (16077)	1980	49	6,825	717.9
+Power County, ID (16077)	1981	33	6,946	475.1
+Power County, ID (16077)	1982	48	6,921	693.5
+Power County, ID (16077)	1983	53	6,971	760.3
+Power County, ID (16077)	1984	43	7,067	608.5
+Power County, ID (16077)	1985	48	7,214	665.4
+Power County, ID (16077)	1986	42	7,177	585.2
+Power County, ID (16077)	1987	49	7,169	683.5
+Power County, ID (16077)	1988	32	7,122	449.3
+Power County, ID (16077)	1989	46	7,099	648.0
+Power County, ID (16077)	1990	49	7,087	691.4
+Power County, ID (16077)	1991	57	7,179	794.0
+Power County, ID (16077)	1992	51	7,371	691.9
+Power County, ID (16077)	1993	56	7,503	746.4
+Power County, ID (16077)	1994	50	7,691	650.1
+Power County, ID (16077)	1995	43	7,739	555.6
+Power County, ID (16077)	1996	48	7,708	622.7
+Power County, ID (16077)	1997	57	7,718	738.5
+Power County, ID (16077)	1998	44	7,765	566.6
+Power County, ID (16077)	Total	934	144,978	644.2
+Shoshone County, ID (16079)	1979	170	19,084	890.8
+Shoshone County, ID (16079)	1980	179	19,256	929.6
+Shoshone County, ID (16079)	1981	175	19,344	904.7
+Shoshone County, ID (16079)	1982	161	18,971	848.7
+Shoshone County, ID (16079)	1983	174	17,290	1,006.4
+Shoshone County, ID (16079)	1984	169	16,729	1,010.2
+Shoshone County, ID (16079)	1985	163	16,483	988.9
+Shoshone County, ID (16079)	1986	191	15,852	1,204.9
+Shoshone County, ID (16079)	1987	179	14,427	1,240.7
+Shoshone County, ID (16079)	1988	149	13,633	1,092.9
+Shoshone County, ID (16079)	1989	175	13,798	1,268.3
+Shoshone County, ID (16079)	1990	192	13,910	1,380.3
+Shoshone County, ID (16079)	1991	149	14,065	1,059.4
+Shoshone County, ID (16079)	1992	185	13,641	1,356.2
+Shoshone County, ID (16079)	1993	167	13,884	1,202.8
+Shoshone County, ID (16079)	1994	181	13,996	1,293.2
+Shoshone County, ID (16079)	1995	192	14,153	1,356.6
+Shoshone County, ID (16079)	1996	180	14,067	1,279.6
+Shoshone County, ID (16079)	1997	164	14,070	1,165.6
+Shoshone County, ID (16079)	1998	164	13,996	1,171.8
+Shoshone County, ID (16079)	Total	3,459	310,649	1,113.5
+Teton County, ID (16081)	1979	14	2,795	500.9 (Unreliable)
+Teton County, ID (16081)	1980	29	2,910	996.6
+Teton County, ID (16081)	1981	24	3,087	777.5
+Teton County, ID (16081)	1982	23	3,205	717.6
+Teton County, ID (16081)	1983	25	3,397	735.9
+Teton County, ID (16081)	1984	29	3,355	864.4
+Teton County, ID (16081)	1985	18	3,385	531.8 (Unreliable)
+Teton County, ID (16081)	1986	21	3,467	605.7
+Teton County, ID (16081)	1987	20	3,452	579.4
+Teton County, ID (16081)	1988	22	3,404	646.3
+Teton County, ID (16081)	1989	15	3,369	445.2 (Unreliable)
+Teton County, ID (16081)	1990	21	3,433	611.7
+Teton County, ID (16081)	1991	22	3,598	611.5
+Teton County, ID (16081)	1992	22	3,886	566.1
+Teton County, ID (16081)	1993	19	4,086	465.0 (Unreliable)
+Teton County, ID (16081)	1994	36	4,412	816.0
+Teton County, ID (16081)	1995	31	4,818	643.4
+Teton County, ID (16081)	1996	25	5,125	487.8
+Teton County, ID (16081)	1997	13	5,283	246.1 (Unreliable)
+Teton County, ID (16081)	1998	20	5,499	363.7
+Teton County, ID (16081)	Total	449	75,966	591.1
+Twin Falls County, ID (16083)	1979	432	51,382	840.8
+Twin Falls County, ID (16083)	1980	453	53,047	854.0
+Twin Falls County, ID (16083)	1981	472	53,526	881.8
+Twin Falls County, ID (16083)	1982	454	54,005	840.7
+Twin Falls County, ID (16083)	1983	480	54,693	877.6
+Twin Falls County, ID (16083)	1984	472	54,658	863.6
+Twin Falls County, ID (16083)	1985	471	54,132	870.1
+Twin Falls County, ID (16083)	1986	512	53,561	955.9
+Twin Falls County, ID (16083)	1987	480	53,125	903.5
+Twin Falls County, ID (16083)	1988	490	53,308	919.2
+Twin Falls County, ID (16083)	1989	499	53,369	935.0
+Twin Falls County, ID (16083)	1990	443	53,558	827.1
+Twin Falls County, ID (16083)	1991	520	55,096	943.8
+Twin Falls County, ID (16083)	1992	521	56,212	926.8
+Twin Falls County, ID (16083)	1993	556	57,199	972.0
+Twin Falls County, ID (16083)	1994	579	58,847	983.9
+Twin Falls County, ID (16083)	1995	584	59,645	979.1
+Twin Falls County, ID (16083)	1996	578	61,022	947.2
+Twin Falls County, ID (16083)	1997	582	62,224	935.3
+Twin Falls County, ID (16083)	1998	584	63,039	926.4
+Twin Falls County, ID (16083)	Total	10,162	1,115,648	910.9
+Valley County, ID (16085)	1979	39	5,478	711.9
+Valley County, ID (16085)	1980	48	5,650	849.6
+Valley County, ID (16085)	1981	48	5,876	816.9
+Valley County, ID (16085)	1982	30	6,307	475.7
+Valley County, ID (16085)	1983	57	6,450	883.7
+Valley County, ID (16085)	1984	56	6,409	873.8
+Valley County, ID (16085)	1985	48	6,534	734.6
+Valley County, ID (16085)	1986	33	6,453	511.4
+Valley County, ID (16085)	1987	32	6,145	520.7
+Valley County, ID (16085)	1988	57	6,090	936.0
+Valley County, ID (16085)	1989	41	5,992	684.2
+Valley County, ID (16085)	1990	47	6,110	769.2
+Valley County, ID (16085)	1991	62	6,509	952.5
+Valley County, ID (16085)	1992	36	6,848	525.7
+Valley County, ID (16085)	1993	65	7,260	895.3
+Valley County, ID (16085)	1994	53	7,511	705.6
+Valley County, ID (16085)	1995	60	7,682	781.0
+Valley County, ID (16085)	1996	64	7,799	820.6
+Valley County, ID (16085)	1997	65	7,904	822.4
+Valley County, ID (16085)	1998	60	7,776	771.6
+Valley County, ID (16085)	Total	1,001	132,783	753.9
+Washington County, ID (16087)	1979	78	8,826	883.8
+Washington County, ID (16087)	1980	84	8,790	955.6
+Washington County, ID (16087)	1981	105	8,943	1,174.1
+Washington County, ID (16087)	1982	88	8,951	983.1
+Washington County, ID (16087)	1983	110	8,993	1,223.2
+Washington County, ID (16087)	1984	96	8,613	1,114.6
+Washington County, ID (16087)	1985	91	8,650	1,052.0
+Washington County, ID (16087)	1986	114	8,564	1,331.2
+Washington County, ID (16087)	1987	95	8,459	1,123.1
+Washington County, ID (16087)	1988	102	8,608	1,184.9
+Washington County, ID (16087)	1989	105	8,453	1,242.2
+Washington County, ID (16087)	1990	103	8,568	1,202.1
+Washington County, ID (16087)	1991	104	8,700	1,195.4
+Washington County, ID (16087)	1992	107	8,785	1,218.0
+Washington County, ID (16087)	1993	114	9,050	1,259.7
+Washington County, ID (16087)	1994	132	9,162	1,440.7
+Washington County, ID (16087)	1995	115	9,471	1,214.2
+Washington County, ID (16087)	1996	103	9,656	1,066.7
+Washington County, ID (16087)	1997	110	9,895	1,111.7
+Washington County, ID (16087)	1998	109	10,008	1,089.1
+Washington County, ID (16087)	Total	2,065	179,145	1,152.7
+Total		153,800	20,969,062	733.5

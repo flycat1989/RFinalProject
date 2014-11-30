@@ -1,0 +1,688 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Bernalillo County, NM (35001)	1979	2,482	412,068	602.3
+Bernalillo County, NM (35001)	1980	2,741	420,718	651.5
+Bernalillo County, NM (35001)	1981	2,508	430,519	582.6
+Bernalillo County, NM (35001)	1982	2,772	434,103	638.6
+Bernalillo County, NM (35001)	1983	2,752	441,968	622.7
+Bernalillo County, NM (35001)	1984	2,874	447,683	642.0
+Bernalillo County, NM (35001)	1985	3,039	453,030	670.8
+Bernalillo County, NM (35001)	1986	3,203	460,498	695.6
+Bernalillo County, NM (35001)	1987	3,102	469,422	660.8
+Bernalillo County, NM (35001)	1988	3,085	473,522	651.5
+Bernalillo County, NM (35001)	1989	3,185	479,304	664.5
+Bernalillo County, NM (35001)	1990	3,175	480,977	660.1
+Bernalillo County, NM (35001)	1991	3,375	493,071	684.5
+Bernalillo County, NM (35001)	1992	3,360	505,575	664.6
+Bernalillo County, NM (35001)	1993	3,610	516,063	699.5
+Bernalillo County, NM (35001)	1994	3,749	529,076	708.6
+Bernalillo County, NM (35001)	1995	3,942	538,719	731.7
+Bernalillo County, NM (35001)	1996	3,939	544,365	723.6
+Bernalillo County, NM (35001)	1997	3,872	547,950	706.6
+Bernalillo County, NM (35001)	1998	3,935	551,589	713.4
+Bernalillo County, NM (35001)	Total	64,700	9,630,220	671.8
+Catron County, NM (35003)	1979	26	2,756	943.4
+Catron County, NM (35003)	1980	22	2,721	808.5
+Catron County, NM (35003)	1981	28	2,693	1,039.7
+Catron County, NM (35003)	1982	30	2,657	1,129.1
+Catron County, NM (35003)	1983	30	2,719	1,103.3
+Catron County, NM (35003)	1984	26	2,739	949.3
+Catron County, NM (35003)	1985	26	2,595	1,001.9
+Catron County, NM (35003)	1986	22	2,583	851.7
+Catron County, NM (35003)	1987	21	2,609	804.9
+Catron County, NM (35003)	1988	17	2,620	648.9 (Unreliable)
+Catron County, NM (35003)	1989	23	2,562	897.7
+Catron County, NM (35003)	1990	18	2,560	703.1 (Unreliable)
+Catron County, NM (35003)	1991	26	2,571	1,011.3
+Catron County, NM (35003)	1992	19	2,588	734.2 (Unreliable)
+Catron County, NM (35003)	1993	21	2,710	774.9
+Catron County, NM (35003)	1994	24	2,809	854.4
+Catron County, NM (35003)	1995	13	2,891	449.7 (Unreliable)
+Catron County, NM (35003)	1996	25	2,988	836.7
+Catron County, NM (35003)	1997	22	3,179	692.0
+Catron County, NM (35003)	1998	22	3,264	674.0
+Catron County, NM (35003)	Total	461	54,814	841.0
+Chaves County, NM (35005)	1979	483	49,565	974.5
+Chaves County, NM (35005)	1980	521	51,220	1,017.2
+Chaves County, NM (35005)	1981	489	51,552	948.6
+Chaves County, NM (35005)	1982	494	53,843	917.5
+Chaves County, NM (35005)	1983	503	56,447	891.1
+Chaves County, NM (35005)	1984	509	56,516	900.6
+Chaves County, NM (35005)	1985	539	56,537	953.4
+Chaves County, NM (35005)	1986	494	56,442	875.2
+Chaves County, NM (35005)	1987	505	55,597	908.3
+Chaves County, NM (35005)	1988	565	55,880	1,011.1
+Chaves County, NM (35005)	1989	551	57,101	965.0
+Chaves County, NM (35005)	1990	520	57,753	900.4
+Chaves County, NM (35005)	1991	559	58,806	950.6
+Chaves County, NM (35005)	1992	576	58,609	982.8
+Chaves County, NM (35005)	1993	560	59,492	941.3
+Chaves County, NM (35005)	1994	597	60,558	985.8
+Chaves County, NM (35005)	1995	608	61,313	991.6
+Chaves County, NM (35005)	1996	516	62,099	830.9
+Chaves County, NM (35005)	1997	566	62,327	908.1
+Chaves County, NM (35005)	1998	591	62,485	945.8
+Chaves County, NM (35005)	Total	10,746	1,144,142	939.2
+Cibola County, NM (35006)�*	1989	160	23,957	667.9
+Cibola County, NM (35006)�*	1990	155	23,830	650.4
+Cibola County, NM (35006)�*	1991	176	23,272	756.3
+Cibola County, NM (35006)�*	1992	142	23,399	606.9
+Cibola County, NM (35006)�*	1993	164	23,710	691.7
+Cibola County, NM (35006)�*	1994	159	23,936	664.3
+Cibola County, NM (35006)�*	1995	169	24,520	689.2
+Cibola County, NM (35006)�*	1996	181	24,848	728.4
+Cibola County, NM (35006)�*	1997	199	25,262	787.7
+Cibola County, NM (35006)�*	1998	178	25,512	697.7
+Cibola County, NM (35006)�*	Total	1,683	242,246	694.7
+Colfax County, NM (35007)	1979	128	13,452	951.5
+Colfax County, NM (35007)	1980	118	13,680	862.6
+Colfax County, NM (35007)	1981	101	13,892	727.0
+Colfax County, NM (35007)	1982	105	14,169	741.1
+Colfax County, NM (35007)	1983	111	14,380	771.9
+Colfax County, NM (35007)	1984	103	14,179	726.4
+Colfax County, NM (35007)	1985	125	14,217	879.2
+Colfax County, NM (35007)	1986	121	14,257	848.7
+Colfax County, NM (35007)	1987	121	13,826	875.2
+Colfax County, NM (35007)	1988	117	13,573	862.0
+Colfax County, NM (35007)	1989	128	13,012	983.7
+Colfax County, NM (35007)	1990	115	12,900	891.5
+Colfax County, NM (35007)	1991	131	12,791	1,024.2
+Colfax County, NM (35007)	1992	125	13,116	953.0
+Colfax County, NM (35007)	1993	118	13,460	876.7
+Colfax County, NM (35007)	1994	133	13,872	958.8
+Colfax County, NM (35007)	1995	118	14,087	837.7
+Colfax County, NM (35007)	1996	144	14,129	1,019.2
+Colfax County, NM (35007)	1997	141	14,008	1,006.6
+Colfax County, NM (35007)	1998	123	13,881	886.1
+Colfax County, NM (35007)	Total	2,426	274,881	882.6
+Curry County, NM (35009)	1979	318	43,079	738.2
+Curry County, NM (35009)	1980	282	42,109	669.7
+Curry County, NM (35009)	1981	327	42,127	776.2
+Curry County, NM (35009)	1982	317	42,062	753.6
+Curry County, NM (35009)	1983	292	43,201	675.9
+Curry County, NM (35009)	1984	311	43,070	722.1
+Curry County, NM (35009)	1985	285	42,934	663.8
+Curry County, NM (35009)	1986	298	43,257	688.9
+Curry County, NM (35009)	1987	292	43,380	673.1
+Curry County, NM (35009)	1988	339	42,886	790.5
+Curry County, NM (35009)	1989	276	42,339	651.9
+Curry County, NM (35009)	1990	295	42,332	696.9
+Curry County, NM (35009)	1991	329	44,575	738.1
+Curry County, NM (35009)	1992	321	46,223	694.5
+Curry County, NM (35009)	1993	309	47,068	656.5
+Curry County, NM (35009)	1994	328	48,874	671.1
+Curry County, NM (35009)	1995	370	48,538	762.3
+Curry County, NM (35009)	1996	322	49,088	656.0
+Curry County, NM (35009)	1997	364	48,003	758.3
+Curry County, NM (35009)	1998	368	46,379	793.5
+Curry County, NM (35009)	Total	6,343	891,524	711.5
+DeBaca County, NM (35011)	1979	25	2,396	1,043.4
+DeBaca County, NM (35011)	1980	37	2,467	1,499.8
+DeBaca County, NM (35011)	1981	30	2,361	1,270.6
+DeBaca County, NM (35011)	1982	36	2,433	1,479.7
+DeBaca County, NM (35011)	1983	39	2,455	1,588.6
+DeBaca County, NM (35011)	1984	36	2,432	1,480.3
+DeBaca County, NM (35011)	1985	44	2,447	1,798.1
+DeBaca County, NM (35011)	1986	28	2,361	1,185.9
+DeBaca County, NM (35011)	1987	36	2,325	1,548.4
+DeBaca County, NM (35011)	1988	34	2,247	1,513.1
+DeBaca County, NM (35011)	1989	28	2,259	1,239.5
+DeBaca County, NM (35011)	1990	24	2,246	1,068.6
+DeBaca County, NM (35011)	1991	30	2,304	1,302.1
+DeBaca County, NM (35011)	1992	32	2,262	1,414.7
+DeBaca County, NM (35011)	1993	27	2,265	1,192.1
+DeBaca County, NM (35011)	1994	37	2,252	1,643.0
+DeBaca County, NM (35011)	1995	27	2,309	1,169.3
+DeBaca County, NM (35011)	1996	40	2,294	1,743.7
+DeBaca County, NM (35011)	1997	29	2,285	1,269.1
+DeBaca County, NM (35011)	1998	33	2,296	1,437.3
+DeBaca County, NM (35011)	Total	652	46,696	1,396.3
+Dona Ana County, NM (35013)	1979	506	93,888	538.9
+Dona Ana County, NM (35013)	1980	511	96,464	529.7
+Dona Ana County, NM (35013)	1981	525	99,763	526.2
+Dona Ana County, NM (35013)	1982	523	103,597	504.8
+Dona Ana County, NM (35013)	1983	563	107,811	522.2
+Dona Ana County, NM (35013)	1984	610	112,641	541.5
+Dona Ana County, NM (35013)	1985	626	116,459	537.5
+Dona Ana County, NM (35013)	1986	664	120,577	550.7
+Dona Ana County, NM (35013)	1987	656	125,133	524.2
+Dona Ana County, NM (35013)	1988	718	130,210	551.4
+Dona Ana County, NM (35013)	1989	724	133,283	543.2
+Dona Ana County, NM (35013)	1990	723	135,770	532.5
+Dona Ana County, NM (35013)	1991	804	141,608	567.8
+Dona Ana County, NM (35013)	1992	853	147,371	578.8
+Dona Ana County, NM (35013)	1993	810	153,532	527.6
+Dona Ana County, NM (35013)	1994	922	157,898	583.9
+Dona Ana County, NM (35013)	1995	939	161,313	582.1
+Dona Ana County, NM (35013)	1996	913	165,951	550.2
+Dona Ana County, NM (35013)	1997	966	169,262	570.7
+Dona Ana County, NM (35013)	1998	1,015	172,292	589.1
+Dona Ana County, NM (35013)	Total	14,571	2,644,823	550.9
+Eddy County, NM (35015)	1979	416	47,356	878.5
+Eddy County, NM (35015)	1980	400	47,978	833.7
+Eddy County, NM (35015)	1981	403	49,827	808.8
+Eddy County, NM (35015)	1982	418	52,435	797.2
+Eddy County, NM (35015)	1983	458	53,307	859.2
+Eddy County, NM (35015)	1984	466	52,549	886.8
+Eddy County, NM (35015)	1985	469	52,423	894.6
+Eddy County, NM (35015)	1986	480	52,411	915.8
+Eddy County, NM (35015)	1987	477	50,459	945.3
+Eddy County, NM (35015)	1988	467	48,859	955.8
+Eddy County, NM (35015)	1989	463	47,993	964.7
+Eddy County, NM (35015)	1990	527	48,631	1,083.7
+Eddy County, NM (35015)	1991	489	49,786	982.2
+Eddy County, NM (35015)	1992	481	51,021	942.7
+Eddy County, NM (35015)	1993	498	51,864	960.2
+Eddy County, NM (35015)	1994	533	52,367	1,017.8
+Eddy County, NM (35015)	1995	493	52,364	941.5
+Eddy County, NM (35015)	1996	494	52,404	942.7
+Eddy County, NM (35015)	1997	554	52,363	1,058.0
+Eddy County, NM (35015)	1998	529	52,665	1,004.5
+Eddy County, NM (35015)	Total	9,515	1,019,062	933.7
+Grant County, NM (35017)	1979	204	25,330	805.4
+Grant County, NM (35017)	1980	169	26,269	643.3
+Grant County, NM (35017)	1981	187	27,078	690.6
+Grant County, NM (35017)	1982	185	27,979	661.2
+Grant County, NM (35017)	1983	158	27,207	580.7
+Grant County, NM (35017)	1984	215	26,994	796.5
+Grant County, NM (35017)	1985	193	26,878	718.1
+Grant County, NM (35017)	1986	233	26,605	875.8
+Grant County, NM (35017)	1987	227	26,711	849.8
+Grant County, NM (35017)	1988	242	27,064	894.2
+Grant County, NM (35017)	1989	254	27,450	925.3
+Grant County, NM (35017)	1990	239	27,632	864.9
+Grant County, NM (35017)	1991	242	28,041	863.0
+Grant County, NM (35017)	1992	278	28,611	971.7
+Grant County, NM (35017)	1993	261	28,482	916.4
+Grant County, NM (35017)	1994	308	29,195	1,055.0
+Grant County, NM (35017)	1995	334	29,816	1,120.2
+Grant County, NM (35017)	1996	329	30,492	1,079.0
+Grant County, NM (35017)	1997	307	31,342	979.5
+Grant County, NM (35017)	1998	325	31,615	1,028.0
+Grant County, NM (35017)	Total	4,890	560,791	872.0
+Guadalupe County, NM (35019)	1979	39	4,659	837.1
+Guadalupe County, NM (35019)	1980	52	4,511	1,152.7
+Guadalupe County, NM (35019)	1981	38	4,416	860.5
+Guadalupe County, NM (35019)	1982	41	4,303	952.8
+Guadalupe County, NM (35019)	1983	32	4,497	711.6
+Guadalupe County, NM (35019)	1984	32	4,509	709.7
+Guadalupe County, NM (35019)	1985	37	4,413	838.4
+Guadalupe County, NM (35019)	1986	36	4,290	839.2
+Guadalupe County, NM (35019)	1987	45	4,185	1,075.3
+Guadalupe County, NM (35019)	1988	36	4,240	849.1
+Guadalupe County, NM (35019)	1989	46	4,247	1,083.1
+Guadalupe County, NM (35019)	1990	47	4,158	1,130.4
+Guadalupe County, NM (35019)	1991	38	4,095	928.0
+Guadalupe County, NM (35019)	1992	45	4,129	1,089.9
+Guadalupe County, NM (35019)	1993	38	4,148	916.1
+Guadalupe County, NM (35019)	1994	46	4,203	1,094.5
+Guadalupe County, NM (35019)	1995	26	4,185	621.3
+Guadalupe County, NM (35019)	1996	32	4,222	757.9
+Guadalupe County, NM (35019)	1997	36	4,155	866.4
+Guadalupe County, NM (35019)	1998	54	4,127	1,308.5
+Guadalupe County, NM (35019)	Total	796	85,692	928.9
+Harding County, NM (35021)	1979	12	1,103	1,087.9 (Unreliable)
+Harding County, NM (35021)	1980	10	1,091	916.6 (Unreliable)
+Harding County, NM (35021)	1981	12	1,046	1,147.2 (Unreliable)
+Harding County, NM (35021)	1982	13	1,014	1,282.1 (Unreliable)
+Harding County, NM (35021)	1983	11	1,010	1,089.1 (Unreliable)
+Harding County, NM (35021)	1984	9	1,007	893.7 (Unreliable)
+Harding County, NM (35021)	1985	15	945	1,587.3 (Unreliable)
+Harding County, NM (35021)	1986	6	966	621.1 (Unreliable)
+Harding County, NM (35021)	1987	15	944	1,589.0 (Unreliable)
+Harding County, NM (35021)	1988	8	938	852.9 (Unreliable)
+Harding County, NM (35021)	1990	13	980	1,326.5 (Unreliable)
+Harding County, NM (35021)	1991	10	991	1,009.1 (Unreliable)
+Harding County, NM (35021)	1993	10	937	1,067.2 (Unreliable)
+Harding County, NM (35021)	1996	15	919	1,632.2 (Unreliable)
+Harding County, NM (35021)	1997	12	881	1,362.1 (Unreliable)
+Harding County, NM (35021)	Total	206	19,487	1,057.1
+Hidalgo County, NM (35023)	1979	48	6,068	791.0
+Hidalgo County, NM (35023)	1980	54	6,038	894.3
+Hidalgo County, NM (35023)	1981	47	6,125	767.3
+Hidalgo County, NM (35023)	1982	42	6,343	662.1
+Hidalgo County, NM (35023)	1983	41	6,484	632.3
+Hidalgo County, NM (35023)	1984	47	6,387	735.9
+Hidalgo County, NM (35023)	1985	44	6,411	686.3
+Hidalgo County, NM (35023)	1986	54	6,167	875.6
+Hidalgo County, NM (35023)	1987	39	6,146	634.6
+Hidalgo County, NM (35023)	1988	39	6,046	645.1
+Hidalgo County, NM (35023)	1989	51	5,998	850.3
+Hidalgo County, NM (35023)	1990	66	5,950	1,109.2
+Hidalgo County, NM (35023)	1991	40	5,933	674.2
+Hidalgo County, NM (35023)	1992	39	5,957	654.7
+Hidalgo County, NM (35023)	1993	53	6,050	876.0
+Hidalgo County, NM (35023)	1994	51	6,129	832.1
+Hidalgo County, NM (35023)	1995	59	6,183	954.2
+Hidalgo County, NM (35023)	1996	42	6,251	671.9
+Hidalgo County, NM (35023)	1997	49	6,160	795.5
+Hidalgo County, NM (35023)	1998	48	6,238	769.5
+Hidalgo County, NM (35023)	Total	953	123,064	774.4
+Lea County, NM (35025)	1979	385	55,485	693.9
+Lea County, NM (35025)	1980	407	56,084	725.7
+Lea County, NM (35025)	1981	431	59,965	718.8
+Lea County, NM (35025)	1982	432	64,493	669.8
+Lea County, NM (35025)	1983	472	66,384	711.0
+Lea County, NM (35025)	1984	413	65,000	635.4
+Lea County, NM (35025)	1985	414	65,370	633.3
+Lea County, NM (35025)	1986	367	64,264	571.1
+Lea County, NM (35025)	1987	437	59,959	728.8
+Lea County, NM (35025)	1988	411	58,012	708.5
+Lea County, NM (35025)	1989	410	56,769	722.2
+Lea County, NM (35025)	1990	444	55,786	795.9
+Lea County, NM (35025)	1991	450	55,382	812.5
+Lea County, NM (35025)	1992	463	56,461	820.0
+Lea County, NM (35025)	1993	444	56,685	783.3
+Lea County, NM (35025)	1994	436	57,075	763.9
+Lea County, NM (35025)	1995	458	56,570	809.6
+Lea County, NM (35025)	1996	434	56,633	766.3
+Lea County, NM (35025)	1997	515	56,472	912.0
+Lea County, NM (35025)	1998	445	56,963	781.2
+Lea County, NM (35025)	Total	8,668	1,179,812	734.7
+Lincoln County, NM (35027)	1979	84	10,544	796.7
+Lincoln County, NM (35027)	1980	78	11,000	709.1
+Lincoln County, NM (35027)	1981	80	11,261	710.4
+Lincoln County, NM (35027)	1982	104	11,733	886.4
+Lincoln County, NM (35027)	1983	116	12,655	916.6
+Lincoln County, NM (35027)	1984	113	13,344	846.8
+Lincoln County, NM (35027)	1985	108	13,405	805.7
+Lincoln County, NM (35027)	1986	91	13,243	687.2
+Lincoln County, NM (35027)	1987	91	12,987	700.7
+Lincoln County, NM (35027)	1988	94	12,625	744.6
+Lincoln County, NM (35027)	1989	95	12,289	773.0
+Lincoln County, NM (35027)	1990	122	12,226	997.9
+Lincoln County, NM (35027)	1991	115	12,881	892.8
+Lincoln County, NM (35027)	1992	118	13,440	878.0
+Lincoln County, NM (35027)	1993	135	14,100	957.4
+Lincoln County, NM (35027)	1994	128	14,941	856.7
+Lincoln County, NM (35027)	1995	144	15,873	907.2
+Lincoln County, NM (35027)	1996	135	16,783	804.4
+Lincoln County, NM (35027)	1997	138	17,678	780.6
+Lincoln County, NM (35027)	1998	159	18,380	865.1
+Lincoln County, NM (35027)	Total	2,248	271,388	828.3
+Los Alamos County, NM (35028)	1979	62	17,645	351.4
+Los Alamos County, NM (35028)	1980	55	17,555	313.3
+Los Alamos County, NM (35028)	1981	59	17,527	336.6
+Los Alamos County, NM (35028)	1982	79	17,757	444.9
+Los Alamos County, NM (35028)	1983	74	17,457	423.9
+Los Alamos County, NM (35028)	1984	59	17,775	331.9
+Los Alamos County, NM (35028)	1985	72	17,891	402.4
+Los Alamos County, NM (35028)	1986	60	18,054	332.3
+Los Alamos County, NM (35028)	1987	95	18,077	525.5
+Los Alamos County, NM (35028)	1988	83	18,050	459.8
+Los Alamos County, NM (35028)	1989	74	18,062	409.7
+Los Alamos County, NM (35028)	1990	99	18,103	546.9
+Los Alamos County, NM (35028)	1991	103	18,105	568.9
+Los Alamos County, NM (35028)	1992	71	18,140	391.4
+Los Alamos County, NM (35028)	1993	93	18,440	504.3
+Los Alamos County, NM (35028)	1994	96	18,643	514.9
+Los Alamos County, NM (35028)	1995	86	18,769	458.2
+Los Alamos County, NM (35028)	1996	94	18,363	511.9
+Los Alamos County, NM (35028)	1997	83	18,422	450.5
+Los Alamos County, NM (35028)	1998	85	18,482	459.9
+Los Alamos County, NM (35028)	Total	1,582	361,317	437.8
+Luna County, NM (35029)	1979	179	15,586	1,148.5
+Luna County, NM (35029)	1980	186	15,604	1,192.0
+Luna County, NM (35029)	1981	171	15,756	1,085.3
+Luna County, NM (35029)	1982	202	16,239	1,243.9
+Luna County, NM (35029)	1983	180	16,411	1,096.8
+Luna County, NM (35029)	1984	185	16,958	1,090.9
+Luna County, NM (35029)	1985	217	17,075	1,270.9
+Luna County, NM (35029)	1986	229	17,079	1,340.8
+Luna County, NM (35029)	1987	224	17,422	1,285.7
+Luna County, NM (35029)	1988	207	17,618	1,174.9
+Luna County, NM (35029)	1989	213	17,985	1,184.3
+Luna County, NM (35029)	1990	241	18,164	1,326.8
+Luna County, NM (35029)	1991	212	19,128	1,108.3
+Luna County, NM (35029)	1992	213	20,116	1,058.9
+Luna County, NM (35029)	1993	220	21,288	1,033.4
+Luna County, NM (35029)	1994	238	22,041	1,079.8
+Luna County, NM (35029)	1995	213	22,835	932.8
+Luna County, NM (35029)	1996	231	23,493	983.3
+Luna County, NM (35029)	1997	267	24,096	1,108.1
+Luna County, NM (35029)	1998	237	24,643	961.7
+Luna County, NM (35029)	Total	4,265	379,537	1,123.7
+McKinley County, NM (35031)	1979	396	56,491	701.0
+McKinley County, NM (35031)	1980	373	56,718	657.6
+McKinley County, NM (35031)	1981	320	56,288	568.5
+McKinley County, NM (35031)	1982	339	57,128	593.4
+McKinley County, NM (35031)	1983	363	57,809	627.9
+McKinley County, NM (35031)	1984	358	58,964	607.2
+McKinley County, NM (35031)	1985	358	61,026	586.6
+McKinley County, NM (35031)	1986	345	61,164	564.1
+McKinley County, NM (35031)	1987	406	61,744	657.6
+McKinley County, NM (35031)	1988	387	60,315	641.6
+McKinley County, NM (35031)	1989	367	60,016	611.5
+McKinley County, NM (35031)	1990	372	60,815	611.7
+McKinley County, NM (35031)	1991	430	63,646	675.6
+McKinley County, NM (35031)	1992	407	66,410	612.9
+McKinley County, NM (35031)	1993	401	66,702	601.2
+McKinley County, NM (35031)	1994	384	68,207	563.0
+McKinley County, NM (35031)	1995	424	70,164	604.3
+McKinley County, NM (35031)	1996	406	71,653	566.6
+McKinley County, NM (35031)	1997	389	72,343	537.7
+McKinley County, NM (35031)	1998	427	73,337	582.2
+McKinley County, NM (35031)	Total	7,652	1,260,940	606.8
+Mora County, NM (35033)	1979	41	4,388	934.4
+Mora County, NM (35033)	1980	34	4,217	806.3
+Mora County, NM (35033)	1981	44	4,269	1,030.7
+Mora County, NM (35033)	1982	42	4,271	983.4
+Mora County, NM (35033)	1983	44	4,417	996.2
+Mora County, NM (35033)	1984	40	4,458	897.3
+Mora County, NM (35033)	1985	31	4,534	683.7
+Mora County, NM (35033)	1986	47	4,453	1,055.5
+Mora County, NM (35033)	1987	39	4,338	899.0
+Mora County, NM (35033)	1988	48	4,309	1,113.9
+Mora County, NM (35033)	1989	33	4,273	772.3
+Mora County, NM (35033)	1990	26	4,259	610.5
+Mora County, NM (35033)	1991	32	4,249	753.1
+Mora County, NM (35033)	1992	41	4,304	952.6
+Mora County, NM (35033)	1993	32	4,407	726.1
+Mora County, NM (35033)	1994	41	4,549	901.3
+Mora County, NM (35033)	1995	48	4,649	1,032.5
+Mora County, NM (35033)	1996	50	4,873	1,026.1
+Mora County, NM (35033)	1997	27	4,912	549.7
+Mora County, NM (35033)	1998	43	4,950	868.7
+Mora County, NM (35033)	Total	783	89,079	879.0
+Otero County, NM (35035)	1979	267	45,485	587.0
+Otero County, NM (35035)	1980	270	44,751	603.3
+Otero County, NM (35035)	1981	247	45,098	547.7
+Otero County, NM (35035)	1982	294	46,214	636.2
+Otero County, NM (35035)	1983	262	48,169	543.9
+Otero County, NM (35035)	1984	275	49,197	559.0
+Otero County, NM (35035)	1985	277	50,437	549.2
+Otero County, NM (35035)	1986	284	51,640	550.0
+Otero County, NM (35035)	1987	348	52,227	666.3
+Otero County, NM (35035)	1988	300	52,540	571.0
+Otero County, NM (35035)	1989	334	52,526	635.9
+Otero County, NM (35035)	1990	309	51,853	595.9
+Otero County, NM (35035)	1991	352	52,946	664.8
+Otero County, NM (35035)	1992	345	53,455	645.4
+Otero County, NM (35035)	1993	367	55,370	662.8
+Otero County, NM (35035)	1994	389	57,639	674.9
+Otero County, NM (35035)	1995	439	59,418	738.8
+Otero County, NM (35035)	1996	391	60,679	644.4
+Otero County, NM (35035)	1997	389	61,454	633.0
+Otero County, NM (35035)	1998	394	61,196	643.8
+Otero County, NM (35035)	Total	6,533	1,052,294	620.8
+Quay County, NM (35037)	1979	124	10,633	1,166.2
+Quay County, NM (35037)	1980	146	10,592	1,378.4
+Quay County, NM (35037)	1981	126	10,453	1,205.4
+Quay County, NM (35037)	1982	113	10,674	1,058.6
+Quay County, NM (35037)	1983	131	10,755	1,218.0
+Quay County, NM (35037)	1984	118	11,516	1,024.7
+Quay County, NM (35037)	1985	116	11,742	987.9
+Quay County, NM (35037)	1986	107	11,567	925.0
+Quay County, NM (35037)	1987	101	11,525	876.4
+Quay County, NM (35037)	1988	132	11,191	1,179.5
+Quay County, NM (35037)	1989	128	10,921	1,172.1
+Quay County, NM (35037)	1990	106	10,813	980.3
+Quay County, NM (35037)	1991	134	10,649	1,258.3
+Quay County, NM (35037)	1992	121	10,646	1,136.6
+Quay County, NM (35037)	1993	109	10,734	1,015.5
+Quay County, NM (35037)	1994	153	10,722	1,427.0
+Quay County, NM (35037)	1995	129	10,621	1,214.6
+Quay County, NM (35037)	1996	108	10,616	1,017.3
+Quay County, NM (35037)	1997	129	10,445	1,235.0
+Quay County, NM (35037)	1998	129	10,435	1,236.2
+Quay County, NM (35037)	Total	2,460	217,250	1,132.3
+Rio Arriba County, NM (35039)	1979	229	29,931	765.1
+Rio Arriba County, NM (35039)	1980	206	29,341	702.1
+Rio Arriba County, NM (35039)	1981	213	29,695	717.3
+Rio Arriba County, NM (35039)	1982	232	30,123	770.2
+Rio Arriba County, NM (35039)	1983	231	30,695	752.6
+Rio Arriba County, NM (35039)	1984	233	31,673	735.6
+Rio Arriba County, NM (35039)	1985	268	32,304	829.6
+Rio Arriba County, NM (35039)	1986	266	32,851	809.7
+Rio Arriba County, NM (35039)	1987	259	33,282	778.2
+Rio Arriba County, NM (35039)	1988	263	33,488	785.4
+Rio Arriba County, NM (35039)	1989	242	33,854	714.8
+Rio Arriba County, NM (35039)	1990	247	34,415	717.7
+Rio Arriba County, NM (35039)	1991	262	34,702	755.0
+Rio Arriba County, NM (35039)	1992	247	35,338	699.0
+Rio Arriba County, NM (35039)	1993	267	36,269	736.2
+Rio Arriba County, NM (35039)	1994	275	37,210	739.0
+Rio Arriba County, NM (35039)	1995	274	38,210	717.1
+Rio Arriba County, NM (35039)	1996	297	39,179	758.1
+Rio Arriba County, NM (35039)	1997	304	39,631	767.1
+Rio Arriba County, NM (35039)	1998	291	40,192	724.0
+Rio Arriba County, NM (35039)	Total	5,106	682,383	748.3
+Roosevelt County, NM (35041)	1979	150	15,715	954.5
+Roosevelt County, NM (35041)	1980	159	15,724	1,011.2
+Roosevelt County, NM (35041)	1981	139	15,644	888.5
+Roosevelt County, NM (35041)	1982	116	16,142	718.6
+Roosevelt County, NM (35041)	1983	124	16,526	750.3
+Roosevelt County, NM (35041)	1984	155	16,566	935.7
+Roosevelt County, NM (35041)	1985	118	16,650	708.7
+Roosevelt County, NM (35041)	1986	136	16,939	802.9
+Roosevelt County, NM (35041)	1987	149	16,703	892.1
+Roosevelt County, NM (35041)	1988	132	16,693	790.8
+Roosevelt County, NM (35041)	1989	134	16,507	811.8
+Roosevelt County, NM (35041)	1990	145	16,702	868.2
+Roosevelt County, NM (35041)	1991	127	17,308	733.8
+Roosevelt County, NM (35041)	1992	129	17,690	729.2
+Roosevelt County, NM (35041)	1993	138	17,958	768.5
+Roosevelt County, NM (35041)	1994	135	18,991	710.9
+Roosevelt County, NM (35041)	1995	131	18,954	691.1
+Roosevelt County, NM (35041)	1996	129	18,885	683.1
+Roosevelt County, NM (35041)	1997	115	18,731	614.0
+Roosevelt County, NM (35041)	1998	126	18,492	681.4
+Roosevelt County, NM (35041)	Total	2,687	343,520	782.2
+Sandoval County, NM (35043)	1979	193	34,039	567.0
+Sandoval County, NM (35043)	1980	243	34,854	697.2
+Sandoval County, NM (35043)	1981	224	35,752	626.5
+Sandoval County, NM (35043)	1982	229	37,427	611.9
+Sandoval County, NM (35043)	1983	232	38,944	595.7
+Sandoval County, NM (35043)	1984	300	42,636	703.6
+Sandoval County, NM (35043)	1985	316	46,910	673.6
+Sandoval County, NM (35043)	1986	317	50,928	622.4
+Sandoval County, NM (35043)	1987	338	55,532	608.7
+Sandoval County, NM (35043)	1988	321	59,013	543.9
+Sandoval County, NM (35043)	1989	331	61,088	541.8
+Sandoval County, NM (35043)	1990	368	63,265	581.7
+Sandoval County, NM (35043)	1991	423	65,864	642.2
+Sandoval County, NM (35043)	1992	364	68,233	533.5
+Sandoval County, NM (35043)	1993	465	71,578	649.6
+Sandoval County, NM (35043)	1994	432	75,269	573.9
+Sandoval County, NM (35043)	1995	473	78,740	600.7
+Sandoval County, NM (35043)	1996	453	81,840	553.5
+Sandoval County, NM (35043)	1997	500	84,443	592.1
+Sandoval County, NM (35043)	1998	526	86,228	610.0
+Sandoval County, NM (35043)	Total	7,048	1,172,583	601.1
+San Juan County, NM (35045)	1979	419	79,290	528.4
+San Juan County, NM (35045)	1980	444	82,003	541.4
+San Juan County, NM (35045)	1981	424	86,213	491.8
+San Juan County, NM (35045)	1982	497	89,251	556.9
+San Juan County, NM (35045)	1983	458	90,900	503.9
+San Juan County, NM (35045)	1984	463	91,461	506.2
+San Juan County, NM (35045)	1985	432	91,786	470.7
+San Juan County, NM (35045)	1986	499	93,635	532.9
+San Juan County, NM (35045)	1987	485	92,233	525.8
+San Juan County, NM (35045)	1988	502	91,970	545.8
+San Juan County, NM (35045)	1989	541	92,425	585.3
+San Juan County, NM (35045)	1990	541	91,647	590.3
+San Juan County, NM (35045)	1991	534	93,712	569.8
+San Juan County, NM (35045)	1992	547	95,204	574.6
+San Juan County, NM (35045)	1993	594	97,798	607.4
+San Juan County, NM (35045)	1994	551	100,086	550.5
+San Juan County, NM (35045)	1995	612	101,335	603.9
+San Juan County, NM (35045)	1996	649	104,031	623.9
+San Juan County, NM (35045)	1997	607	105,666	574.5
+San Juan County, NM (35045)	1998	686	108,695	631.1
+San Juan County, NM (35045)	Total	10,485	1,879,341	557.9
+San Miguel County, NM (35047)	1979	202	22,685	890.5
+San Miguel County, NM (35047)	1980	181	22,846	792.3
+San Miguel County, NM (35047)	1981	179	23,114	774.4
+San Miguel County, NM (35047)	1982	209	23,226	899.9
+San Miguel County, NM (35047)	1983	173	24,011	720.5
+San Miguel County, NM (35047)	1984	183	24,778	738.6
+San Miguel County, NM (35047)	1985	187	25,353	737.6
+San Miguel County, NM (35047)	1986	219	25,553	857.0
+San Miguel County, NM (35047)	1987	199	25,557	778.7
+San Miguel County, NM (35047)	1988	195	25,686	759.2
+San Miguel County, NM (35047)	1989	207	25,511	811.4
+San Miguel County, NM (35047)	1990	217	25,700	844.4
+San Miguel County, NM (35047)	1991	229	26,327	869.8
+San Miguel County, NM (35047)	1992	217	26,958	805.0
+San Miguel County, NM (35047)	1993	226	27,579	819.5
+San Miguel County, NM (35047)	1994	217	28,355	765.3
+San Miguel County, NM (35047)	1995	221	29,208	756.6
+San Miguel County, NM (35047)	1996	225	29,834	754.2
+San Miguel County, NM (35047)	1997	251	29,899	839.5
+San Miguel County, NM (35047)	1998	260	30,074	864.5
+San Miguel County, NM (35047)	Total	4,197	522,254	803.6
+Santa Fe County, NM (35049)	1979	450	75,472	596.2
+Santa Fe County, NM (35049)	1980	508	75,439	673.4
+Santa Fe County, NM (35049)	1981	467	77,247	604.6
+Santa Fe County, NM (35049)	1982	496	80,033	619.7
+Santa Fe County, NM (35049)	1983	512	82,269	622.3
+Santa Fe County, NM (35049)	1984	503	84,153	597.7
+Santa Fe County, NM (35049)	1985	503	85,741	586.7
+Santa Fe County, NM (35049)	1986	530	89,200	594.2
+Santa Fe County, NM (35049)	1987	600	92,334	649.8
+Santa Fe County, NM (35049)	1988	595	94,534	629.4
+Santa Fe County, NM (35049)	1989	626	96,948	645.7
+Santa Fe County, NM (35049)	1990	603	98,915	609.6
+Santa Fe County, NM (35049)	1991	644	102,529	628.1
+Santa Fe County, NM (35049)	1992	662	105,963	624.7
+Santa Fe County, NM (35049)	1993	727	109,761	662.3
+Santa Fe County, NM (35049)	1994	732	113,856	642.9
+Santa Fe County, NM (35049)	1995	773	118,334	653.2
+Santa Fe County, NM (35049)	1996	749	120,993	619.0
+Santa Fe County, NM (35049)	1997	722	124,082	581.9
+Santa Fe County, NM (35049)	1998	787	125,851	625.3
+Santa Fe County, NM (35049)	Total	12,189	1,953,654	623.9
+Sierra County, NM (35051)	1979	129	8,482	1,520.9
+Sierra County, NM (35051)	1980	174	8,470	2,054.3
+Sierra County, NM (35051)	1981	151	8,806	1,714.7
+Sierra County, NM (35051)	1982	147	8,946	1,643.2
+Sierra County, NM (35051)	1983	148	8,947	1,654.2
+Sierra County, NM (35051)	1984	164	9,135	1,795.3
+Sierra County, NM (35051)	1985	162	9,184	1,763.9
+Sierra County, NM (35051)	1986	162	9,276	1,746.4
+Sierra County, NM (35051)	1987	172	9,445	1,821.1
+Sierra County, NM (35051)	1988	182	9,471	1,921.7
+Sierra County, NM (35051)	1989	202	9,685	2,085.7
+Sierra County, NM (35051)	1990	208	9,888	2,103.6
+Sierra County, NM (35051)	1991	203	10,313	1,968.4
+Sierra County, NM (35051)	1992	204	10,392	1,963.0
+Sierra County, NM (35051)	1993	218	11,008	1,980.4
+Sierra County, NM (35051)	1994	206	11,457	1,798.0
+Sierra County, NM (35051)	1995	195	11,754	1,659.0
+Sierra County, NM (35051)	1996	205	12,238	1,675.1
+Sierra County, NM (35051)	1997	226	12,523	1,804.7
+Sierra County, NM (35051)	1998	231	12,789	1,806.2
+Sierra County, NM (35051)	Total	3,689	202,209	1,824.4
+Socorro County, NM (35053)	1979	81	13,064	620.0
+Socorro County, NM (35053)	1980	94	12,574	747.6
+Socorro County, NM (35053)	1981	98	13,323	735.6
+Socorro County, NM (35053)	1982	94	13,483	697.2
+Socorro County, NM (35053)	1983	83	13,731	604.5
+Socorro County, NM (35053)	1984	92	13,840	664.7
+Socorro County, NM (35053)	1985	65	14,071	461.9
+Socorro County, NM (35053)	1986	98	14,412	680.0
+Socorro County, NM (35053)	1987	118	14,407	819.0
+Socorro County, NM (35053)	1988	111	14,784	750.8
+Socorro County, NM (35053)	1989	120	14,794	811.1
+Socorro County, NM (35053)	1990	105	14,768	711.0
+Socorro County, NM (35053)	1991	128	14,902	858.9
+Socorro County, NM (35053)	1992	120	15,380	780.2
+Socorro County, NM (35053)	1993	122	15,761	774.1
+Socorro County, NM (35053)	1994	111	16,289	681.4
+Socorro County, NM (35053)	1995	117	16,661	702.2
+Socorro County, NM (35053)	1996	149	17,167	867.9
+Socorro County, NM (35053)	1997	121	17,340	697.8
+Socorro County, NM (35053)	1998	125	17,561	711.8
+Socorro County, NM (35053)	Total	2,152	298,312	721.4
+Taos County, NM (35055)	1979	135	18,716	721.3
+Taos County, NM (35055)	1980	125	19,571	638.7
+Taos County, NM (35055)	1981	138	20,001	690.0
+Taos County, NM (35055)	1982	141	20,760	679.2
+Taos County, NM (35055)	1983	146	21,434	681.2
+Taos County, NM (35055)	1984	161	22,368	719.8
+Taos County, NM (35055)	1985	151	22,610	667.8
+Taos County, NM (35055)	1986	141	22,783	618.9
+Taos County, NM (35055)	1987	148	22,553	656.2
+Taos County, NM (35055)	1988	153	22,679	674.6
+Taos County, NM (35055)	1989	172	22,758	755.8
+Taos County, NM (35055)	1990	148	23,102	640.6
+Taos County, NM (35055)	1991	162	23,911	677.5
+Taos County, NM (35055)	1992	174	24,588	707.7
+Taos County, NM (35055)	1993	180	25,251	712.8
+Taos County, NM (35055)	1994	212	25,888	818.9
+Taos County, NM (35055)	1995	175	26,607	657.7
+Taos County, NM (35055)	1996	197	27,402	718.9
+Taos County, NM (35055)	1997	202	28,318	713.3
+Taos County, NM (35055)	1998	179	28,828	620.9
+Taos County, NM (35055)	Total	3,240	470,128	689.2
+Torrance County, NM (35057)	1979	42	7,209	582.6
+Torrance County, NM (35057)	1980	58	7,513	772.0
+Torrance County, NM (35057)	1981	55	7,553	728.2
+Torrance County, NM (35057)	1982	58	7,869	737.1
+Torrance County, NM (35057)	1983	61	8,044	758.3
+Torrance County, NM (35057)	1984	64	8,270	773.9
+Torrance County, NM (35057)	1985	69	8,514	810.4
+Torrance County, NM (35057)	1986	75	8,985	834.7
+Torrance County, NM (35057)	1987	70	9,706	721.2
+Torrance County, NM (35057)	1988	74	9,931	745.1
+Torrance County, NM (35057)	1989	74	10,203	725.3
+Torrance County, NM (35057)	1990	69	10,263	672.3
+Torrance County, NM (35057)	1991	80	10,810	740.1
+Torrance County, NM (35057)	1992	86	11,026	780.0
+Torrance County, NM (35057)	1993	101	11,573	872.7
+Torrance County, NM (35057)	1994	100	12,243	816.8
+Torrance County, NM (35057)	1995	86	13,371	643.2
+Torrance County, NM (35057)	1996	105	14,324	733.0
+Torrance County, NM (35057)	1997	89	15,328	580.6
+Torrance County, NM (35057)	1998	88	16,155	544.7
+Torrance County, NM (35057)	Total	1,504	208,890	720.0
+Union County, NM (35059)	1979	74	4,851	1,525.5
+Union County, NM (35059)	1980	64	4,730	1,353.1
+Union County, NM (35059)	1981	65	4,834	1,344.6
+Union County, NM (35059)	1982	42	5,227	803.5
+Union County, NM (35059)	1983	54	5,120	1,054.7
+Union County, NM (35059)	1984	52	5,092	1,021.2
+Union County, NM (35059)	1985	60	4,916	1,220.5
+Union County, NM (35059)	1986	60	4,840	1,239.7
+Union County, NM (35059)	1987	58	4,558	1,272.5
+Union County, NM (35059)	1988	48	4,442	1,080.6
+Union County, NM (35059)	1989	57	4,225	1,349.1
+Union County, NM (35059)	1990	51	4,138	1,232.5
+Union County, NM (35059)	1991	50	4,151	1,204.5
+Union County, NM (35059)	1992	60	4,117	1,457.4
+Union County, NM (35059)	1993	60	4,144	1,447.9
+Union County, NM (35059)	1994	45	4,258	1,056.8
+Union County, NM (35059)	1995	51	4,322	1,180.0
+Union County, NM (35059)	1996	51	4,279	1,191.9
+Union County, NM (35059)	1997	46	4,248	1,082.9
+Union County, NM (35059)	1998	54	4,215	1,281.1
+Union County, NM (35059)	Total	1,102	90,707	1,214.9
+Valencia County, NM (35061) †	1979	393	56,434	696.4
+Valencia County, NM (35061) †	1980	371	61,210	606.1
+Valencia County, NM (35061) †	1981	352	61,099	576.1
+Valencia County, NM (35061) †	1982	406	60,610	669.9
+Valencia County, NM (35061) †	1983	351	60,004	585.0
+Valencia County, NM (35061) †	1984	393	59,949	655.6
+Valencia County, NM (35061) †	1985	397	60,911	651.8
+Valencia County, NM (35061) †	1986	442	62,420	708.1
+Valencia County, NM (35061) †	1987	471	64,127	734.5
+Valencia County, NM (35061) †	1988	520	65,744	790.9
+Valencia County, NM (35061) †	1989	319	43,912	726.5
+Valencia County, NM (35061) †	1990	287	45,176	635.3
+Valencia County, NM (35061) †	1991	351	46,564	753.8
+Valencia County, NM (35061) †	1992	310	48,128	644.1
+Valencia County, NM (35061) †	1993	353	50,724	695.9
+Valencia County, NM (35061) †	1994	353	53,252	662.9
+Valencia County, NM (35061) †	1995	390	57,072	683.3
+Valencia County, NM (35061) †	1996	431	59,812	720.6
+Valencia County, NM (35061) †	1997	416	61,948	671.5
+Valencia County, NM (35061) †	1998	405	63,676	636.0
+Valencia County, NM (35061) †	Total	7,711	1,142,772	674.8
+Total		213,243	30,515,812	698.8

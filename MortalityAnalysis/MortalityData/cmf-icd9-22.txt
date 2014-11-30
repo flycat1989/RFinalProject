@@ -1,0 +1,1354 @@
+
+                        
+                      	Year	
+                        
+                      	
+                        
+                      	
+                        
+                      
+Acadia Parish, LA (22001)	1979	527	55,561	948.5
+Acadia Parish, LA (22001)	1980	539	56,536	953.4
+Acadia Parish, LA (22001)	1981	532	57,467	925.7
+Acadia Parish, LA (22001)	1982	505	58,705	860.2
+Acadia Parish, LA (22001)	1983	543	59,159	917.9
+Acadia Parish, LA (22001)	1984	567	58,817	964.0
+Acadia Parish, LA (22001)	1985	575	59,016	974.3
+Acadia Parish, LA (22001)	1986	542	59,122	916.7
+Acadia Parish, LA (22001)	1987	564	58,254	968.2
+Acadia Parish, LA (22001)	1988	591	57,334	1,030.8
+Acadia Parish, LA (22001)	1989	529	56,807	931.2
+Acadia Parish, LA (22001)	1990	505	55,932	902.9
+Acadia Parish, LA (22001)	1991	555	56,253	986.6
+Acadia Parish, LA (22001)	1992	507	56,350	899.7
+Acadia Parish, LA (22001)	1993	594	56,856	1,044.7
+Acadia Parish, LA (22001)	1994	550	56,989	965.1
+Acadia Parish, LA (22001)	1995	629	57,473	1,094.4
+Acadia Parish, LA (22001)	1996	568	58,072	978.1
+Acadia Parish, LA (22001)	1997	603	58,263	1,035.0
+Acadia Parish, LA (22001)	1998	560	58,484	957.5
+Acadia Parish, LA (22001)	Total	11,085	1,151,450	962.7
+Allen Parish, LA (22003)	1979	221	21,131	1,045.9
+Allen Parish, LA (22003)	1980	236	21,420	1,101.8
+Allen Parish, LA (22003)	1981	231	21,296	1,084.7
+Allen Parish, LA (22003)	1982	235	21,704	1,082.7
+Allen Parish, LA (22003)	1983	208	21,685	959.2
+Allen Parish, LA (22003)	1984	229	21,530	1,063.6
+Allen Parish, LA (22003)	1985	237	21,545	1,100.0
+Allen Parish, LA (22003)	1986	221	21,618	1,022.3
+Allen Parish, LA (22003)	1987	230	22,564	1,019.3
+Allen Parish, LA (22003)	1988	229	21,190	1,080.7
+Allen Parish, LA (22003)	1989	227	21,379	1,061.8
+Allen Parish, LA (22003)	1990	226	21,253	1,063.4
+Allen Parish, LA (22003)	1991	222	21,994	1,009.4
+Allen Parish, LA (22003)	1992	221	22,809	968.9
+Allen Parish, LA (22003)	1993	260	23,521	1,105.4
+Allen Parish, LA (22003)	1994	244	23,794	1,025.5
+Allen Parish, LA (22003)	1995	245	24,243	1,010.6
+Allen Parish, LA (22003)	1996	228	24,714	922.6
+Allen Parish, LA (22003)	1997	232	24,605	942.9
+Allen Parish, LA (22003)	1998	236	25,104	940.1
+Allen Parish, LA (22003)	Total	4,618	449,099	1,028.3
+Ascension Parish, LA (22005)	1979	325	48,335	672.4
+Ascension Parish, LA (22005)	1980	323	50,105	644.6
+Ascension Parish, LA (22005)	1981	313	51,864	603.5
+Ascension Parish, LA (22005)	1982	337	53,126	634.3
+Ascension Parish, LA (22005)	1983	375	55,249	678.7
+Ascension Parish, LA (22005)	1984	350	57,365	610.1
+Ascension Parish, LA (22005)	1985	384	58,018	661.9
+Ascension Parish, LA (22005)	1986	362	58,711	616.6
+Ascension Parish, LA (22005)	1987	384	58,597	655.3
+Ascension Parish, LA (22005)	1988	363	57,231	634.3
+Ascension Parish, LA (22005)	1989	333	57,573	578.4
+Ascension Parish, LA (22005)	1990	415	58,223	712.8
+Ascension Parish, LA (22005)	1991	396	59,538	665.1
+Ascension Parish, LA (22005)	1992	408	60,838	670.6
+Ascension Parish, LA (22005)	1993	434	62,313	696.5
+Ascension Parish, LA (22005)	1994	425	64,268	661.3
+Ascension Parish, LA (22005)	1995	452	66,193	682.9
+Ascension Parish, LA (22005)	1996	468	68,147	686.8
+Ascension Parish, LA (22005)	1997	468	70,529	663.6
+Ascension Parish, LA (22005)	1998	486	72,284	672.3
+Ascension Parish, LA (22005)	Total	7,801	1,188,507	656.4
+Assumption Parish, LA (22007)	1979	181	21,745	832.4
+Assumption Parish, LA (22007)	1980	175	22,130	790.8
+Assumption Parish, LA (22007)	1981	166	22,772	729.0
+Assumption Parish, LA (22007)	1982	202	23,612	855.5
+Assumption Parish, LA (22007)	1983	206	23,775	866.5
+Assumption Parish, LA (22007)	1984	164	23,524	697.2
+Assumption Parish, LA (22007)	1985	183	23,579	776.1
+Assumption Parish, LA (22007)	1986	168	23,530	714.0
+Assumption Parish, LA (22007)	1987	192	22,998	834.9
+Assumption Parish, LA (22007)	1988	186	22,769	816.9
+Assumption Parish, LA (22007)	1989	203	22,923	885.6
+Assumption Parish, LA (22007)	1990	186	22,701	819.3
+Assumption Parish, LA (22007)	1991	183	22,653	807.8
+Assumption Parish, LA (22007)	1992	201	22,649	887.5
+Assumption Parish, LA (22007)	1993	210	22,666	926.5
+Assumption Parish, LA (22007)	1994	207	22,677	912.8
+Assumption Parish, LA (22007)	1995	178	22,878	778.0
+Assumption Parish, LA (22007)	1996	174	22,843	761.7
+Assumption Parish, LA (22007)	1997	198	22,979	861.7
+Assumption Parish, LA (22007)	1998	195	23,168	841.7
+Assumption Parish, LA (22007)	Total	3,758	458,571	819.5
+Avoyelles Parish, LA (22009)	1979	399	41,364	964.6
+Avoyelles Parish, LA (22009)	1980	418	41,450	1,008.4
+Avoyelles Parish, LA (22009)	1981	458	41,514	1,103.2
+Avoyelles Parish, LA (22009)	1982	447	42,157	1,060.3
+Avoyelles Parish, LA (22009)	1983	452	42,249	1,069.8
+Avoyelles Parish, LA (22009)	1984	434	42,241	1,027.4
+Avoyelles Parish, LA (22009)	1985	458	42,141	1,086.8
+Avoyelles Parish, LA (22009)	1986	483	42,137	1,146.3
+Avoyelles Parish, LA (22009)	1987	453	41,386	1,094.6
+Avoyelles Parish, LA (22009)	1988	391	40,443	966.8
+Avoyelles Parish, LA (22009)	1989	437	39,655	1,102.0
+Avoyelles Parish, LA (22009)	1990	413	39,172	1,054.3
+Avoyelles Parish, LA (22009)	1991	435	39,100	1,112.5
+Avoyelles Parish, LA (22009)	1992	438	39,285	1,114.9
+Avoyelles Parish, LA (22009)	1993	486	39,840	1,219.9
+Avoyelles Parish, LA (22009)	1994	419	39,976	1,048.1
+Avoyelles Parish, LA (22009)	1995	465	40,433	1,150.1
+Avoyelles Parish, LA (22009)	1996	457	40,837	1,119.1
+Avoyelles Parish, LA (22009)	1997	497	41,099	1,209.3
+Avoyelles Parish, LA (22009)	1998	447	41,253	1,083.6
+Avoyelles Parish, LA (22009)	Total	8,887	817,732	1,086.8
+Beauregard Parish, LA (22011)	1979	247	29,349	841.6
+Beauregard Parish, LA (22011)	1980	248	29,725	834.3
+Beauregard Parish, LA (22011)	1981	229	30,346	754.6
+Beauregard Parish, LA (22011)	1982	226	30,804	733.7
+Beauregard Parish, LA (22011)	1983	291	31,332	928.8
+Beauregard Parish, LA (22011)	1984	278	31,531	881.7
+Beauregard Parish, LA (22011)	1985	270	31,732	850.9
+Beauregard Parish, LA (22011)	1986	273	31,696	861.3
+Beauregard Parish, LA (22011)	1987	280	31,862	878.8
+Beauregard Parish, LA (22011)	1988	263	31,082	846.1
+Beauregard Parish, LA (22011)	1989	262	30,479	859.6
+Beauregard Parish, LA (22011)	1990	271	30,139	899.2
+Beauregard Parish, LA (22011)	1991	271	30,841	878.7
+Beauregard Parish, LA (22011)	1992	270	31,183	865.9
+Beauregard Parish, LA (22011)	1993	269	31,421	856.1
+Beauregard Parish, LA (22011)	1994	294	31,573	931.2
+Beauregard Parish, LA (22011)	1995	294	31,796	924.6
+Beauregard Parish, LA (22011)	1996	290	31,905	908.9
+Beauregard Parish, LA (22011)	1997	286	32,178	888.8
+Beauregard Parish, LA (22011)	1998	317	32,361	979.6
+Beauregard Parish, LA (22011)	Total	5,429	623,335	871.0
+Bienville Parish, LA (22013)	1979	222	16,315	1,360.7
+Bienville Parish, LA (22013)	1980	180	16,447	1,094.4
+Bienville Parish, LA (22013)	1981	189	16,525	1,143.7
+Bienville Parish, LA (22013)	1982	194	16,397	1,183.1
+Bienville Parish, LA (22013)	1983	221	16,571	1,333.7
+Bienville Parish, LA (22013)	1984	190	16,504	1,151.2
+Bienville Parish, LA (22013)	1985	201	16,743	1,200.5
+Bienville Parish, LA (22013)	1986	216	16,757	1,289.0
+Bienville Parish, LA (22013)	1987	242	16,719	1,447.5
+Bienville Parish, LA (22013)	1988	203	16,356	1,241.1
+Bienville Parish, LA (22013)	1989	225	16,191	1,389.7
+Bienville Parish, LA (22013)	1990	197	15,981	1,232.7
+Bienville Parish, LA (22013)	1991	206	16,180	1,273.2
+Bienville Parish, LA (22013)	1992	210	16,090	1,305.2
+Bienville Parish, LA (22013)	1993	228	16,187	1,408.5
+Bienville Parish, LA (22013)	1994	203	16,236	1,250.3
+Bienville Parish, LA (22013)	1995	211	16,004	1,318.4
+Bienville Parish, LA (22013)	1996	187	15,984	1,169.9
+Bienville Parish, LA (22013)	1997	229	15,964	1,434.5
+Bienville Parish, LA (22013)	1998	215	15,888	1,353.2
+Bienville Parish, LA (22013)	Total	4,169	326,039	1,278.7
+Bossier Parish, LA (22015)	1979	466	79,628	585.2
+Bossier Parish, LA (22015)	1980	559	80,847	691.4
+Bossier Parish, LA (22015)	1981	538	83,475	644.5
+Bossier Parish, LA (22015)	1982	515	86,161	597.7
+Bossier Parish, LA (22015)	1983	529	87,026	607.9
+Bossier Parish, LA (22015)	1984	526	87,591	600.5
+Bossier Parish, LA (22015)	1985	536	88,340	606.7
+Bossier Parish, LA (22015)	1986	549	89,415	614.0
+Bossier Parish, LA (22015)	1987	604	88,711	680.9
+Bossier Parish, LA (22015)	1988	555	87,323	635.6
+Bossier Parish, LA (22015)	1989	593	87,593	677.0
+Bossier Parish, LA (22015)	1990	609	86,033	707.9
+Bossier Parish, LA (22015)	1991	636	86,355	736.5
+Bossier Parish, LA (22015)	1992	594	86,969	683.0
+Bossier Parish, LA (22015)	1993	650	88,799	732.0
+Bossier Parish, LA (22015)	1994	654	90,556	722.2
+Bossier Parish, LA (22015)	1995	683	92,583	737.7
+Bossier Parish, LA (22015)	1996	675	94,621	713.4
+Bossier Parish, LA (22015)	1997	683	96,589	707.1
+Bossier Parish, LA (22015)	1998	720	95,800	751.6
+Bossier Parish, LA (22015)	Total	11,874	1,764,415	673.0
+Caddo Parish, LA (22017)	1979	2,464	250,383	984.1
+Caddo Parish, LA (22017)	1980	2,477	253,147	978.5
+Caddo Parish, LA (22017)	1981	2,447	255,346	958.3
+Caddo Parish, LA (22017)	1982	2,520	258,596	974.5
+Caddo Parish, LA (22017)	1983	2,495	260,614	957.4
+Caddo Parish, LA (22017)	1984	2,495	261,629	953.6
+Caddo Parish, LA (22017)	1985	2,549	263,877	966.0
+Caddo Parish, LA (22017)	1986	2,582	264,899	974.7
+Caddo Parish, LA (22017)	1987	2,491	261,285	953.4
+Caddo Parish, LA (22017)	1988	2,536	257,564	984.6
+Caddo Parish, LA (22017)	1989	2,499	253,143	987.2
+Caddo Parish, LA (22017)	1990	2,547	248,541	1,024.8
+Caddo Parish, LA (22017)	1991	2,524	247,256	1,020.8
+Caddo Parish, LA (22017)	1992	2,514	249,245	1,008.6
+Caddo Parish, LA (22017)	1993	2,589	250,418	1,033.9
+Caddo Parish, LA (22017)	1994	2,648	250,732	1,056.1
+Caddo Parish, LA (22017)	1995	2,615	251,949	1,037.9
+Caddo Parish, LA (22017)	1996	2,556	251,929	1,014.6
+Caddo Parish, LA (22017)	1997	2,622	252,250	1,039.4
+Caddo Parish, LA (22017)	1998	2,600	251,905	1,032.1
+Caddo Parish, LA (22017)	Total	50,770	5,094,708	996.5
+Calcasieu Parish, LA (22019)	1979	1,319	163,576	806.4
+Calcasieu Parish, LA (22019)	1980	1,311	167,740	781.6
+Calcasieu Parish, LA (22019)	1981	1,314	171,522	766.1
+Calcasieu Parish, LA (22019)	1982	1,233	174,536	706.4
+Calcasieu Parish, LA (22019)	1983	1,354	174,831	774.5
+Calcasieu Parish, LA (22019)	1984	1,350	174,248	774.8
+Calcasieu Parish, LA (22019)	1985	1,438	173,068	830.9
+Calcasieu Parish, LA (22019)	1986	1,358	171,287	792.8
+Calcasieu Parish, LA (22019)	1987	1,406	170,329	825.5
+Calcasieu Parish, LA (22019)	1988	1,431	169,286	845.3
+Calcasieu Parish, LA (22019)	1989	1,525	168,387	905.7
+Calcasieu Parish, LA (22019)	1990	1,408	168,141	837.4
+Calcasieu Parish, LA (22019)	1991	1,495	170,195	878.4
+Calcasieu Parish, LA (22019)	1992	1,449	171,487	845.0
+Calcasieu Parish, LA (22019)	1993	1,590	172,956	919.3
+Calcasieu Parish, LA (22019)	1994	1,538	175,047	878.6
+Calcasieu Parish, LA (22019)	1995	1,499	177,353	845.2
+Calcasieu Parish, LA (22019)	1996	1,580	180,185	876.9
+Calcasieu Parish, LA (22019)	1997	1,638	181,532	902.3
+Calcasieu Parish, LA (22019)	1998	1,590	182,674	870.4
+Calcasieu Parish, LA (22019)	Total	28,826	3,458,380	833.5
+Caldwell Parish, LA (22021)	1979	113	10,403	1,086.2
+Caldwell Parish, LA (22021)	1980	106	10,744	986.6
+Caldwell Parish, LA (22021)	1981	117	10,734	1,090.0
+Caldwell Parish, LA (22021)	1982	111	10,683	1,039.0
+Caldwell Parish, LA (22021)	1983	94	10,676	880.5
+Caldwell Parish, LA (22021)	1984	110	10,649	1,033.0
+Caldwell Parish, LA (22021)	1985	125	10,707	1,167.5
+Caldwell Parish, LA (22021)	1986	110	10,772	1,021.2
+Caldwell Parish, LA (22021)	1987	108	10,510	1,027.6
+Caldwell Parish, LA (22021)	1988	105	10,207	1,028.7
+Caldwell Parish, LA (22021)	1989	131	10,002	1,309.7
+Caldwell Parish, LA (22021)	1990	93	9,795	949.5
+Caldwell Parish, LA (22021)	1991	115	9,799	1,173.6
+Caldwell Parish, LA (22021)	1992	142	9,880	1,437.2
+Caldwell Parish, LA (22021)	1993	132	10,034	1,315.5
+Caldwell Parish, LA (22021)	1994	120	10,157	1,181.5
+Caldwell Parish, LA (22021)	1995	117	10,233	1,143.4
+Caldwell Parish, LA (22021)	1996	123	10,264	1,198.4
+Caldwell Parish, LA (22021)	1997	161	10,436	1,542.7
+Caldwell Parish, LA (22021)	1998	133	10,461	1,271.4
+Caldwell Parish, LA (22021)	Total	2,366	207,146	1,142.2
+Cameron Parish, LA (22023)	1979	86	8,927	963.4
+Cameron Parish, LA (22023)	1980	60	9,350	641.7
+Cameron Parish, LA (22023)	1981	80	9,656	828.5
+Cameron Parish, LA (22023)	1982	61	9,907	615.7
+Cameron Parish, LA (22023)	1983	63	10,155	620.4
+Cameron Parish, LA (22023)	1984	71	10,149	699.6
+Cameron Parish, LA (22023)	1985	74	10,004	739.7
+Cameron Parish, LA (22023)	1986	54	9,882	546.4
+Cameron Parish, LA (22023)	1987	56	9,694	577.7
+Cameron Parish, LA (22023)	1988	75	9,705	772.8
+Cameron Parish, LA (22023)	1989	61	9,421	647.5
+Cameron Parish, LA (22023)	1990	61	9,249	659.5
+Cameron Parish, LA (22023)	1991	61	9,316	654.8
+Cameron Parish, LA (22023)	1992	61	9,267	658.2
+Cameron Parish, LA (22023)	1993	71	9,251	767.5
+Cameron Parish, LA (22023)	1994	74	9,272	798.1
+Cameron Parish, LA (22023)	1995	72	9,285	775.4
+Cameron Parish, LA (22023)	1996	70	9,297	752.9
+Cameron Parish, LA (22023)	1997	70	9,640	726.1
+Cameron Parish, LA (22023)	1998	65	9,864	659.0
+Cameron Parish, LA (22023)	Total	1,346	191,291	703.6
+Catahoula Parish, LA (22025)	1979	151	12,154	1,242.4
+Catahoula Parish, LA (22025)	1980	130	12,299	1,057.0
+Catahoula Parish, LA (22025)	1981	125	12,205	1,024.2
+Catahoula Parish, LA (22025)	1982	99	12,147	815.0
+Catahoula Parish, LA (22025)	1983	118	12,179	968.9
+Catahoula Parish, LA (22025)	1984	117	12,193	959.6
+Catahoula Parish, LA (22025)	1985	119	12,117	982.1
+Catahoula Parish, LA (22025)	1986	129	11,883	1,085.6
+Catahoula Parish, LA (22025)	1987	115	11,672	985.3
+Catahoula Parish, LA (22025)	1988	109	11,355	959.9
+Catahoula Parish, LA (22025)	1989	125	11,288	1,107.4
+Catahoula Parish, LA (22025)	1990	104	11,037	942.3
+Catahoula Parish, LA (22025)	1991	136	11,129	1,222.0
+Catahoula Parish, LA (22025)	1992	119	11,111	1,071.0
+Catahoula Parish, LA (22025)	1993	103	11,182	921.1
+Catahoula Parish, LA (22025)	1994	121	11,109	1,089.2
+Catahoula Parish, LA (22025)	1995	114	11,110	1,026.1
+Catahoula Parish, LA (22025)	1996	134	11,097	1,207.5
+Catahoula Parish, LA (22025)	1997	122	11,020	1,107.1
+Catahoula Parish, LA (22025)	1998	115	11,073	1,038.6
+Catahoula Parish, LA (22025)	Total	2,405	231,360	1,039.5
+Claiborne Parish, LA (22027)	1979	204	17,211	1,185.3
+Claiborne Parish, LA (22027)	1980	187	17,139	1,091.1
+Claiborne Parish, LA (22027)	1981	220	17,906	1,228.6
+Claiborne Parish, LA (22027)	1982	232	18,179	1,276.2
+Claiborne Parish, LA (22027)	1983	246	18,097	1,359.3
+Claiborne Parish, LA (22027)	1984	210	18,272	1,149.3
+Claiborne Parish, LA (22027)	1985	227	18,046	1,257.9
+Claiborne Parish, LA (22027)	1986	222	17,917	1,239.0
+Claiborne Parish, LA (22027)	1987	204	18,029	1,131.5
+Claiborne Parish, LA (22027)	1988	213	17,926	1,188.2
+Claiborne Parish, LA (22027)	1989	239	17,587	1,359.0
+Claiborne Parish, LA (22027)	1990	219	17,393	1,259.1
+Claiborne Parish, LA (22027)	1991	236	17,313	1,363.1
+Claiborne Parish, LA (22027)	1992	207	17,301	1,196.5
+Claiborne Parish, LA (22027)	1993	236	17,236	1,369.2
+Claiborne Parish, LA (22027)	1994	214	17,318	1,235.7
+Claiborne Parish, LA (22027)	1995	217	17,245	1,258.3
+Claiborne Parish, LA (22027)	1996	190	17,026	1,115.9
+Claiborne Parish, LA (22027)	1997	207	17,018	1,216.4
+Claiborne Parish, LA (22027)	1998	210	17,009	1,234.6
+Claiborne Parish, LA (22027)	Total	4,340	351,168	1,235.9
+Concordia Parish, LA (22029)	1979	204	22,738	897.2
+Concordia Parish, LA (22029)	1980	228	23,018	990.5
+Concordia Parish, LA (22029)	1981	207	23,175	893.2
+Concordia Parish, LA (22029)	1982	202	23,518	858.9
+Concordia Parish, LA (22029)	1983	220	23,450	938.2
+Concordia Parish, LA (22029)	1984	217	23,413	926.8
+Concordia Parish, LA (22029)	1985	219	23,219	943.2
+Concordia Parish, LA (22029)	1986	218	23,067	945.1
+Concordia Parish, LA (22029)	1987	214	22,085	969.0
+Concordia Parish, LA (22029)	1988	232	21,828	1,062.9
+Concordia Parish, LA (22029)	1989	190	21,073	901.6
+Concordia Parish, LA (22029)	1990	181	20,839	868.6
+Concordia Parish, LA (22029)	1991	209	20,644	1,012.4
+Concordia Parish, LA (22029)	1992	232	20,730	1,119.2
+Concordia Parish, LA (22029)	1993	223	20,731	1,075.7
+Concordia Parish, LA (22029)	1994	199	20,703	961.2
+Concordia Parish, LA (22029)	1995	201	20,873	963.0
+Concordia Parish, LA (22029)	1996	222	20,655	1,074.8
+Concordia Parish, LA (22029)	1997	255	20,528	1,242.2
+Concordia Parish, LA (22029)	1998	234	20,526	1,140.0
+Concordia Parish, LA (22029)	Total	4,307	436,813	986.0
+De Soto Parish, LA (22031)	1979	310	25,386	1,221.1
+De Soto Parish, LA (22031)	1980	312	25,796	1,209.5
+De Soto Parish, LA (22031)	1981	295	26,418	1,116.7
+De Soto Parish, LA (22031)	1982	260	26,402	984.8
+De Soto Parish, LA (22031)	1983	291	26,546	1,096.2
+De Soto Parish, LA (22031)	1984	311	26,786	1,161.1
+De Soto Parish, LA (22031)	1985	306	27,212	1,124.5
+De Soto Parish, LA (22031)	1986	269	27,211	988.6
+De Soto Parish, LA (22031)	1987	277	26,851	1,031.6
+De Soto Parish, LA (22031)	1988	269	26,000	1,034.6
+De Soto Parish, LA (22031)	1989	288	25,842	1,114.5
+De Soto Parish, LA (22031)	1990	301	25,327	1,188.5
+De Soto Parish, LA (22031)	1991	264	25,225	1,046.6
+De Soto Parish, LA (22031)	1992	277	25,181	1,100.0
+De Soto Parish, LA (22031)	1993	305	25,087	1,215.8
+De Soto Parish, LA (22031)	1994	298	24,963	1,193.8
+De Soto Parish, LA (22031)	1995	311	24,981	1,244.9
+De Soto Parish, LA (22031)	1996	289	24,983	1,156.8
+De Soto Parish, LA (22031)	1997	288	25,279	1,139.3
+De Soto Parish, LA (22031)	1998	331	25,273	1,309.7
+De Soto Parish, LA (22031)	Total	5,852	516,749	1,132.5
+East Baton Rouge Parish, LA (22033)	1979	2,191	359,517	609.4
+East Baton Rouge Parish, LA (22033)	1980	2,382	367,053	649.0
+East Baton Rouge Parish, LA (22033)	1981	2,469	376,547	655.7
+East Baton Rouge Parish, LA (22033)	1982	2,432	383,178	634.7
+East Baton Rouge Parish, LA (22033)	1983	2,518	387,805	649.3
+East Baton Rouge Parish, LA (22033)	1984	2,220	388,102	572.0
+East Baton Rouge Parish, LA (22033)	1985	2,539	389,593	651.7
+East Baton Rouge Parish, LA (22033)	1986	2,475	387,396	638.9
+East Baton Rouge Parish, LA (22033)	1987	2,539	382,137	664.4
+East Baton Rouge Parish, LA (22033)	1988	2,659	381,369	697.2
+East Baton Rouge Parish, LA (22033)	1989	2,730	379,856	718.7
+East Baton Rouge Parish, LA (22033)	1990	2,750	380,494	722.7
+East Baton Rouge Parish, LA (22033)	1991	2,772	388,183	714.1
+East Baton Rouge Parish, LA (22033)	1992	2,734	396,219	690.0
+East Baton Rouge Parish, LA (22033)	1993	2,979	401,518	741.9
+East Baton Rouge Parish, LA (22033)	1994	2,888	404,329	714.3
+East Baton Rouge Parish, LA (22033)	1995	3,093	406,518	760.9
+East Baton Rouge Parish, LA (22033)	1996	2,954	407,909	724.2
+East Baton Rouge Parish, LA (22033)	1997	3,062	409,301	748.1
+East Baton Rouge Parish, LA (22033)	1998	3,107	410,508	756.9
+East Baton Rouge Parish, LA (22033)	Total	53,493	7,787,532	686.9
+East Carroll Parish, LA (22035)	1979	139	11,666	1,191.5
+East Carroll Parish, LA (22035)	1980	129	11,786	1,094.5
+East Carroll Parish, LA (22035)	1981	133	11,489	1,157.6
+East Carroll Parish, LA (22035)	1982	122	11,348	1,075.1
+East Carroll Parish, LA (22035)	1983	119	11,453	1,039.0
+East Carroll Parish, LA (22035)	1984	119	11,210	1,061.6
+East Carroll Parish, LA (22035)	1985	142	10,948	1,297.0
+East Carroll Parish, LA (22035)	1986	141	10,942	1,288.6
+East Carroll Parish, LA (22035)	1987	143	10,675	1,339.6
+East Carroll Parish, LA (22035)	1988	113	10,452	1,081.1
+East Carroll Parish, LA (22035)	1989	114	10,052	1,134.1
+East Carroll Parish, LA (22035)	1990	116	9,710	1,194.6
+East Carroll Parish, LA (22035)	1991	128	9,601	1,333.2
+East Carroll Parish, LA (22035)	1992	133	9,700	1,371.1
+East Carroll Parish, LA (22035)	1993	105	9,642	1,089.0
+East Carroll Parish, LA (22035)	1994	120	9,778	1,227.2
+East Carroll Parish, LA (22035)	1995	106	9,832	1,078.1
+East Carroll Parish, LA (22035)	1996	121	9,533	1,269.3
+East Carroll Parish, LA (22035)	1997	102	9,432	1,081.4
+East Carroll Parish, LA (22035)	1998	106	9,479	1,118.3
+East Carroll Parish, LA (22035)	Total	2,451	208,728	1,174.3
+East Feliciana Parish, LA (22037)	1979	182	18,714	972.5
+East Feliciana Parish, LA (22037)	1980	188	19,087	985.0
+East Feliciana Parish, LA (22037)	1981	165	19,246	857.3
+East Feliciana Parish, LA (22037)	1982	182	19,517	932.5
+East Feliciana Parish, LA (22037)	1983	111	19,471	570.1
+East Feliciana Parish, LA (22037)	1984	64	19,731	324.4
+East Feliciana Parish, LA (22037)	1985	156	19,809	787.5
+East Feliciana Parish, LA (22037)	1986	159	19,955	796.8
+East Feliciana Parish, LA (22037)	1987	196	19,518	1,004.2
+East Feliciana Parish, LA (22037)	1988	214	19,469	1,099.2
+East Feliciana Parish, LA (22037)	1989	171	19,458	878.8
+East Feliciana Parish, LA (22037)	1990	192	19,225	998.7
+East Feliciana Parish, LA (22037)	1991	196	19,598	1,000.1
+East Feliciana Parish, LA (22037)	1992	205	19,873	1,031.6
+East Feliciana Parish, LA (22037)	1993	201	20,170	996.5
+East Feliciana Parish, LA (22037)	1994	191	20,462	933.4
+East Feliciana Parish, LA (22037)	1995	171	20,528	833.0
+East Feliciana Parish, LA (22037)	1996	206	20,905	985.4
+East Feliciana Parish, LA (22037)	1997	213	20,933	1,017.5
+East Feliciana Parish, LA (22037)	1998	219	21,075	1,039.1
+East Feliciana Parish, LA (22037)	Total	3,582	396,744	902.8
+Evangeline Parish, LA (22039)	1979	395	33,134	1,192.1
+Evangeline Parish, LA (22039)	1980	333	33,375	997.8
+Evangeline Parish, LA (22039)	1981	369	34,094	1,082.3
+Evangeline Parish, LA (22039)	1982	327	34,151	957.5
+Evangeline Parish, LA (22039)	1983	343	34,472	995.0
+Evangeline Parish, LA (22039)	1984	364	34,796	1,046.1
+Evangeline Parish, LA (22039)	1985	360	35,070	1,026.5
+Evangeline Parish, LA (22039)	1986	332	35,141	944.8
+Evangeline Parish, LA (22039)	1987	348	34,331	1,013.7
+Evangeline Parish, LA (22039)	1988	394	33,913	1,161.8
+Evangeline Parish, LA (22039)	1989	307	33,467	917.3
+Evangeline Parish, LA (22039)	1990	350	33,296	1,051.2
+Evangeline Parish, LA (22039)	1991	364	33,661	1,081.4
+Evangeline Parish, LA (22039)	1992	364	33,919	1,073.1
+Evangeline Parish, LA (22039)	1993	402	34,209	1,175.1
+Evangeline Parish, LA (22039)	1994	364	34,423	1,057.4
+Evangeline Parish, LA (22039)	1995	392	34,574	1,133.8
+Evangeline Parish, LA (22039)	1996	362	34,921	1,036.6
+Evangeline Parish, LA (22039)	1997	360	35,012	1,028.2
+Evangeline Parish, LA (22039)	1998	329	35,148	936.0
+Evangeline Parish, LA (22039)	Total	7,159	685,107	1,044.9
+Franklin Parish, LA (22041)	1979	242	23,840	1,015.1
+Franklin Parish, LA (22041)	1980	251	24,163	1,038.8
+Franklin Parish, LA (22041)	1981	276	24,322	1,134.8
+Franklin Parish, LA (22041)	1982	241	24,273	992.9
+Franklin Parish, LA (22041)	1983	245	24,115	1,016.0
+Franklin Parish, LA (22041)	1984	267	23,882	1,118.0
+Franklin Parish, LA (22041)	1985	281	23,708	1,185.3
+Franklin Parish, LA (22041)	1986	281	23,842	1,178.6
+Franklin Parish, LA (22041)	1987	251	23,329	1,075.9
+Franklin Parish, LA (22041)	1988	267	22,941	1,163.9
+Franklin Parish, LA (22041)	1989	274	22,663	1,209.0
+Franklin Parish, LA (22041)	1990	256	22,395	1,143.1
+Franklin Parish, LA (22041)	1991	268	22,097	1,212.8
+Franklin Parish, LA (22041)	1992	245	22,077	1,109.8
+Franklin Parish, LA (22041)	1993	279	22,141	1,260.1
+Franklin Parish, LA (22041)	1994	286	21,991	1,300.5
+Franklin Parish, LA (22041)	1995	256	21,828	1,172.8
+Franklin Parish, LA (22041)	1996	289	21,661	1,334.2
+Franklin Parish, LA (22041)	1997	268	21,573	1,242.3
+Franklin Parish, LA (22041)	1998	281	21,518	1,305.9
+Franklin Parish, LA (22041)	Total	5,304	458,359	1,157.2
+Grant Parish, LA (22043)	1979	171	16,399	1,042.7
+Grant Parish, LA (22043)	1980	154	16,709	921.7
+Grant Parish, LA (22043)	1981	157	17,026	922.1
+Grant Parish, LA (22043)	1982	192	17,168	1,118.4
+Grant Parish, LA (22043)	1983	166	17,348	956.9
+Grant Parish, LA (22043)	1984	185	17,576	1,052.6
+Grant Parish, LA (22043)	1985	198	17,598	1,125.1
+Grant Parish, LA (22043)	1986	193	17,722	1,089.0
+Grant Parish, LA (22043)	1987	161	17,573	916.2
+Grant Parish, LA (22043)	1988	189	17,613	1,073.1
+Grant Parish, LA (22043)	1989	201	17,622	1,140.6
+Grant Parish, LA (22043)	1990	184	17,464	1,053.6
+Grant Parish, LA (22043)	1991	176	17,464	1,007.8
+Grant Parish, LA (22043)	1992	173	17,490	989.1
+Grant Parish, LA (22043)	1993	218	17,549	1,242.2
+Grant Parish, LA (22043)	1994	208	17,543	1,185.7
+Grant Parish, LA (22043)	1995	212	17,989	1,178.5
+Grant Parish, LA (22043)	1996	189	18,242	1,036.1
+Grant Parish, LA (22043)	1997	191	18,224	1,048.1
+Grant Parish, LA (22043)	1998	185	18,464	1,001.9
+Grant Parish, LA (22043)	Total	3,703	350,783	1,055.6
+Iberia Parish, LA (22045)	1979	515	63,705	808.4
+Iberia Parish, LA (22045)	1980	525	64,008	820.2
+Iberia Parish, LA (22045)	1981	576	66,426	867.1
+Iberia Parish, LA (22045)	1982	515	69,016	746.2
+Iberia Parish, LA (22045)	1983	545	69,698	781.9
+Iberia Parish, LA (22045)	1984	551	69,351	794.5
+Iberia Parish, LA (22045)	1985	507	69,567	728.8
+Iberia Parish, LA (22045)	1986	527	70,252	750.2
+Iberia Parish, LA (22045)	1987	511	68,888	741.8
+Iberia Parish, LA (22045)	1988	582	68,123	854.3
+Iberia Parish, LA (22045)	1989	548	68,468	800.4
+Iberia Parish, LA (22045)	1990	567	68,266	830.6
+Iberia Parish, LA (22045)	1991	565	68,846	820.7
+Iberia Parish, LA (22045)	1992	562	69,390	809.9
+Iberia Parish, LA (22045)	1993	581	70,132	828.4
+Iberia Parish, LA (22045)	1994	570	70,496	808.6
+Iberia Parish, LA (22045)	1995	628	70,968	884.9
+Iberia Parish, LA (22045)	1996	584	71,462	817.2
+Iberia Parish, LA (22045)	1997	665	72,087	922.5
+Iberia Parish, LA (22045)	1998	583	72,756	801.3
+Iberia Parish, LA (22045)	Total	11,207	1,381,905	811.0
+Iberville Parish, LA (22047)	1979	313	32,128	974.2
+Iberville Parish, LA (22047)	1980	321	32,296	993.9
+Iberville Parish, LA (22047)	1981	314	32,527	965.4
+Iberville Parish, LA (22047)	1982	340	32,957	1,031.6
+Iberville Parish, LA (22047)	1983	340	32,590	1,043.3
+Iberville Parish, LA (22047)	1984	306	32,605	938.5
+Iberville Parish, LA (22047)	1985	296	32,465	911.8
+Iberville Parish, LA (22047)	1986	269	32,587	825.5
+Iberville Parish, LA (22047)	1987	303	32,294	938.3
+Iberville Parish, LA (22047)	1988	299	31,669	944.1
+Iberville Parish, LA (22047)	1989	282	31,404	898.0
+Iberville Parish, LA (22047)	1990	284	31,121	912.6
+Iberville Parish, LA (22047)	1991	284	31,319	906.8
+Iberville Parish, LA (22047)	1992	285	31,500	904.8
+Iberville Parish, LA (22047)	1993	280	31,753	881.8
+Iberville Parish, LA (22047)	1994	271	31,829	851.4
+Iberville Parish, LA (22047)	1995	294	31,713	927.1
+Iberville Parish, LA (22047)	1996	326	32,180	1,013.1
+Iberville Parish, LA (22047)	1997	273	32,485	840.4
+Iberville Parish, LA (22047)	1998	310	33,077	937.2
+Iberville Parish, LA (22047)	Total	5,990	642,499	932.3
+Jackson Parish, LA (22049)	1979	191	17,178	1,111.9
+Jackson Parish, LA (22049)	1980	202	17,348	1,164.4
+Jackson Parish, LA (22049)	1981	175	17,110	1,022.8
+Jackson Parish, LA (22049)	1982	189	16,991	1,112.4
+Jackson Parish, LA (22049)	1983	222	17,010	1,305.1
+Jackson Parish, LA (22049)	1984	178	16,913	1,052.4
+Jackson Parish, LA (22049)	1985	195	16,990	1,147.7
+Jackson Parish, LA (22049)	1986	226	16,944	1,333.8
+Jackson Parish, LA (22049)	1987	193	16,632	1,160.4
+Jackson Parish, LA (22049)	1988	210	16,325	1,286.4
+Jackson Parish, LA (22049)	1989	196	16,032	1,222.6
+Jackson Parish, LA (22049)	1990	157	15,709	999.4
+Jackson Parish, LA (22049)	1991	194	15,579	1,245.3
+Jackson Parish, LA (22049)	1992	207	15,582	1,328.5
+Jackson Parish, LA (22049)	1993	175	15,434	1,133.9
+Jackson Parish, LA (22049)	1994	175	15,515	1,127.9
+Jackson Parish, LA (22049)	1995	192	15,485	1,239.9
+Jackson Parish, LA (22049)	1996	174	15,548	1,119.1
+Jackson Parish, LA (22049)	1997	200	15,551	1,286.1
+Jackson Parish, LA (22049)	1998	197	15,419	1,277.6
+Jackson Parish, LA (22049)	Total	3,848	325,295	1,182.9
+Jefferson Parish, LA (22051)	1979	2,802	447,797	625.7
+Jefferson Parish, LA (22051)	1980	2,974	455,314	653.2
+Jefferson Parish, LA (22051)	1981	3,023	461,467	655.1
+Jefferson Parish, LA (22051)	1982	3,166	467,660	677.0
+Jefferson Parish, LA (22051)	1983	2,996	470,057	637.4
+Jefferson Parish, LA (22051)	1984	3,208	468,460	684.8
+Jefferson Parish, LA (22051)	1985	3,248	466,167	696.7
+Jefferson Parish, LA (22051)	1986	3,123	463,553	673.7
+Jefferson Parish, LA (22051)	1987	3,263	457,377	713.4
+Jefferson Parish, LA (22051)	1988	3,467	451,897	767.2
+Jefferson Parish, LA (22051)	1989	3,530	451,246	782.3
+Jefferson Parish, LA (22051)	1990	3,549	448,621	791.1
+Jefferson Parish, LA (22051)	1991	3,619	453,996	797.1
+Jefferson Parish, LA (22051)	1992	3,627	457,976	792.0
+Jefferson Parish, LA (22051)	1993	3,665	459,052	798.4
+Jefferson Parish, LA (22051)	1994	3,791	460,391	823.4
+Jefferson Parish, LA (22051)	1995	3,879	461,519	840.5
+Jefferson Parish, LA (22051)	1996	3,827	460,845	830.4
+Jefferson Parish, LA (22051)	1997	3,904	459,471	849.7
+Jefferson Parish, LA (22051)	1998	4,122	458,964	898.1
+Jefferson Parish, LA (22051)	Total	68,783	9,181,830	749.1
+Jefferson Davis Parish, LA (22053)	1979	288	31,729	907.7
+Jefferson Davis Parish, LA (22053)	1980	286	32,252	886.8
+Jefferson Davis Parish, LA (22053)	1981	304	32,528	934.6
+Jefferson Davis Parish, LA (22053)	1982	259	32,729	791.3
+Jefferson Davis Parish, LA (22053)	1983	320	33,073	967.6
+Jefferson Davis Parish, LA (22053)	1984	321	32,958	974.0
+Jefferson Davis Parish, LA (22053)	1985	313	32,967	949.4
+Jefferson Davis Parish, LA (22053)	1986	332	33,007	1,005.8
+Jefferson Davis Parish, LA (22053)	1987	300	32,230	930.8
+Jefferson Davis Parish, LA (22053)	1988	309	31,727	973.9
+Jefferson Davis Parish, LA (22053)	1989	315	31,064	1,014.0
+Jefferson Davis Parish, LA (22053)	1990	320	30,770	1,040.0
+Jefferson Davis Parish, LA (22053)	1991	302	30,985	974.7
+Jefferson Davis Parish, LA (22053)	1992	287	31,033	924.8
+Jefferson Davis Parish, LA (22053)	1993	328	31,021	1,057.3
+Jefferson Davis Parish, LA (22053)	1994	286	31,352	912.2
+Jefferson Davis Parish, LA (22053)	1995	333	31,763	1,048.4
+Jefferson Davis Parish, LA (22053)	1996	315	31,867	988.5
+Jefferson Davis Parish, LA (22053)	1997	345	31,810	1,084.6
+Jefferson Davis Parish, LA (22053)	1998	345	31,698	1,088.4
+Jefferson Davis Parish, LA (22053)	Total	6,208	638,563	972.2
+Lafayette Parish, LA (22055)	1979	818	146,448	558.6
+Lafayette Parish, LA (22055)	1980	886	150,559	588.5
+Lafayette Parish, LA (22055)	1981	911	157,273	579.2
+Lafayette Parish, LA (22055)	1982	951	164,581	577.8
+Lafayette Parish, LA (22055)	1983	949	168,736	562.4
+Lafayette Parish, LA (22055)	1984	926	168,032	551.1
+Lafayette Parish, LA (22055)	1985	1,030	169,855	606.4
+Lafayette Parish, LA (22055)	1986	922	170,000	542.4
+Lafayette Parish, LA (22055)	1987	960	165,215	581.1
+Lafayette Parish, LA (22055)	1988	1,020	163,222	624.9
+Lafayette Parish, LA (22055)	1989	1,067	163,831	651.3
+Lafayette Parish, LA (22055)	1990	1,063	164,693	645.4
+Lafayette Parish, LA (22055)	1991	1,097	168,726	650.2
+Lafayette Parish, LA (22055)	1992	1,110	171,484	647.3
+Lafayette Parish, LA (22055)	1993	1,193	174,860	682.3
+Lafayette Parish, LA (22055)	1994	1,123	177,766	631.7
+Lafayette Parish, LA (22055)	1995	1,137	180,910	628.5
+Lafayette Parish, LA (22055)	1996	1,180	183,461	643.2
+Lafayette Parish, LA (22055)	1997	1,235	186,571	661.9
+Lafayette Parish, LA (22055)	1998	1,301	188,918	688.7
+Lafayette Parish, LA (22055)	Total	20,879	3,385,141	616.8
+Lafourche Parish, LA (22057)	1979	495	80,958	611.4
+Lafourche Parish, LA (22057)	1980	507	82,748	612.7
+Lafourche Parish, LA (22057)	1981	595	86,746	685.9
+Lafourche Parish, LA (22057)	1982	642	88,052	729.1
+Lafourche Parish, LA (22057)	1983	548	88,742	617.5
+Lafourche Parish, LA (22057)	1984	592	88,513	668.8
+Lafourche Parish, LA (22057)	1985	563	88,679	634.9
+Lafourche Parish, LA (22057)	1986	555	88,379	628.0
+Lafourche Parish, LA (22057)	1987	545	87,053	626.1
+Lafourche Parish, LA (22057)	1988	575	86,450	665.1
+Lafourche Parish, LA (22057)	1989	600	86,196	696.1
+Lafourche Parish, LA (22057)	1990	636	85,844	740.9
+Lafourche Parish, LA (22057)	1991	652	86,317	755.4
+Lafourche Parish, LA (22057)	1992	619	86,351	716.8
+Lafourche Parish, LA (22057)	1993	636	86,785	732.8
+Lafourche Parish, LA (22057)	1994	679	87,200	778.7
+Lafourche Parish, LA (22057)	1995	660	87,646	753.0
+Lafourche Parish, LA (22057)	1996	632	87,900	719.0
+Lafourche Parish, LA (22057)	1997	651	88,639	734.4
+Lafourche Parish, LA (22057)	1998	678	89,560	757.0
+Lafourche Parish, LA (22057)	Total	12,060	1,738,758	693.6
+La Salle Parish, LA (22059)	1979	187	16,373	1,142.1
+La Salle Parish, LA (22059)	1980	178	17,000	1,047.1
+La Salle Parish, LA (22059)	1981	192	17,039	1,126.8
+La Salle Parish, LA (22059)	1982	176	16,796	1,047.9
+La Salle Parish, LA (22059)	1983	173	16,804	1,029.5
+La Salle Parish, LA (22059)	1984	191	16,438	1,161.9
+La Salle Parish, LA (22059)	1985	169	16,039	1,053.7
+La Salle Parish, LA (22059)	1986	183	15,826	1,156.3
+La Salle Parish, LA (22059)	1987	172	15,120	1,137.6
+La Salle Parish, LA (22059)	1988	159	14,596	1,089.3
+La Salle Parish, LA (22059)	1989	185	14,040	1,317.7
+La Salle Parish, LA (22059)	1990	158	13,693	1,153.9
+La Salle Parish, LA (22059)	1991	156	13,758	1,133.9
+La Salle Parish, LA (22059)	1992	175	13,838	1,264.6
+La Salle Parish, LA (22059)	1993	173	13,936	1,241.4
+La Salle Parish, LA (22059)	1994	175	13,905	1,258.5
+La Salle Parish, LA (22059)	1995	175	13,923	1,256.9
+La Salle Parish, LA (22059)	1996	190	13,981	1,359.0
+La Salle Parish, LA (22059)	1997	172	13,942	1,233.7
+La Salle Parish, LA (22059)	1998	156	13,905	1,121.9
+La Salle Parish, LA (22059)	Total	3,495	300,952	1,161.3
+Lincoln Parish, LA (22061)	1979	271	39,319	689.2
+Lincoln Parish, LA (22061)	1980	303	39,816	761.0
+Lincoln Parish, LA (22061)	1981	269	40,126	670.4
+Lincoln Parish, LA (22061)	1982	281	40,469	694.4
+Lincoln Parish, LA (22061)	1983	303	41,031	738.5
+Lincoln Parish, LA (22061)	1984	324	41,872	773.8
+Lincoln Parish, LA (22061)	1985	310	41,615	744.9
+Lincoln Parish, LA (22061)	1986	329	42,440	775.2
+Lincoln Parish, LA (22061)	1987	322	41,830	769.8
+Lincoln Parish, LA (22061)	1988	344	41,961	819.8
+Lincoln Parish, LA (22061)	1989	307	41,950	731.8
+Lincoln Parish, LA (22061)	1990	324	41,739	776.3
+Lincoln Parish, LA (22061)	1991	334	42,453	786.8
+Lincoln Parish, LA (22061)	1992	357	42,669	836.7
+Lincoln Parish, LA (22061)	1993	332	43,620	761.1
+Lincoln Parish, LA (22061)	1994	346	43,708	791.6
+Lincoln Parish, LA (22061)	1995	335	43,279	774.0
+Lincoln Parish, LA (22061)	1996	354	43,138	820.6
+Lincoln Parish, LA (22061)	1997	316	42,797	738.4
+Lincoln Parish, LA (22061)	1998	349	42,526	820.7
+Lincoln Parish, LA (22061)	Total	6,410	838,358	764.6
+Livingston Parish, LA (22063)	1979	367	55,845	657.2
+Livingston Parish, LA (22063)	1980	363	58,879	616.5
+Livingston Parish, LA (22063)	1981	407	61,460	662.2
+Livingston Parish, LA (22063)	1982	362	63,701	568.3
+Livingston Parish, LA (22063)	1983	422	65,908	640.3
+Livingston Parish, LA (22063)	1984	416	68,136	610.5
+Livingston Parish, LA (22063)	1985	398	69,817	570.1
+Livingston Parish, LA (22063)	1986	433	70,729	612.2
+Livingston Parish, LA (22063)	1987	422	69,980	603.0
+Livingston Parish, LA (22063)	1988	466	69,783	667.8
+Livingston Parish, LA (22063)	1989	509	69,883	728.4
+Livingston Parish, LA (22063)	1990	454	70,534	643.7
+Livingston Parish, LA (22063)	1991	502	71,972	697.5
+Livingston Parish, LA (22063)	1992	486	73,322	662.8
+Livingston Parish, LA (22063)	1993	512	75,481	678.3
+Livingston Parish, LA (22063)	1994	547	77,154	709.0
+Livingston Parish, LA (22063)	1995	586	79,296	739.0
+Livingston Parish, LA (22063)	1996	560	81,643	685.9
+Livingston Parish, LA (22063)	1997	608	84,426	720.2
+Livingston Parish, LA (22063)	1998	533	86,989	612.7
+Livingston Parish, LA (22063)	Total	9,353	1,424,938	656.4
+Madison Parish, LA (22065)	1979	169	14,884	1,135.4
+Madison Parish, LA (22065)	1980	185	15,972	1,158.3
+Madison Parish, LA (22065)	1981	173	15,404	1,123.1
+Madison Parish, LA (22065)	1982	188	15,221	1,235.1
+Madison Parish, LA (22065)	1983	162	14,809	1,093.9
+Madison Parish, LA (22065)	1984	172	14,667	1,172.7
+Madison Parish, LA (22065)	1985	177	14,505	1,220.3
+Madison Parish, LA (22065)	1986	167	14,252	1,171.8
+Madison Parish, LA (22065)	1987	147	13,772	1,067.4
+Madison Parish, LA (22065)	1988	153	13,238	1,155.8
+Madison Parish, LA (22065)	1989	187	12,862	1,453.9
+Madison Parish, LA (22065)	1990	176	12,488	1,409.4
+Madison Parish, LA (22065)	1991	171	12,344	1,385.3
+Madison Parish, LA (22065)	1992	135	12,452	1,084.2
+Madison Parish, LA (22065)	1993	175	12,729	1,374.8
+Madison Parish, LA (22065)	1994	166	12,839	1,292.9
+Madison Parish, LA (22065)	1995	166	13,471	1,232.3
+Madison Parish, LA (22065)	1996	151	13,642	1,106.9
+Madison Parish, LA (22065)	1997	140	13,676	1,023.7
+Madison Parish, LA (22065)	1998	136	13,615	998.9
+Madison Parish, LA (22065)	Total	3,296	276,842	1,190.6
+Morehouse Parish, LA (22067)	1979	339	34,699	977.0
+Morehouse Parish, LA (22067)	1980	343	34,901	982.8
+Morehouse Parish, LA (22067)	1981	340	34,812	976.7
+Morehouse Parish, LA (22067)	1982	338	34,478	980.3
+Morehouse Parish, LA (22067)	1983	335	34,083	982.9
+Morehouse Parish, LA (22067)	1984	347	34,131	1,016.7
+Morehouse Parish, LA (22067)	1985	354	34,116	1,037.6
+Morehouse Parish, LA (22067)	1986	333	33,563	992.2
+Morehouse Parish, LA (22067)	1987	344	33,444	1,028.6
+Morehouse Parish, LA (22067)	1988	350	32,666	1,071.5
+Morehouse Parish, LA (22067)	1989	362	32,392	1,117.6
+Morehouse Parish, LA (22067)	1990	354	31,965	1,107.5
+Morehouse Parish, LA (22067)	1991	343	31,698	1,082.1
+Morehouse Parish, LA (22067)	1992	345	31,893	1,081.7
+Morehouse Parish, LA (22067)	1993	373	32,005	1,165.4
+Morehouse Parish, LA (22067)	1994	408	31,858	1,280.7
+Morehouse Parish, LA (22067)	1995	385	31,934	1,205.6
+Morehouse Parish, LA (22067)	1996	380	31,751	1,196.8
+Morehouse Parish, LA (22067)	1997	390	31,660	1,231.8
+Morehouse Parish, LA (22067)	1998	381	31,409	1,213.0
+Morehouse Parish, LA (22067)	Total	7,144	659,458	1,083.3
+Natchitoches Parish, LA (22069)	1979	384	39,702	967.2
+Natchitoches Parish, LA (22069)	1980	431	39,899	1,080.2
+Natchitoches Parish, LA (22069)	1981	378	39,997	945.1
+Natchitoches Parish, LA (22069)	1982	395	39,936	989.1
+Natchitoches Parish, LA (22069)	1983	390	39,617	984.4
+Natchitoches Parish, LA (22069)	1984	338	39,154	863.3
+Natchitoches Parish, LA (22069)	1985	395	39,174	1,008.3
+Natchitoches Parish, LA (22069)	1986	400	39,231	1,019.6
+Natchitoches Parish, LA (22069)	1987	368	38,203	963.3
+Natchitoches Parish, LA (22069)	1988	378	37,743	1,001.5
+Natchitoches Parish, LA (22069)	1989	396	37,764	1,048.6
+Natchitoches Parish, LA (22069)	1990	355	36,662	968.3
+Natchitoches Parish, LA (22069)	1991	367	36,890	994.8
+Natchitoches Parish, LA (22069)	1992	345	37,118	929.5
+Natchitoches Parish, LA (22069)	1993	376	37,454	1,003.9
+Natchitoches Parish, LA (22069)	1994	342	37,938	901.5
+Natchitoches Parish, LA (22069)	1995	375	38,244	980.5
+Natchitoches Parish, LA (22069)	1996	414	38,231	1,082.9
+Natchitoches Parish, LA (22069)	1997	399	38,301	1,041.7
+Natchitoches Parish, LA (22069)	1998	359	38,364	935.8
+Natchitoches Parish, LA (22069)	Total	7,585	769,622	985.5
+Orleans Parish, LA (22071)	1979	6,165	558,461	1,103.9
+Orleans Parish, LA (22071)	1980	6,292	559,081	1,125.4
+Orleans Parish, LA (22071)	1981	6,157	561,245	1,097.0
+Orleans Parish, LA (22071)	1982	6,019	562,779	1,069.5
+Orleans Parish, LA (22071)	1983	6,049	560,761	1,078.7
+Orleans Parish, LA (22071)	1984	5,798	554,237	1,046.1
+Orleans Parish, LA (22071)	1985	6,075	550,684	1,103.2
+Orleans Parish, LA (22071)	1986	5,857	544,011	1,076.6
+Orleans Parish, LA (22071)	1987	5,760	530,492	1,085.8
+Orleans Parish, LA (22071)	1988	5,854	519,915	1,126.0
+Orleans Parish, LA (22071)	1989	5,926	508,095	1,166.3
+Orleans Parish, LA (22071)	1990	5,712	498,018	1,146.9
+Orleans Parish, LA (22071)	1991	5,806	495,881	1,170.8
+Orleans Parish, LA (22071)	1992	5,523	496,906	1,111.5
+Orleans Parish, LA (22071)	1993	5,777	497,687	1,160.8
+Orleans Parish, LA (22071)	1994	5,603	497,098	1,127.1
+Orleans Parish, LA (22071)	1995	5,602	495,820	1,129.8
+Orleans Parish, LA (22071)	1996	5,455	491,350	1,110.2
+Orleans Parish, LA (22071)	1997	5,131	488,921	1,049.5
+Orleans Parish, LA (22071)	1998	5,220	486,466	1,073.0
+Orleans Parish, LA (22071)	Total	115,781	10,457,908	1,107.1
+Ouachita Parish, LA (22073)	1979	1,087	137,164	792.5
+Ouachita Parish, LA (22073)	1980	1,113	139,431	798.2
+Ouachita Parish, LA (22073)	1981	1,108	140,928	786.2
+Ouachita Parish, LA (22073)	1982	1,080	141,465	763.4
+Ouachita Parish, LA (22073)	1983	1,193	142,972	834.4
+Ouachita Parish, LA (22073)	1984	1,148	144,170	796.3
+Ouachita Parish, LA (22073)	1985	1,222	144,953	843.0
+Ouachita Parish, LA (22073)	1986	1,225	146,712	835.0
+Ouachita Parish, LA (22073)	1987	1,173	145,744	804.8
+Ouachita Parish, LA (22073)	1988	1,226	144,512	848.4
+Ouachita Parish, LA (22073)	1989	1,202	143,014	840.5
+Ouachita Parish, LA (22073)	1990	1,242	142,289	872.9
+Ouachita Parish, LA (22073)	1991	1,223	143,423	852.7
+Ouachita Parish, LA (22073)	1992	1,272	145,275	875.6
+Ouachita Parish, LA (22073)	1993	1,422	145,991	974.0
+Ouachita Parish, LA (22073)	1994	1,255	146,257	858.1
+Ouachita Parish, LA (22073)	1995	1,242	147,088	844.4
+Ouachita Parish, LA (22073)	1996	1,372	147,326	931.3
+Ouachita Parish, LA (22073)	1997	1,317	147,841	890.8
+Ouachita Parish, LA (22073)	1998	1,332	147,879	900.7
+Ouachita Parish, LA (22073)	Total	24,454	2,884,434	847.8
+Plaquemines Parish, LA (22075)	1979	175	26,010	672.8
+Plaquemines Parish, LA (22075)	1980	207	26,140	791.9
+Plaquemines Parish, LA (22075)	1981	180	26,331	683.6
+Plaquemines Parish, LA (22075)	1982	195	26,816	727.2
+Plaquemines Parish, LA (22075)	1983	185	26,975	685.8
+Plaquemines Parish, LA (22075)	1984	194	26,728	725.8
+Plaquemines Parish, LA (22075)	1985	181	26,666	678.8
+Plaquemines Parish, LA (22075)	1986	190	26,732	710.8
+Plaquemines Parish, LA (22075)	1987	174	26,213	663.8
+Plaquemines Parish, LA (22075)	1988	196	26,283	745.7
+Plaquemines Parish, LA (22075)	1989	180	25,938	694.0
+Plaquemines Parish, LA (22075)	1990	172	25,577	672.5
+Plaquemines Parish, LA (22075)	1991	228	25,586	891.1
+Plaquemines Parish, LA (22075)	1992	188	25,929	725.1
+Plaquemines Parish, LA (22075)	1993	167	25,559	653.4
+Plaquemines Parish, LA (22075)	1994	194	25,689	755.2
+Plaquemines Parish, LA (22075)	1995	185	25,951	712.9
+Plaquemines Parish, LA (22075)	1996	201	26,159	768.4
+Plaquemines Parish, LA (22075)	1997	200	26,467	755.7
+Plaquemines Parish, LA (22075)	1998	168	26,698	629.3
+Plaquemines Parish, LA (22075)	Total	3,760	524,447	716.9
+Pointe Coupee Parish, LA (22077)	1979	214	24,089	888.4
+Pointe Coupee Parish, LA (22077)	1980	221	24,113	916.5
+Pointe Coupee Parish, LA (22077)	1981	220	24,296	905.5
+Pointe Coupee Parish, LA (22077)	1982	208	24,689	842.5
+Pointe Coupee Parish, LA (22077)	1983	241	24,667	977.0
+Pointe Coupee Parish, LA (22077)	1984	230	24,443	941.0
+Pointe Coupee Parish, LA (22077)	1985	228	24,246	940.4
+Pointe Coupee Parish, LA (22077)	1986	203	23,909	849.1
+Pointe Coupee Parish, LA (22077)	1987	234	23,548	993.7
+Pointe Coupee Parish, LA (22077)	1988	222	22,968	966.6
+Pointe Coupee Parish, LA (22077)	1989	232	22,861	1,014.8
+Pointe Coupee Parish, LA (22077)	1990	210	22,550	931.3
+Pointe Coupee Parish, LA (22077)	1991	250	22,509	1,110.7
+Pointe Coupee Parish, LA (22077)	1992	210	22,550	931.3
+Pointe Coupee Parish, LA (22077)	1993	231	22,617	1,021.4
+Pointe Coupee Parish, LA (22077)	1994	224	22,802	982.4
+Pointe Coupee Parish, LA (22077)	1995	215	22,827	941.9
+Pointe Coupee Parish, LA (22077)	1996	241	22,768	1,058.5
+Pointe Coupee Parish, LA (22077)	1997	227	23,136	981.2
+Pointe Coupee Parish, LA (22077)	1998	248	22,967	1,079.8
+Pointe Coupee Parish, LA (22077)	Total	4,509	468,555	962.3
+Rapides Parish, LA (22079)	1979	1,193	133,742	892.0
+Rapides Parish, LA (22079)	1980	1,236	135,474	912.4
+Rapides Parish, LA (22079)	1981	1,260	135,817	927.7
+Rapides Parish, LA (22079)	1982	1,195	135,742	880.3
+Rapides Parish, LA (22079)	1983	1,237	136,809	904.2
+Rapides Parish, LA (22079)	1984	1,245	136,928	909.2
+Rapides Parish, LA (22079)	1985	1,207	136,302	885.5
+Rapides Parish, LA (22079)	1986	1,228	136,507	899.6
+Rapides Parish, LA (22079)	1987	1,222	135,508	901.8
+Rapides Parish, LA (22079)	1988	1,298	133,705	970.8
+Rapides Parish, LA (22079)	1989	1,284	132,584	968.4
+Rapides Parish, LA (22079)	1990	1,204	131,508	915.5
+Rapides Parish, LA (22079)	1991	1,245	131,692	945.4
+Rapides Parish, LA (22079)	1992	1,253	130,114	963.0
+Rapides Parish, LA (22079)	1993	1,317	124,734	1,055.8
+Rapides Parish, LA (22079)	1994	1,279	125,599	1,018.3
+Rapides Parish, LA (22079)	1995	1,286	126,236	1,018.7
+Rapides Parish, LA (22079)	1996	1,226	125,750	975.0
+Rapides Parish, LA (22079)	1997	1,261	125,797	1,002.4
+Rapides Parish, LA (22079)	1998	1,346	125,940	1,068.8
+Rapides Parish, LA (22079)	Total	25,022	2,636,488	949.1
+Red River Parish, LA (22081)	1979	122	10,283	1,186.4
+Red River Parish, LA (22081)	1980	115	10,449	1,100.6
+Red River Parish, LA (22081)	1981	152	10,876	1,397.6
+Red River Parish, LA (22081)	1982	124	10,796	1,148.6
+Red River Parish, LA (22081)	1983	131	10,697	1,224.6
+Red River Parish, LA (22081)	1984	121	10,463	1,156.5
+Red River Parish, LA (22081)	1985	130	10,400	1,250.0
+Red River Parish, LA (22081)	1986	113	10,317	1,095.3
+Red River Parish, LA (22081)	1987	113	10,204	1,107.4
+Red River Parish, LA (22081)	1988	109	9,957	1,094.7
+Red River Parish, LA (22081)	1989	93	9,682	960.5
+Red River Parish, LA (22081)	1990	108	9,411	1,147.6
+Red River Parish, LA (22081)	1991	104	9,388	1,107.8
+Red River Parish, LA (22081)	1992	102	9,524	1,071.0
+Red River Parish, LA (22081)	1993	134	9,599	1,396.0
+Red River Parish, LA (22081)	1994	127	9,601	1,322.8
+Red River Parish, LA (22081)	1995	119	9,766	1,218.5
+Red River Parish, LA (22081)	1996	111	9,831	1,129.1
+Red River Parish, LA (22081)	1997	123	9,780	1,257.7
+Red River Parish, LA (22081)	1998	118	9,746	1,210.8
+Red River Parish, LA (22081)	Total	2,369	200,770	1,180.0
+Richland Parish, LA (22083)	1979	234	22,334	1,047.7
+Richland Parish, LA (22083)	1980	258	22,246	1,159.8
+Richland Parish, LA (22083)	1981	247	22,346	1,105.3
+Richland Parish, LA (22083)	1982	239	22,368	1,068.5
+Richland Parish, LA (22083)	1983	252	22,392	1,125.4
+Richland Parish, LA (22083)	1984	234	22,204	1,053.9
+Richland Parish, LA (22083)	1985	258	22,495	1,146.9
+Richland Parish, LA (22083)	1986	286	22,275	1,284.0
+Richland Parish, LA (22083)	1987	262	21,749	1,204.7
+Richland Parish, LA (22083)	1988	273	21,441	1,273.3
+Richland Parish, LA (22083)	1989	261	21,135	1,234.9
+Richland Parish, LA (22083)	1990	269	20,707	1,299.1
+Richland Parish, LA (22083)	1991	238	20,466	1,162.9
+Richland Parish, LA (22083)	1992	236	20,494	1,151.6
+Richland Parish, LA (22083)	1993	233	20,479	1,137.8
+Richland Parish, LA (22083)	1994	263	20,595	1,277.0
+Richland Parish, LA (22083)	1995	259	20,789	1,245.9
+Richland Parish, LA (22083)	1996	256	20,891	1,225.4
+Richland Parish, LA (22083)	1997	254	20,976	1,210.9
+Richland Parish, LA (22083)	1998	269	21,100	1,274.9
+Richland Parish, LA (22083)	Total	5,081	429,482	1,183.1
+Sabine Parish, LA (22085)	1979	213	24,975	852.9
+Sabine Parish, LA (22085)	1980	231	25,250	914.9
+Sabine Parish, LA (22085)	1981	265	25,345	1,045.6
+Sabine Parish, LA (22085)	1982	245	25,659	954.8
+Sabine Parish, LA (22085)	1983	257	25,928	991.2
+Sabine Parish, LA (22085)	1984	268	25,474	1,052.1
+Sabine Parish, LA (22085)	1985	247	25,390	972.8
+Sabine Parish, LA (22085)	1986	285	25,207	1,130.6
+Sabine Parish, LA (22085)	1987	268	24,556	1,091.4
+Sabine Parish, LA (22085)	1988	265	23,969	1,105.6
+Sabine Parish, LA (22085)	1989	284	23,365	1,215.5
+Sabine Parish, LA (22085)	1990	267	22,639	1,179.4
+Sabine Parish, LA (22085)	1991	269	22,429	1,199.3
+Sabine Parish, LA (22085)	1992	247	22,840	1,081.4
+Sabine Parish, LA (22085)	1993	240	22,937	1,046.3
+Sabine Parish, LA (22085)	1994	279	23,138	1,205.8
+Sabine Parish, LA (22085)	1995	301	23,211	1,296.8
+Sabine Parish, LA (22085)	1996	266	23,334	1,140.0
+Sabine Parish, LA (22085)	1997	288	23,445	1,228.4
+Sabine Parish, LA (22085)	1998	244	23,381	1,043.6
+Sabine Parish, LA (22085)	Total	5,229	482,472	1,083.8
+St. Bernard Parish, LA (22087)	1979	503	63,015	798.2
+St. Bernard Parish, LA (22087)	1980	509	64,166	793.3
+St. Bernard Parish, LA (22087)	1981	530	65,504	809.1
+St. Bernard Parish, LA (22087)	1982	553	66,467	832.0
+St. Bernard Parish, LA (22087)	1983	498	67,296	740.0
+St. Bernard Parish, LA (22087)	1984	543	67,499	804.5
+St. Bernard Parish, LA (22087)	1985	530	67,574	784.3
+St. Bernard Parish, LA (22087)	1986	580	68,160	850.9
+St. Bernard Parish, LA (22087)	1987	548	67,377	813.3
+St. Bernard Parish, LA (22087)	1988	616	67,405	913.9
+St. Bernard Parish, LA (22087)	1989	536	66,692	803.7
+St. Bernard Parish, LA (22087)	1990	579	66,630	869.0
+St. Bernard Parish, LA (22087)	1991	651	66,760	975.1
+St. Bernard Parish, LA (22087)	1992	651	67,057	970.8
+St. Bernard Parish, LA (22087)	1993	648	67,540	959.4
+St. Bernard Parish, LA (22087)	1994	693	67,891	1,020.8
+St. Bernard Parish, LA (22087)	1995	665	68,226	974.7
+St. Bernard Parish, LA (22087)	1996	642	68,135	942.2
+St. Bernard Parish, LA (22087)	1997	700	68,236	1,025.9
+St. Bernard Parish, LA (22087)	1998	698	67,983	1,026.7
+St. Bernard Parish, LA (22087)	Total	11,873	1,339,613	886.3
+St. Charles Parish, LA (22089)	1979	230	36,781	625.3
+St. Charles Parish, LA (22089)	1980	220	37,264	590.4
+St. Charles Parish, LA (22089)	1981	233	38,338	607.8
+St. Charles Parish, LA (22089)	1982	238	39,702	599.5
+St. Charles Parish, LA (22089)	1983	271	40,882	662.9
+St. Charles Parish, LA (22089)	1984	223	40,957	544.5
+St. Charles Parish, LA (22089)	1985	247	41,651	593.0
+St. Charles Parish, LA (22089)	1986	236	42,026	561.6
+St. Charles Parish, LA (22089)	1987	278	42,157	659.4
+St. Charles Parish, LA (22089)	1988	280	42,053	665.8
+St. Charles Parish, LA (22089)	1989	265	42,448	624.3
+St. Charles Parish, LA (22089)	1990	251	42,418	591.7
+St. Charles Parish, LA (22089)	1991	277	43,200	641.2
+St. Charles Parish, LA (22089)	1992	253	43,801	577.6
+St. Charles Parish, LA (22089)	1993	258	44,563	579.0
+St. Charles Parish, LA (22089)	1994	290	45,335	639.7
+St. Charles Parish, LA (22089)	1995	279	45,890	608.0
+St. Charles Parish, LA (22089)	1996	313	46,479	673.4
+St. Charles Parish, LA (22089)	1997	320	47,051	680.1
+St. Charles Parish, LA (22089)	1998	296	47,503	623.1
+St. Charles Parish, LA (22089)	Total	5,258	850,499	618.2
+St. Helena Parish, LA (22091)	1979	87	9,797	888.0
+St. Helena Parish, LA (22091)	1980	65	9,807	662.8
+St. Helena Parish, LA (22091)	1981	91	9,756	932.8
+St. Helena Parish, LA (22091)	1982	78	9,826	793.8
+St. Helena Parish, LA (22091)	1983	85	10,105	841.2
+St. Helena Parish, LA (22091)	1984	68	10,106	672.9
+St. Helena Parish, LA (22091)	1985	77	10,141	759.3
+St. Helena Parish, LA (22091)	1986	84	10,184	824.8
+St. Helena Parish, LA (22091)	1987	112	10,086	1,110.5
+St. Helena Parish, LA (22091)	1988	95	9,918	957.9
+St. Helena Parish, LA (22091)	1989	91	9,894	919.7
+St. Helena Parish, LA (22091)	1990	101	9,811	1,029.5
+St. Helena Parish, LA (22091)	1991	92	10,004	919.6
+St. Helena Parish, LA (22091)	1992	93	10,036	926.7
+St. Helena Parish, LA (22091)	1993	98	10,224	958.5
+St. Helena Parish, LA (22091)	1994	94	10,232	918.7
+St. Helena Parish, LA (22091)	1995	89	10,281	865.7
+St. Helena Parish, LA (22091)	1996	98	10,286	952.8
+St. Helena Parish, LA (22091)	1997	91	10,259	887.0
+St. Helena Parish, LA (22091)	1998	91	10,214	890.9
+St. Helena Parish, LA (22091)	Total	1,780	200,967	885.7
+St. James Parish, LA (22093)	1979	161	21,379	753.1
+St. James Parish, LA (22093)	1980	169	21,549	784.3
+St. James Parish, LA (22093)	1981	183	21,864	837.0
+St. James Parish, LA (22093)	1982	190	21,907	867.3
+St. James Parish, LA (22093)	1983	206	22,015	935.7
+St. James Parish, LA (22093)	1984	164	22,066	743.2
+St. James Parish, LA (22093)	1985	164	22,103	742.0
+St. James Parish, LA (22093)	1986	169	21,734	777.6
+St. James Parish, LA (22093)	1987	156	21,660	720.2
+St. James Parish, LA (22093)	1988	167	21,365	781.7
+St. James Parish, LA (22093)	1989	129	21,080	612.0
+St. James Parish, LA (22093)	1990	166	20,917	793.6
+St. James Parish, LA (22093)	1991	168	20,789	808.1
+St. James Parish, LA (22093)	1992	156	20,781	750.7
+St. James Parish, LA (22093)	1993	161	20,964	768.0
+St. James Parish, LA (22093)	1994	176	20,981	838.9
+St. James Parish, LA (22093)	1995	187	20,924	893.7
+St. James Parish, LA (22093)	1996	171	20,986	814.8
+St. James Parish, LA (22093)	1997	170	20,964	810.9
+St. James Parish, LA (22093)	1998	192	21,086	910.6
+St. James Parish, LA (22093)	Total	3,405	427,114	797.2
+St. John the Baptist Parish, LA (22095)	1979	214	31,169	686.6
+St. John the Baptist Parish, LA (22095)	1980	214	32,039	667.9
+St. John the Baptist Parish, LA (22095)	1981	225	33,779	666.1
+St. John the Baptist Parish, LA (22095)	1982	225	35,952	625.8
+St. John the Baptist Parish, LA (22095)	1983	236	37,459	630.0
+St. John the Baptist Parish, LA (22095)	1984	247	39,411	626.7
+St. John the Baptist Parish, LA (22095)	1985	214	39,842	537.1
+St. John the Baptist Parish, LA (22095)	1986	242	40,193	602.1
+St. John the Baptist Parish, LA (22095)	1987	238	40,093	593.6
+St. John the Baptist Parish, LA (22095)	1988	261	39,878	654.5
+St. John the Baptist Parish, LA (22095)	1989	274	40,071	683.8
+St. John the Baptist Parish, LA (22095)	1990	251	40,049	626.7
+St. John the Baptist Parish, LA (22095)	1991	271	40,585	667.7
+St. John the Baptist Parish, LA (22095)	1992	262	41,110	637.3
+St. John the Baptist Parish, LA (22095)	1993	266	41,570	639.9
+St. John the Baptist Parish, LA (22095)	1994	280	41,863	668.8
+St. John the Baptist Parish, LA (22095)	1995	276	42,010	657.0
+St. John the Baptist Parish, LA (22095)	1996	254	42,289	600.6
+St. John the Baptist Parish, LA (22095)	1997	305	42,229	722.3
+St. John the Baptist Parish, LA (22095)	1998	280	42,570	657.7
+St. John the Baptist Parish, LA (22095)	Total	5,035	784,161	642.1
+St. Landry Parish, LA (22097)	1979	805	83,619	962.7
+St. Landry Parish, LA (22097)	1980	848	84,433	1,004.3
+St. Landry Parish, LA (22097)	1981	772	85,505	902.9
+St. Landry Parish, LA (22097)	1982	784	87,485	896.2
+St. Landry Parish, LA (22097)	1983	849	87,952	965.3
+St. Landry Parish, LA (22097)	1984	817	87,079	938.2
+St. Landry Parish, LA (22097)	1985	910	86,911	1,047.0
+St. Landry Parish, LA (22097)	1986	803	86,442	928.9
+St. Landry Parish, LA (22097)	1987	806	84,832	950.1
+St. Landry Parish, LA (22097)	1988	866	83,197	1,040.9
+St. Landry Parish, LA (22097)	1989	837	81,566	1,026.2
+St. Landry Parish, LA (22097)	1990	872	80,372	1,085.0
+St. Landry Parish, LA (22097)	1991	766	81,003	945.6
+St. Landry Parish, LA (22097)	1992	763	81,680	934.1
+St. Landry Parish, LA (22097)	1993	876	82,503	1,061.8
+St. Landry Parish, LA (22097)	1994	796	82,895	960.3
+St. Landry Parish, LA (22097)	1995	832	83,995	990.5
+St. Landry Parish, LA (22097)	1996	821	84,556	971.0
+St. Landry Parish, LA (22097)	1997	856	85,364	1,002.8
+St. Landry Parish, LA (22097)	1998	883	86,212	1,024.2
+St. Landry Parish, LA (22097)	Total	16,562	1,687,601	981.4
+St. Martin Parish, LA (22099)	1979	295	39,153	753.5
+St. Martin Parish, LA (22099)	1980	307	40,356	760.7
+St. Martin Parish, LA (22099)	1981	297	41,571	714.4
+St. Martin Parish, LA (22099)	1982	313	43,387	721.4
+St. Martin Parish, LA (22099)	1983	323	44,799	721.0
+St. Martin Parish, LA (22099)	1984	333	45,156	737.4
+St. Martin Parish, LA (22099)	1985	314	45,253	693.9
+St. Martin Parish, LA (22099)	1986	322	45,611	706.0
+St. Martin Parish, LA (22099)	1987	315	44,868	702.1
+St. Martin Parish, LA (22099)	1988	330	44,374	743.7
+St. Martin Parish, LA (22099)	1989	315	44,123	713.9
+St. Martin Parish, LA (22099)	1990	321	43,941	730.5
+St. Martin Parish, LA (22099)	1991	335	44,224	757.5
+St. Martin Parish, LA (22099)	1992	323	44,676	723.0
+St. Martin Parish, LA (22099)	1993	340	45,168	752.7
+St. Martin Parish, LA (22099)	1994	330	45,923	718.6
+St. Martin Parish, LA (22099)	1995	373	46,000	810.9
+St. Martin Parish, LA (22099)	1996	354	46,505	761.2
+St. Martin Parish, LA (22099)	1997	370	47,250	783.1
+St. Martin Parish, LA (22099)	1998	367	47,927	765.7
+St. Martin Parish, LA (22099)	Total	6,577	890,265	738.8
+St. Mary Parish, LA (22101)	1979	460	64,461	713.6
+St. Mary Parish, LA (22101)	1980	516	64,449	800.6
+St. Mary Parish, LA (22101)	1981	501	65,566	764.1
+St. Mary Parish, LA (22101)	1982	481	66,337	725.1
+St. Mary Parish, LA (22101)	1983	462	65,825	701.9
+St. Mary Parish, LA (22101)	1984	476	64,329	739.9
+St. Mary Parish, LA (22101)	1985	492	63,788	771.3
+St. Mary Parish, LA (22101)	1986	460	62,977	730.4
+St. Mary Parish, LA (22101)	1987	442	60,139	735.0
+St. Mary Parish, LA (22101)	1988	447	58,669	761.9
+St. Mary Parish, LA (22101)	1989	434	58,565	741.1
+St. Mary Parish, LA (22101)	1990	483	58,039	832.2
+St. Mary Parish, LA (22101)	1991	481	57,825	831.8
+St. Mary Parish, LA (22101)	1992	486	57,234	849.1
+St. Mary Parish, LA (22101)	1993	504	56,326	894.8
+St. Mary Parish, LA (22101)	1994	506	55,796	906.9
+St. Mary Parish, LA (22101)	1995	465	55,677	835.2
+St. Mary Parish, LA (22101)	1996	495	55,371	894.0
+St. Mary Parish, LA (22101)	1997	489	54,984	889.3
+St. Mary Parish, LA (22101)	1998	480	55,018	872.4
+St. Mary Parish, LA (22101)	Total	9,560	1,201,375	795.8
+St. Tammany Parish, LA (22103)	1979	760	103,996	730.8
+St. Tammany Parish, LA (22103)	1980	708	110,988	637.9
+St. Tammany Parish, LA (22103)	1981	805	116,325	692.0
+St. Tammany Parish, LA (22103)	1982	818	121,758	671.8
+St. Tammany Parish, LA (22103)	1983	846	127,033	666.0
+St. Tammany Parish, LA (22103)	1984	866	132,158	655.3
+St. Tammany Parish, LA (22103)	1985	908	136,531	665.1
+St. Tammany Parish, LA (22103)	1986	896	141,598	632.8
+St. Tammany Parish, LA (22103)	1987	924	142,433	648.7
+St. Tammany Parish, LA (22103)	1988	937	142,675	656.7
+St. Tammany Parish, LA (22103)	1989	962	142,812	673.6
+St. Tammany Parish, LA (22103)	1990	1,040	144,492	719.8
+St. Tammany Parish, LA (22103)	1991	1,045	149,548	698.8
+St. Tammany Parish, LA (22103)	1992	1,069	154,322	692.7
+St. Tammany Parish, LA (22103)	1993	1,130	159,813	707.1
+St. Tammany Parish, LA (22103)	1994	1,137	165,614	686.5
+St. Tammany Parish, LA (22103)	1995	1,151	171,125	672.6
+St. Tammany Parish, LA (22103)	1996	1,262	176,228	716.1
+St. Tammany Parish, LA (22103)	1997	1,288	181,462	709.8
+St. Tammany Parish, LA (22103)	1998	1,324	185,397	714.1
+St. Tammany Parish, LA (22103)	Total	19,876	2,906,308	683.9
+Tangipahoa Parish, LA (22105)	1979	728	79,986	910.2
+Tangipahoa Parish, LA (22105)	1980	728	80,912	899.7
+Tangipahoa Parish, LA (22105)	1981	721	82,460	874.4
+Tangipahoa Parish, LA (22105)	1982	780	84,948	918.2
+Tangipahoa Parish, LA (22105)	1983	858	86,735	989.2
+Tangipahoa Parish, LA (22105)	1984	763	88,186	865.2
+Tangipahoa Parish, LA (22105)	1985	734	88,960	825.1
+Tangipahoa Parish, LA (22105)	1986	792	89,334	886.6
+Tangipahoa Parish, LA (22105)	1987	776	87,945	882.4
+Tangipahoa Parish, LA (22105)	1988	836	87,098	959.8
+Tangipahoa Parish, LA (22105)	1989	845	86,586	975.9
+Tangipahoa Parish, LA (22105)	1990	888	85,918	1,033.5
+Tangipahoa Parish, LA (22105)	1991	910	86,712	1,049.5
+Tangipahoa Parish, LA (22105)	1992	907	88,316	1,027.0
+Tangipahoa Parish, LA (22105)	1993	903	90,092	1,002.3
+Tangipahoa Parish, LA (22105)	1994	869	91,885	945.7
+Tangipahoa Parish, LA (22105)	1995	922	93,952	981.4
+Tangipahoa Parish, LA (22105)	1996	944	95,049	993.2
+Tangipahoa Parish, LA (22105)	1997	930	96,780	960.9
+Tangipahoa Parish, LA (22105)	1998	965	98,434	980.4
+Tangipahoa Parish, LA (22105)	Total	16,799	1,770,288	948.9
+Tensas Parish, LA (22107)	1979	126	8,466	1,488.3
+Tensas Parish, LA (22107)	1980	111	8,538	1,300.1
+Tensas Parish, LA (22107)	1981	88	8,348	1,054.1
+Tensas Parish, LA (22107)	1982	116	8,191	1,416.2
+Tensas Parish, LA (22107)	1983	119	8,046	1,479.0
+Tensas Parish, LA (22107)	1984	115	7,924	1,451.3
+Tensas Parish, LA (22107)	1985	103	8,041	1,280.9
+Tensas Parish, LA (22107)	1986	88	7,779	1,131.3
+Tensas Parish, LA (22107)	1987	110	7,603	1,446.8
+Tensas Parish, LA (22107)	1988	130	7,483	1,737.3
+Tensas Parish, LA (22107)	1989	99	7,396	1,338.6
+Tensas Parish, LA (22107)	1990	97	7,094	1,367.4
+Tensas Parish, LA (22107)	1991	95	6,920	1,372.8
+Tensas Parish, LA (22107)	1992	102	6,854	1,488.2
+Tensas Parish, LA (22107)	1993	83	6,865	1,209.0
+Tensas Parish, LA (22107)	1994	102	6,916	1,474.8
+Tensas Parish, LA (22107)	1995	104	6,944	1,497.7
+Tensas Parish, LA (22107)	1996	121	6,888	1,756.7
+Tensas Parish, LA (22107)	1997	77	6,781	1,135.5
+Tensas Parish, LA (22107)	1998	94	6,724	1,398.0
+Tensas Parish, LA (22107)	Total	2,080	149,801	1,388.5
+Terrebonne Parish, LA (22109)	1979	585	93,506	625.6
+Terrebonne Parish, LA (22109)	1980	601	94,894	633.3
+Terrebonne Parish, LA (22109)	1981	660	97,470	677.1
+Terrebonne Parish, LA (22109)	1982	656	100,892	650.2
+Terrebonne Parish, LA (22109)	1983	661	101,282	652.6
+Terrebonne Parish, LA (22109)	1984	663	100,928	656.9
+Terrebonne Parish, LA (22109)	1985	641	101,062	634.3
+Terrebonne Parish, LA (22109)	1986	614	100,213	612.7
+Terrebonne Parish, LA (22109)	1987	630	97,699	644.8
+Terrebonne Parish, LA (22109)	1988	711	97,335	730.5
+Terrebonne Parish, LA (22109)	1989	626	97,158	644.3
+Terrebonne Parish, LA (22109)	1990	701	97,087	722.0
+Terrebonne Parish, LA (22109)	1991	735	98,311	747.6
+Terrebonne Parish, LA (22109)	1992	688	99,304	692.8
+Terrebonne Parish, LA (22109)	1993	706	99,493	709.6
+Terrebonne Parish, LA (22109)	1994	754	100,021	753.8
+Terrebonne Parish, LA (22109)	1995	772	100,383	769.1
+Terrebonne Parish, LA (22109)	1996	776	101,613	763.7
+Terrebonne Parish, LA (22109)	1997	779	102,902	757.0
+Terrebonne Parish, LA (22109)	1998	760	104,391	728.0
+Terrebonne Parish, LA (22109)	Total	13,719	1,985,944	690.8
+Union Parish, LA (22111)	1979	249	20,637	1,206.6
+Union Parish, LA (22111)	1980	238	21,190	1,123.2
+Union Parish, LA (22111)	1981	226	21,195	1,066.3
+Union Parish, LA (22111)	1982	237	21,340	1,110.6
+Union Parish, LA (22111)	1983	217	21,425	1,012.8
+Union Parish, LA (22111)	1984	257	21,674	1,185.8
+Union Parish, LA (22111)	1985	259	21,861	1,184.8
+Union Parish, LA (22111)	1986	264	22,146	1,192.1
+Union Parish, LA (22111)	1987	228	21,679	1,051.7
+Union Parish, LA (22111)	1988	265	21,313	1,243.4
+Union Parish, LA (22111)	1989	245	21,063	1,163.2
+Union Parish, LA (22111)	1990	269	20,670	1,301.4
+Union Parish, LA (22111)	1991	276	20,782	1,328.1
+Union Parish, LA (22111)	1992	244	21,094	1,156.7
+Union Parish, LA (22111)	1993	315	21,385	1,473.0
+Union Parish, LA (22111)	1994	296	21,552	1,373.4
+Union Parish, LA (22111)	1995	285	21,786	1,308.2
+Union Parish, LA (22111)	1996	266	21,952	1,211.7
+Union Parish, LA (22111)	1997	280	22,242	1,258.9
+Union Parish, LA (22111)	1998	269	22,521	1,194.4
+Union Parish, LA (22111)	Total	5,185	429,507	1,207.2
+Vermilion Parish, LA (22113)	1979	402	47,857	840.0
+Vermilion Parish, LA (22113)	1980	442	48,605	909.4
+Vermilion Parish, LA (22113)	1981	431	49,499	870.7
+Vermilion Parish, LA (22113)	1982	458	51,127	895.8
+Vermilion Parish, LA (22113)	1983	435	51,911	838.0
+Vermilion Parish, LA (22113)	1984	438	51,917	843.7
+Vermilion Parish, LA (22113)	1985	435	52,251	832.5
+Vermilion Parish, LA (22113)	1986	424	52,198	812.3
+Vermilion Parish, LA (22113)	1987	449	51,588	870.4
+Vermilion Parish, LA (22113)	1988	477	50,830	938.4
+Vermilion Parish, LA (22113)	1989	483	50,642	953.8
+Vermilion Parish, LA (22113)	1990	474	50,070	946.7
+Vermilion Parish, LA (22113)	1991	484	50,263	962.9
+Vermilion Parish, LA (22113)	1992	480	50,601	948.6
+Vermilion Parish, LA (22113)	1993	501	50,989	982.6
+Vermilion Parish, LA (22113)	1994	457	51,282	891.2
+Vermilion Parish, LA (22113)	1995	460	51,402	894.9
+Vermilion Parish, LA (22113)	1996	510	51,835	983.9
+Vermilion Parish, LA (22113)	1997	502	52,590	954.6
+Vermilion Parish, LA (22113)	1998	505	53,261	948.2
+Vermilion Parish, LA (22113)	Total	9,247	1,020,718	905.9
+Vernon Parish, LA (22115)	1979	284	51,692	549.4
+Vernon Parish, LA (22115)	1980	324	53,714	603.2
+Vernon Parish, LA (22115)	1981	342	57,345	596.4
+Vernon Parish, LA (22115)	1982	327	59,898	545.9
+Vernon Parish, LA (22115)	1983	277	61,948	447.1
+Vernon Parish, LA (22115)	1984	325	62,372	521.1
+Vernon Parish, LA (22115)	1985	345	62,322	553.6
+Vernon Parish, LA (22115)	1986	323	62,314	518.3
+Vernon Parish, LA (22115)	1987	357	63,120	565.6
+Vernon Parish, LA (22115)	1988	313	62,690	499.3
+Vernon Parish, LA (22115)	1989	330	61,771	534.2
+Vernon Parish, LA (22115)	1990	328	62,006	529.0
+Vernon Parish, LA (22115)	1991	336	63,845	526.3
+Vernon Parish, LA (22115)	1992	351	63,786	550.3
+Vernon Parish, LA (22115)	1993	328	56,273	582.9
+Vernon Parish, LA (22115)	1994	289	56,892	508.0
+Vernon Parish, LA (22115)	1995	299	55,586	537.9
+Vernon Parish, LA (22115)	1996	334	54,414	613.8
+Vernon Parish, LA (22115)	1997	356	52,253	681.3
+Vernon Parish, LA (22115)	1998	343	51,972	660.0
+Vernon Parish, LA (22115)	Total	6,511	1,176,213	553.6
+Washington Parish, LA (22117)	1979	485	43,578	1,112.9
+Washington Parish, LA (22117)	1980	473	44,297	1,067.8
+Washington Parish, LA (22117)	1981	540	44,493	1,213.7
+Washington Parish, LA (22117)	1982	471	44,526	1,057.8
+Washington Parish, LA (22117)	1983	541	44,871	1,205.7
+Washington Parish, LA (22117)	1984	469	45,447	1,032.0
+Washington Parish, LA (22117)	1985	513	45,774	1,120.7
+Washington Parish, LA (22117)	1986	488	45,608	1,070.0
+Washington Parish, LA (22117)	1987	475	45,050	1,054.4
+Washington Parish, LA (22117)	1988	498	44,126	1,128.6
+Washington Parish, LA (22117)	1989	533	43,704	1,219.6
+Washington Parish, LA (22117)	1990	486	43,171	1,125.8
+Washington Parish, LA (22117)	1991	513	42,804	1,198.5
+Washington Parish, LA (22117)	1992	531	42,924	1,237.1
+Washington Parish, LA (22117)	1993	490	43,102	1,136.8
+Washington Parish, LA (22117)	1994	528	43,152	1,223.6
+Washington Parish, LA (22117)	1995	504	43,387	1,161.6
+Washington Parish, LA (22117)	1996	551	43,537	1,265.6
+Washington Parish, LA (22117)	1997	513	43,676	1,174.6
+Washington Parish, LA (22117)	1998	561	43,672	1,284.6
+Washington Parish, LA (22117)	Total	10,163	880,899	1,153.7
+Webster Parish, LA (22119)	1979	496	43,606	1,137.5
+Webster Parish, LA (22119)	1980	489	43,721	1,118.5
+Webster Parish, LA (22119)	1981	503	43,696	1,151.1
+Webster Parish, LA (22119)	1982	538	44,133	1,219.0
+Webster Parish, LA (22119)	1983	516	44,280	1,165.3
+Webster Parish, LA (22119)	1984	536	44,595	1,201.9
+Webster Parish, LA (22119)	1985	503	44,464	1,131.3
+Webster Parish, LA (22119)	1986	480	44,301	1,083.5
+Webster Parish, LA (22119)	1987	544	43,901	1,239.2
+Webster Parish, LA (22119)	1988	445	43,099	1,032.5
+Webster Parish, LA (22119)	1989	495	42,456	1,165.9
+Webster Parish, LA (22119)	1990	517	41,944	1,232.6
+Webster Parish, LA (22119)	1991	478	41,402	1,154.5
+Webster Parish, LA (22119)	1992	470	41,290	1,138.3
+Webster Parish, LA (22119)	1993	517	41,384	1,249.3
+Webster Parish, LA (22119)	1994	506	41,883	1,208.1
+Webster Parish, LA (22119)	1995	553	41,879	1,320.5
+Webster Parish, LA (22119)	1996	546	42,040	1,298.8
+Webster Parish, LA (22119)	1997	483	42,099	1,147.3
+Webster Parish, LA (22119)	1998	546	42,141	1,295.7
+Webster Parish, LA (22119)	Total	10,161	858,314	1,183.8
+West Baton Rouge Parish, LA (22121)	1979	151	18,881	799.7
+West Baton Rouge Parish, LA (22121)	1980	143	19,167	746.1
+West Baton Rouge Parish, LA (22121)	1981	152	19,403	783.4
+West Baton Rouge Parish, LA (22121)	1982	128	19,658	651.1
+West Baton Rouge Parish, LA (22121)	1983	169	20,019	844.2
+West Baton Rouge Parish, LA (22121)	1984	143	20,221	707.2
+West Baton Rouge Parish, LA (22121)	1985	140	20,243	691.6
+West Baton Rouge Parish, LA (22121)	1986	159	20,237	785.7
+West Baton Rouge Parish, LA (22121)	1987	152	19,834	766.4
+West Baton Rouge Parish, LA (22121)	1988	170	19,757	860.5
+West Baton Rouge Parish, LA (22121)	1989	168	19,705	852.6
+West Baton Rouge Parish, LA (22121)	1990	155	19,426	797.9
+West Baton Rouge Parish, LA (22121)	1991	173	19,701	878.1
+West Baton Rouge Parish, LA (22121)	1992	171	19,985	855.6
+West Baton Rouge Parish, LA (22121)	1993	149	20,393	730.6
+West Baton Rouge Parish, LA (22121)	1994	141	20,572	685.4
+West Baton Rouge Parish, LA (22121)	1995	174	20,927	831.5
+West Baton Rouge Parish, LA (22121)	1996	157	21,276	737.9
+West Baton Rouge Parish, LA (22121)	1997	189	21,337	885.8
+West Baton Rouge Parish, LA (22121)	1998	176	21,680	811.8
+West Baton Rouge Parish, LA (22121)	Total	3,160	402,422	785.2
+West Carroll Parish, LA (22123)	1979	146	12,998	1,123.2
+West Carroll Parish, LA (22123)	1980	126	12,974	971.2
+West Carroll Parish, LA (22123)	1981	138	13,074	1,055.5
+West Carroll Parish, LA (22123)	1982	136	12,915	1,053.0
+West Carroll Parish, LA (22123)	1983	138	12,923	1,067.9
+West Carroll Parish, LA (22123)	1984	125	12,780	978.1
+West Carroll Parish, LA (22123)	1985	156	12,834	1,215.5
+West Carroll Parish, LA (22123)	1986	156	12,615	1,236.6
+West Carroll Parish, LA (22123)	1987	163	12,401	1,314.4
+West Carroll Parish, LA (22123)	1988	157	12,273	1,279.2
+West Carroll Parish, LA (22123)	1989	132	12,133	1,087.9
+West Carroll Parish, LA (22123)	1990	160	12,064	1,326.3
+West Carroll Parish, LA (22123)	1991	146	12,183	1,198.4
+West Carroll Parish, LA (22123)	1992	130	12,082	1,076.0
+West Carroll Parish, LA (22123)	1993	133	12,183	1,091.7
+West Carroll Parish, LA (22123)	1994	159	11,975	1,327.8
+West Carroll Parish, LA (22123)	1995	142	12,096	1,173.9
+West Carroll Parish, LA (22123)	1996	138	12,330	1,119.2
+West Carroll Parish, LA (22123)	1997	148	12,322	1,201.1
+West Carroll Parish, LA (22123)	1998	169	12,346	1,368.9
+West Carroll Parish, LA (22123)	Total	2,898	249,501	1,161.5
+West Feliciana Parish, LA (22125)	1979	74	11,558	640.2
+West Feliciana Parish, LA (22125)	1980	64	12,206	524.3
+West Feliciana Parish, LA (22125)	1981	84	12,559	668.8
+West Feliciana Parish, LA (22125)	1982	62	12,832	483.2
+West Feliciana Parish, LA (22125)	1983	63	13,225	476.4
+West Feliciana Parish, LA (22125)	1984	46	13,440	342.3
+West Feliciana Parish, LA (22125)	1985	55	13,178	417.4
+West Feliciana Parish, LA (22125)	1986	70	13,263	527.8
+West Feliciana Parish, LA (22125)	1987	60	12,872	466.1
+West Feliciana Parish, LA (22125)	1988	73	13,073	558.4
+West Feliciana Parish, LA (22125)	1989	72	13,023	552.9
+West Feliciana Parish, LA (22125)	1990	80	12,896	620.3
+West Feliciana Parish, LA (22125)	1991	78	13,013	599.4
+West Feliciana Parish, LA (22125)	1992	82	13,308	616.2
+West Feliciana Parish, LA (22125)	1993	86	13,375	643.0
+West Feliciana Parish, LA (22125)	1994	78	13,124	594.3
+West Feliciana Parish, LA (22125)	1995	86	13,233	649.9
+West Feliciana Parish, LA (22125)	1996	91	13,831	657.9
+West Feliciana Parish, LA (22125)	1997	80	14,034	570.0
+West Feliciana Parish, LA (22125)	1998	80	14,570	549.1
+West Feliciana Parish, LA (22125)	Total	1,464	262,613	557.5
+Winn Parish, LA (22127)	1979	229	17,211	1,330.5
+Winn Parish, LA (22127)	1980	253	17,252	1,466.5
+Winn Parish, LA (22127)	1981	226	17,406	1,298.4
+Winn Parish, LA (22127)	1982	205	17,502	1,171.3
+Winn Parish, LA (22127)	1983	181	17,328	1,044.6
+Winn Parish, LA (22127)	1984	178	17,148	1,038.0
+Winn Parish, LA (22127)	1985	209	16,874	1,238.6
+Winn Parish, LA (22127)	1986	200	17,011	1,175.7
+Winn Parish, LA (22127)	1987	166	16,776	989.5
+Winn Parish, LA (22127)	1988	185	16,459	1,124.0
+Winn Parish, LA (22127)	1989	184	16,412	1,121.1
+Winn Parish, LA (22127)	1990	187	16,297	1,147.5
+Winn Parish, LA (22127)	1991	176	16,298	1,079.9
+Winn Parish, LA (22127)	1992	155	16,637	931.7
+Winn Parish, LA (22127)	1993	217	17,325	1,252.5
+Winn Parish, LA (22127)	1994	168	17,468	961.8
+Winn Parish, LA (22127)	1995	200	17,506	1,142.5
+Winn Parish, LA (22127)	1996	195	17,559	1,110.5
+Winn Parish, LA (22127)	1997	226	17,377	1,300.6
+Winn Parish, LA (22127)	1998	182	17,219	1,057.0
+Winn Parish, LA (22127)	Total	3,922	341,065	1,149.9
+Total		751,223	86,617,921	867.3
